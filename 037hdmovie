@@ -1,0 +1,30 @@
+		{
+        "name": "037hdmovie",
+        "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+        "groups": [
+		{
+		"name": "Home",
+		"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/037hdmovie_.w3u",
+			"import":"true"
+		},
+		{
+		"name": "037hdmovie หนังใหม่ 2024",
+		"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/037hdmovie_หนังใหม่-2024.w3u",
+			"import":"true"
+		},
+		{
+		"name": "037hdmovie หนังใหม่ 2023",
+		"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/037hdmovie_หนังใหม่-2023.w3u",
+			"import":"true"
+		},
+		{
+		"name": "ดูซีรีย์ออนไลน์",
+		"image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/doowiseplayfree/main/main/037hdmovie_ดูซีรีย์.w3u",
+			"import":"true"
+		},
+	  ]
+	},
