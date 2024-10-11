@@ -85,35 +85,30 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "stations": [
 {
 "name":"Le Grand Chef 2: Kimchi Battle (Sik-gaek: Kim-chi-jeon-jaeng) บิ๊กกุ๊กศึกโลกันตร์ 2 ประลองกิมจิ (2010)",
-"info": "HD th 6.1",
 "image":"https://img.inwiptv.net/postor/20180607074250le-grand-chef-2-kimchi-battle.42247.jpg",
 "url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2-Kimchi-Battle-2010/Le-Grand-Chef-2-Kimchi-Battle-2010-TH-720p.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 {
 "name":"Le Grand Chef (Sik-gaek) บิ๊กกุ๊กศึกโลกันตร์ (2007)",
-"info": "HD th 6.6",
 "image":"https://img.inwiptv.net/postor/20180607065001fullsizephoto799387.jpg",
 "url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2007/Le-Grand-Chef-2007-TH-480p.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 {
 "name":"Kung-fu Chefs (Gong fu chu shen) กุ๊กเทวดา กังฟูใหญ่ฟัดใหญ่ (2009)",
-"info": "HD th 5.2",
 "image":"https://img.inwiptv.net/postor/20181020080414photo.jpeg",
 "url":"https://m1free.inwstream.com:1936/movie3/Kung-Fu-Chefs-2009/Kung-Fu-Chefs-2009-TH-480p.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 {
 "name":"The Chef เดอะ เชฟ ศึกกระทะเหล็ก (2012)",
-"info": "HD th 6.7",
 "image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B9%80%E0%B8%8A%E0%B8%9F%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%20(2012).jpg",
 "url":"https://m1free.inwstream.com:1936/movie2/the_chef_2012/the_chef_2012_th_480p_fw.m4v/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 {
 "name":"Chef 2014",
-"info": "HD th 7.3",
 "image":"https://img.inwiptv.net/postor/20200407152743Chef%202014.jpg",
 "url":"https://m1free.inwstream.com:1936/movie2/chef_2014/chef_2014_th_1080p_fw.m4v/chunk.m3u8",
 "referer": "https://fw4free.com/"
@@ -143,7 +138,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 "image":"https://www.kubhd.com/wp-content/uploads/2024/01/River-Of-No-Return-1954-e1704250164490.webp",
 "url":"https://hplay.hdplayfull.xyz/1839fd59-a2e7-4393-8548-8289b5f37f65/_",
 "referer": "https://www.kubhd.com/"
-}
+},
 {
 "name":"The Prince and the Showgirl (1957)",
 "image":"https://doomovie.online/wp-content/uploads/2021/09/The-Prince-and-the-Showgirl-1957.jpg",
