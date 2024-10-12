@@ -297,6 +297,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "Hercules (2014) เฮอร์คิวลีส",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
+   "stations": [
+    {
+     "name": "Hercules (2014) เฮอร์คิวลีส",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
+     "url": "https://hplay.hdplayfull.xyz/e1344de4-62f8-4b27-b9eb-5eebe0509a9c/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
   {
    "name": "Technoboys เทคโนบอยส์ (2024)",
    "info": "Sound Track 2024",
