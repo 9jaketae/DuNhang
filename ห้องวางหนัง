@@ -86,6 +86,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "The Platform",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+   "stations": [
+    {
+     "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+     "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/The_Platform_2_(El_hoyo_2)_(2024)_เดอะ_แพลตฟอร์ม_2.webp",
+     "url": "https://live.lnwplayer.com/hls/3acbfbd7-d2ee-4ae1-89e1-69e32f70acab/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+ {
    "name": "Chef Movies Collection",
    "info": "HD",
    "image": "https://i.pinimg.com/564x/a6/f2/0f/a6f20f0d2bd792485d8bbc3d796b0590.jpg",
