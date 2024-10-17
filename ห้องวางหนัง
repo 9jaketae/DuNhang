@@ -1244,6 +1244,84 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "The Da Vinci Code (2006) รหัสลับระทึกโลก",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Da-Vinci-Code-2006-รหัสลับระทึกโลก.jpg-345x522.webp",
+   "stations": [
+    {
+     "name": "The Da Vinci Code (2006) รหัสลับระทึกโลก",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Da-Vinci-Code-2006-รหัสลับระทึกโลก.jpg-345x522.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/dad4258f3d79bc5150efc13d7988b2c1/video/800p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "ndependence Day",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/Independence-Day-1996-ไอดี-4-สงครามวันดับโลก.jpg-345x522.webp",
+   "stations": [
+    {
+     "name": "Independence Day (1996) ไอดี 4 สงครามวันดับโลก",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/Independence-Day-1996-ไอดี-4-สงครามวันดับโลก.jpg-345x522.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/fb327980b197f9fc86828988e1aa6119/video/814p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "Independence Day 2: Resurgence ไอดี 4: สงครามใหม่วันบดโลก (2016)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2019/04/194.jpg",
+     "url": "https://ezycdn.com/playlist-9lcrrdl8-SD.m3u8",
+     "referer": "https://doomovie.online/"
+    }
+   ]
+  },
+ {
+   "name": "Ready Player One (2018) สงครามเกมคนอัจฉริยะ",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/Ready-Player-One-2018-สงครามเกมคนอัจฉริยะ.jpg-345x522.webp",
+   "stations": [
+    {
+     "name": "Ready Player One (2018) สงครามเกมคนอัจฉริยะ",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/Ready-Player-One-2018-สงครามเกมคนอัจฉริยะ.jpg-345x522.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/8212d90ad1a8ce83a9f658a27ba92958/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+
+ {
+   "name": "I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/I-Am-Legend-2007-ไอ-แอม-เลเจนด์-ข้าคือตำนานพิฆาตมหากาฬ.jpg-345x522.webp",
+   "stations": [
+    {
+     "name": "I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/I-Am-Legend-2007-ไอ-แอม-เลเจนด์-ข้าคือตำนานพิฆาตมหากาฬ.jpg-345x522.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/e97866d0a4aa259322011092b380a194/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "Batman The Dark Knight (2008) แบทแมน ภาค 2",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/Batman-2-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg.webp",
+   "stations": [
+    {
+     "name": "Batman The Dark Knight (2008) แบทแมน ภาค 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/Batman-2-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/392f417558c8a2d63719e51a46185c7e/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
   {
    "name": "Justice League (2017)",
    "info": "HD th 5.3",
@@ -1255,38 +1333,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
      "url": "https://hplay.hdplayfull.xyz/1e3bf173-a35a-485a-ac89-2f340a6219fb/_",
      "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
-
-
-####################31/08/67###################
-
- {
-   "name": "ทะลักจุดแตก Hard Boiled (1992)",
-   "info": "เสียงไทย 2024",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/lashou_shentan-927183467-large-200x300.jpg",
-   "stations": [
-    {
-     "name": "ทะลักจุดแตก Hard Boiled (1992)",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/lashou_shentan-927183467-large-200x300.jpg",
-     "url": "https://hplay.hdplayfull.xyz/64ad5f24-36e9-45fc-9813-3ad8513bcbd1/_",
-     "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
- {
-   "name": "Love & Mercy (2014) คนคลั่งฝัน เพลงลั่นโลก",
-   "info": "เสียงไทย 2024",
-   "image": "https://fwiptv.tv/images/movie/Love_&_Mercy_(2014)_คนคลั่งฝัน_เพลงลั่นโลก.webp",
-   "stations": [
-    {
-     "name": "Love & Mercy (2014) คนคลั่งฝัน เพลงลั่นโลก",
-     "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/Love_&_Mercy_(2014)_คนคลั่งฝัน_เพลงลั่นโลก.webp",
-     "url": "https://live.lnwplayer.com/hls/c5721945-6091-4c25-ac9c-15a3dc7167fc/index.m3u8",
-     "referer": "https://fwiptv.tv/"
     }
    ]
   },
