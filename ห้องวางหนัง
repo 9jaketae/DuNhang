@@ -1293,7 +1293,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
+ {
+   "name": "The Prestige (2006) ศึกมายากลหยุดโลก",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/10/The-Prestige.webp",
+   "stations": [
+    {
+     "name": "The Prestige (2006) ศึกมายากลหยุดโลก",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/10/The-Prestige.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/117dd461a9b2901237a6058c16964f82/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
  {
    "name": "I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
    "info": "เสียงไทย",
