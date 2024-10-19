@@ -1349,6 +1349,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "Apocalypto (2006) ปิดตำนานอารยชน",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/10/Apocalypto.webp",
+   "stations": [
+    {
+     "name": "Apocalypto (2006) ปิดตำนานอารยชน",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/10/Apocalypto.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/60a9e9eec35bab14838b55cd709ff49b/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "Blood Diamond (2006) เทพบุตรเพชรสีเลือด",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/10/Blood-Diamond.webp",
+   "stations": [
+    {
+     "name": "Blood Diamond (2006) เทพบุตรเพชรสีเลือด",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/10/Blood-Diamond.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/2f43c002f160d690e59744fb18febf83/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/10/King-Arthur.webp",
+   "stations": [
+    {
+     "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/10/King-Arthur.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/c0fc5d4ebaa3a7198e001340edb60f4a/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
   {
    "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
    "info": "เสียงไทย 2024",
@@ -1372,9 +1414,5 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
  
 
-
-
-
- 
  ]
 }
