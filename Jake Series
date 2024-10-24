@@ -7,7 +7,7 @@
 
  {
    "name": "มเหสีขี้เหร่ จงอู๋เยี่ยน",
-   "info": "เสียงไทย",
+   "info": "China เสียงไทย",
    "image": "https://i.pinimg.com/564x/84/c4/24/84c4245c51c581a7495ebb71c8bbcd35.jpg",
    "stations": [
     {
@@ -42,7 +42,7 @@
   },
  {
    "name": "My Everlasting Bride (2023) เจ้าสาวพันธสัญญา",
-   "info": "เสียงไทย",
+   "info": "China เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2023/08/My-Everlasting-Bride-2023-เจ้าสาวพันธสัญญา-169x300.jpg",
    "stations": [
     {
@@ -217,7 +217,7 @@
     },
     {
    "name": "ภารกิจลับยัยนักต้มตุ๋น Delightfully Deceitful (2023)",
-   "info": "เสียงไทย",
+   "info": "Korea เสียงไทย",
    "image": "https://320hd.com/wp-content/uploads/2023/08/50450.jpg",
    "stations": [
     {
@@ -334,9 +334,128 @@
     }
    ]
   },
+  {
+   "name": "Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน",
+   "info": "Korea เสียงไทย",
+   "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+   "stations": [
+    {
+     "name": "EP 1 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f1035f85c10ed6e2e4081bea/f1035f85c10ed6e2e4081bea168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 2 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f7d1b0b29b4bd46e50478f78/f7d1b0b29b4bd46e50478f78168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 3 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/014b50730cac903af4f7cd18/014b50730cac903af4f7cd18168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 4 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/af9bcf36f1ea6522bfd1340c/af9bcf36f1ea6522bfd1340c168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 5 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/3c5b0f0a8fea4dde92e146fc/3c5b0f0a8fea4dde92e146fc168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 6 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f134ed7f611d166ca5487f58/f134ed7f611d166ca5487f58168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 7 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/ce36d50f266b2453275bbcae/ce36d50f266b2453275bbcae438.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 8 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e4c21adec95d91f27f13a456/e4c21adec95d91f27f13a456168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 9 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e9e43e5a02ed65e1f276f1a8/e9e43e5a02ed65e1f276f1a8168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 10 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/36e0e2e5cfc011b9150a3176/36e0e2e5cfc011b9150a3176168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 11 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/25a4c157c4cdf5a1aa5702f5/25a4c157c4cdf5a1aa5702f5168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 12 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/260595994ecdc8baa2622d19/260595994ecdc8baa2622d19168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 13 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c8c29b373c739d7d11edbef8/c8c29b373c739d7d11edbef8168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 14 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/718d058e74c34f21cb19170e/718d058e74c34f21cb19170e168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 15 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/577958b081170aea75868f7e/577958b081170aea75868f7e168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "EP 16 Crash Landing On You",
+     "info": "พากย์ไทย",
+     "image": "https://www.img08.xyz/assets/movie_poster/2/279287906a1b4e781ce4164aa2d00814.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e1db5c5ecf6c57b5828e7b8b/e1db5c5ecf6c57b5828e7b8b168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    }
+   ]
+  },
  {
    "name": "Gyeongseong Creature (2023) สัตว์สยองกยองซอง",
-   "info": "เสียงไทย",
+   "info": "Korea เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-203x300.jpg",
    "stations": [
     {
@@ -413,7 +532,7 @@
   },
  {
    "name": "Gyeongseong Creature 2 (2024) สัตว์สยองกยองซอง 2",
-   "info": "เสียงไทย",
+   "info": "Kporea เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2024/09/Gyeongseong-Creature-Season-2-2024-203x300.jpg",
    "stations": [
     {
@@ -469,7 +588,7 @@
   },
  {
    "name": "Durians Affair ข้ามภพมาพบเธอ",
-   "info": "เสียงไทย",
+   "info": "Korea เสียงไทย",
    "image": "https://upde.cc/storage/title-posters/2733a789-2edb-414b-89ba-4b5222095d16.jpg",
    "stations": [
     {
@@ -588,7 +707,7 @@
   },
  {
    "name": "My Love From The Star (2013) ยัยตัวร้ายกับนายต่างดาว",
-   "info": "เสียงไทย",
+   "info": "Korea เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2023/02/My-Love-From-The-Star-2013-191x300.jpg",
    "stations": [
     {
@@ -742,7 +861,7 @@
     },
  {
    "name": "Queen Insoo อินซู จอมนางบัลลังก์เลือด ตอนที่ 1-90 [จบ]",
-   "info": "เสียงไทย",
+   "info": "Korea เสียงไทย",
    "image": "https://deejung-series.com/uploads/a84e8bdbed910be2600b5dd8c855d803.jpg",
    "stations": [
     {
@@ -2030,7 +2149,7 @@
 
     {
    "name": "Castle in the Time (2023) ละลายหัวใจด้วยไออุ่นรัก",
-   "info": "เสียงไทย",
+   "info": "China เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2024/01/Castle-in-the-Time-2023-200x300.jpg",
    "stations": [
     {
@@ -2303,7 +2422,7 @@
           },
           {
             "name": "Marry Me (2020) – สามคราวิวาห์รัก (พากย์ไทย)",
-            "author": "11-06-2024",
+            "author": "China 11-06-2024",
             "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/05/Marry-Me-2020-สามคราวิวาห์รัก-พากย์ไทย.jpg?resize=200,300",
             "stations": [
                 {
@@ -2520,7 +2639,7 @@
                },
                {
    "name": "เมียข้าจอมบงการ My Bossy Sweet Wife (2024)",
-   "info": "เสียงไทย",
+   "info": "China เสียงไทย",
    "image": "https://series-full.com/wp-content/uploads/2024/10/เมียข้าจอมบงการ-11-270x379.jpg",
    "stations": [
     {
