@@ -926,6 +926,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "Mannequin เทวดาทำหล่น",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
+   "stations": [
+    {
+     "name": "Mannequin 1 (1987) เทวดาทำหล่น 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
+     "url": "https://hplay.hdplayfull.xyz/2f27b0de-0b4b-4dcc-ac0b-0d52a5005ed5/_",
+     "referer": "https://www.kubhd.com/"
+    },
+    {
+     "name": "Mannequin 2 On the Move (1991) เทวดาทำหล่น ภาค2",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Mannequin-2-On-the-Move-1991.webp",
+     "url": "https://hlsp2p.xyz/view/4a3bfd5f-3436-5de5-967e-f5be457f80aa.m3u8",
+     "referer": "https://www.037hdmovie.com/"
+    }
+   ]
+  },
   {
    "name": "Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)",
    "info": "เสียงไทย 2024",
