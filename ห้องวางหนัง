@@ -201,6 +201,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
+   "stations": [
+    {
+     "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
+     "url": "https://live.lnwplayer.com/hls/915c509c-2d1e-4822-9878-8352cf3ea874/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
   {
    "name": "Trouble ผิดที่ ผิดทาง (2024",
    "info": "เสียงไทย 2024",
