@@ -1469,6 +1469,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "ปู่ผี พ่อนักเลง ลูกกลิ้ง The Gambling Ghost (1991)",
+   "info": "หนังฮ่องกง เสียงไทย",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Gambling-Ghost-1991.jpg",
+   "stations": [
+    {
+     "name": "ปู่ผี พ่อนักเลง ลูกกลิ้ง The Gambling Ghost (1991)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Gambling-Ghost-1991.jpg",
+     "url": "https://streamhls.com/view/223b7108-2d9c-55ee-8194-d21c6d18ec03.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+ {
    "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
    "info": "เสียงไทย",
    "image": "https://movie2free.tv/wp-content/uploads/2024/10/King-Arthur.webp",
