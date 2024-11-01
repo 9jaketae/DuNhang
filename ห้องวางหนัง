@@ -7,21 +7,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 
 "groups": [
 
-########################################################
-  {
-   "name": "ธี่หยด 2 Death Whisperer 2 (2024)",
-   "info": "หนังไทย zoom",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/10/Death-Whisperer-2.webp",
-   "stations": [
-    {
-     "name": "ธี่หยด 2 Death Whisperer 2 (2024)",
-     "info": "หนังไทย ซูมโรง",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/10/Death-Whisperer-2.webp",
-     "url": "https://stream1.movie2free.tv/cdn/down/d4791597b8488186c793fbff4aafb04d/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
    {
    "name": "Movies Collection",
    "info": "รวมหนังน่าดู",
@@ -145,7 +130,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 },
 {
 "name":"The Chef เดอะ เชฟ ศึกกระทะเหล็ก (2012)",
-"image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B9%80%E0%B8%8A%E0%B8%9F%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%20(2012).jpg",
+"image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20เดอะ%20เชฟ%20ศึกกระทะเหล็ก%20(2012).jpg",
 "url":"https://m1free.inwstream.com:1936/movie2/the_chef_2012/the_chef_2012_th_480p_fw.m4v/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
@@ -201,6 +186,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+########################################################
+ {
+   "name": "Time Cut (2024) เจาะเวลาฆ่าอดีต",
+   "info": "หนังฝรั่ง เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/Time_Cut_(2024)_เจาะเวลาฆ่าอดีต.webp",
+   "stations": [
+    {
+     "name": "Time Cut (2024) เจาะเวลาฆ่าอดีต",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/Time_Cut_(2024)_เจาะเวลาฆ่าอดีต.webp",
+     "url": "https://live.lnwplayer.com/hls/7ad12675-a128-4b86-920e-1e857506bc06/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
  {
    "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
    "info": "เสียงไทย",
@@ -212,6 +212,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
      "url": "https://live.lnwplayer.com/hls/915c509c-2d1e-4822-9878-8352cf3ea874/index.m3u8",
      "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
+   "name": "ธี่หยด 2 Death Whisperer 2 (2024)",
+   "info": "หนังไทย zoom",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/10/Death-Whisperer-2.webp",
+   "stations": [
+    {
+     "name": "ธี่หยด 2 Death Whisperer 2 (2024)",
+     "info": "หนังไทย ซูมโรง",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/10/Death-Whisperer-2.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/d4791597b8488186c793fbff4aafb04d/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
     }
    ]
   },
