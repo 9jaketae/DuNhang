@@ -187,7 +187,22 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
 ########################################################
+
  {
+   "name": "Family Pack เกมมนุษย์หมาป่า (2024)",
+   "info": "หนังฝรั่ง เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/10/Family-Pack-เกมมนุษย์หมาป่า-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "Family Pack เกมมนุษย์หมาป่า (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/10/Family-Pack-เกมมนุษย์หมาป่า-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/081da4c502c6e865ccfe4a52/081da4c502c6e865ccfe4a52168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Time Cut (2024) เจาะเวลาฆ่าอดีต",
    "info": "หนังฝรั่ง เสียงไทย",
    "image": "https://fwiptv.tv/images/movie/Time_Cut_(2024)_เจาะเวลาฆ่าอดีต.webp",
