@@ -106,6 +106,41 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "หนัง DC Universe (Superman)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-187x269.jpg",
+   "stations": [
+    {
+     "name": "Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/79536154af21ab5610ac1c86/79536154af21ab5610ac1c86438.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Batman-v-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/7829b52aeb3aebea281d2052/7829b52aeb3aebea281d2052168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Justice League (2017)",
+     "info": "พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
+     "url": "https://hplay.hdplayfull.xyz/1e3bf173-a35a-485a-ac89-2f340a6219fb/_",
+     "referer": "https://www.kubhd.com/"
+    },
+    {
+     "name": "Zack Snyder’s Justice League (2021)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Zack-Snyders-Justice-League-2021-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/b709b14058ce60e66977b1b4/b709b14058ce60e66977b1b4168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
    "name": "Chef Movies Collection",
    "info": "HD",
    "image": "https://i.pinimg.com/564x/a6/f2/0f/a6f20f0d2bd792485d8bbc3d796b0590.jpg",
@@ -1452,20 +1487,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://movie2free.tv/wp-content/uploads/2023/12/Batman-2-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg.webp",
      "url": "https://stream1.movie2free.tv/cdn/down/392f417558c8a2d63719e51a46185c7e/video/630p.m3u8",
      "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
-  {
-   "name": "Justice League (2017)",
-   "info": "HD th 5.3",
-   "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
-   "stations": [
-    {
-     "name": "Justice League (2017)",
-     "info": "พากย์ไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
-     "url": "https://hplay.hdplayfull.xyz/1e3bf173-a35a-485a-ac89-2f340a6219fb/_",
-     "referer": "https://www.kubhd.com/"
     }
    ]
   },
