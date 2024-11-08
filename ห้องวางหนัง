@@ -224,6 +224,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
  {
+   "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
+   "stations": [
+    {
+     "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
+     "url": "https://live.lnwplayer.com/hls/915c509c-2d1e-4822-9878-8352cf3ea874/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+ {
+   "name": "Absolution (2024) คนสันดานเดือด",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/Absolution_(2024)_คนสันดานเดือด.webp",
+   "stations": [
+    {
+     "name": "Absolution (2024) คนสันดานเดือด",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/Absolution_(2024)_คนสันดานเดือด.webp",
+     "url": "https://live.lnwplayer.com/hls/cc1ca0ab-9b92-4361-a4b3-b307f751318e/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+ {
    "name": "Family Pack เกมมนุษย์หมาป่า (2024)",
    "info": "หนังฝรั่ง เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/10/Family-Pack-เกมมนุษย์หมาป่า-2024-187x269.jpg",
