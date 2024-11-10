@@ -332,6 +332,13 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.fwiptv.tv/images/movie/Legend_(2024)_พลิกตำนานฟัดทะลุเวลา.webp",
      "url": "https://live.lnwplayer.com/hls/35b76835-610e-458f-842d-5c1fd8749928/index.m3u8",
      "referer": "https://www.fwiptv.tv/"
+    },
+    {
+     "name": "The Myth (2005) ดาบทะลุฟ้า ฟัดทะลุเวลา",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/01/The-Myth-2005-ดาบทะลุฟ้า-ฟัดทะลุเวลา-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/4d19f897283f50110e41f6bb/4d19f897283f50110e41f6bb168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
