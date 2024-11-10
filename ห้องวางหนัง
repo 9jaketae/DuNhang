@@ -224,6 +224,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
  {
+   "name": "Red One (2024) เรด วัน",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/Red_One_(2024).webp",
+   "stations": [
+    {
+     "name": "Red One (2024) เรด วัน",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/Red_One_(2024).webp",
+     "url": "https://live.lnwplayer.com/hls/dd0ff977-ea52-460f-b509-e8db826d41ee/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+ {
+   "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
+   "info": "เสียงไทย",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2024/08/Alien-Romulus-2024.jpg",
+   "stations": [
+    {
+     "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/08/Alien-Romulus-2024.jpg",
+     "url": "https://stream1.movie2free.tv/cdn/down/e084956a94dbd963f8d7df402ad12b0b/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
    "name": "Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024)",
    "info": "เสียงไทย",
    "image": "https://fwiptv.tv/images/movie/Venom_The_Last_Dance.webp",
