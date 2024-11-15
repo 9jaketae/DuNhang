@@ -1679,6 +1679,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "300: Rise of an Empire (2014) 300: มหาศึกกำเนิดอาณาจักร",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/11/300-Rise-of-an-Empire.webp",
+   "stations": [
+    {
+     "name": "300: Rise of an Empire (2014) 300: มหาศึกกำเนิดอาณาจักร",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/300-Rise-of-an-Empire.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/300f7970b431030648ea93bed4e6a821/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
   {
    "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
    "info": "เสียงไทย",
