@@ -224,6 +224,28 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
  {
+   "name": "Gladiator  (2024) นักรบผู้กล้า ผ่าแผ่นดินทรราช",
+   "info": "เสียงไทย",
+   "image": "https://www.hd-2u.com/wp-content/uploads/2024/11/Gladiator-II-2024.webp",
+   "stations": [
+    {
+     "name": "Gladiator II (2024) นักรบผู้กล้า ผ่าแผ่นดินทรราช 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.hd-2u.com/wp-content/uploads/2024/11/Gladiator-II-2024.webp",
+     "url": "https://m4-txt-2.xdomovie247.com/playlist2/detail/c0231dc8JxTzh/1080/hls/index.m3u8",
+     "referer": "https://www.hd-2u.com/"
+    },
+    {
+     "name": "Gladiator 1 (2000) กลาดิเอเตอร์ นักรบผู้กล้า ผ่าแผ่นดินทรราช 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Gladiator-2000-กลาดิเอเตอร์-นักรบผู้กล้า-ผ่าแผ่นดินทรราช-300x450.png",
+     "url": "https://main.24playerhd.com/m3u8/6693f7ccbb93ec730f91b226/6693f7ccbb93ec730f91b226168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+
+ {
    "name": "Ford v Ferrari (2019) ใหญ่ชนยักษ์ ซิ่งทะลุไมล์",
    "info": "IMDb8.1 เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Ford-v-Ferrari-2019-ใหญ่ชนยักษ์-ซิ่งทะลุไมล์-187x269.jpg",
