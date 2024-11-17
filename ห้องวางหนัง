@@ -1527,6 +1527,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c39c15f38c33254301effa05/c39c15f38c33254301effa05168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "My Girl (1991) หัวใจกระเตาะ จะไม่โดดเดี่ยว ",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/My-Girl-1991-หัวใจกระเตาะ-จะไม่โดดเดี่ยว.jpg-345x522.webp",
+   "stations": [
+    {
+     "name": "My Girl (1991) หัวใจกระเตาะ จะไม่โดดเดี่ยว ",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/My-Girl-1991-หัวใจกระเตาะ-จะไม่โดดเดี่ยว.jpg-345x522.webp",
+     "url": "https://stream1.movie2free.tv/cdn/master/05cd4122525042fa715ac498419427e3/master.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
    "name": "The Black Phone (2021) สายหลอน ซ่อนวิญญาณ",
    "info": "เสียงไทย",
    "image": "https://www.vojkuhd.com/wp-content/uploads/2023/05/The-Black-Phone-2021.jpg",
