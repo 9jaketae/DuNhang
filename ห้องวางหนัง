@@ -1750,20 +1750,29 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+
  {
-   "name": "เที่ยวบินผี Dark Flight 407 (2012)",
+   "name": "Confidential Assignment คู่จารชน คนอึนมึน",
    "info": "เสียงไทย",
-   "image": "https://movie285.com/wp-content/uploads/2019/11/3198.jpg",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Confidential-Assignment-2017-คู่จารชน-คนอึนมึน-187x269.jpg",
    "stations": [
     {
-     "name": "เที่ยวบินผี Dark Flight 407 (2012)",
+     "name": "Confidential Assignment (2017) คู่จารชน คนอึนมึน",
      "info": "พากย์ไทย",
-     "image": "https://movie285.com/wp-content/uploads/2019/11/3198.jpg",
-     "url": "https://ezycdn.com/playlist-vc13i14k-SD.m3u8",
-     "referer": "https://24-hd.tv/"
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Confidential-Assignment-2017-คู่จารชน-คนอึนมึน-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/d6e731ddd4fd6438678f0e4e/d6e731ddd4fd6438678f0e4e168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Confidential Assignment 2 International (2022) จารชนโอปป้า รั่วส์ข้ามโลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Confidential-Assignment-2-2022-จารชนโอปป้า-รั่วส์ข้ามโลก-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f36c10d5e4154b890c31a255/f36c10d5e4154b890c31a255168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
+
   {
    "name": "The Negotiation (2018)",
    "info": "เสียงไทย",
