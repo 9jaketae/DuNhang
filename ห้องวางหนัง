@@ -1757,6 +1757,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+ {
+   "name": "The Sorcerer’s Apprentice (2010) ศึกอภินิหารพ่อมดถล่มโลก",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/12/The-Sorcerers-Apprentice-2010-187x269.png",
+   "stations": [
+    {
+     "name": "The Sorcerer’s Apprentice (2010) ศึกอภินิหารพ่อมดถล่มโลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/12/The-Sorcerers-Apprentice-2010-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/eed90dfbbcb70173769dcd88/eed90dfbbcb70173769dcd88168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
   {
    "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
    "info": "เสียงไทย",
