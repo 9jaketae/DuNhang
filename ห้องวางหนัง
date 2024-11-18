@@ -1527,6 +1527,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "Hanna (2011) เหี้ยมบริสุทธิ์",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Hanna-2011-เหี้ยมบริสุทธิ์-187x269.jpg",
+   "stations": [
+    {
+     "name": "Hanna (2011) เหี้ยมบริสุทธิ์",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Hanna-2011-เหี้ยมบริสุทธิ์-187x269.jpg",
+     "url": "https://hot.24playerhd.com/ioshls/477995be3c5523abef24774f534b148f/477995be3c5523abef24774f534b148f.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
    "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
    "info": "เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
