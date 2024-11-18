@@ -358,6 +358,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
+   "name": "Oddity (2024) หุ่นเชื่อมจิต",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2024/07/Oddity-2024.webp",
+   "stations": [
+    {
+     "name": "Oddity (2024) หุ่นเชื่อมจิต",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2024/07/Oddity-2024.webp",
+     "url": "https://hplay.hdplayfull.xyz/c2c385c9-b0d6-4b39-a53a-b8ee424c2aec/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2024/09/Never-Let-Go-2024-e1727058324181.webp",
+   "stations": [
+    {
+     "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2024/09/Never-Let-Go-2024-e1727058324181.webp",
+     "url": "https://main.24playerhd.com/m3u8/1a1c42e7d4ce99281a7dfae7/1a1c42e7d4ce99281a7dfae7168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
    "name": "Legend (2024) พลิกตำนานฟัดทะลุเวลา",
    "info": "เสียงไทย",
    "image": "https://www.fwiptv.tv/images/movie/Legend_(2024)_พลิกตำนานฟัดทะลุเวลา.webp",
