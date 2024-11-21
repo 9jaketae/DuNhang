@@ -678,6 +678,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Get Fast (2024)",
+"info": "HD en n/a",
+   "image": "https://fwiptv.tv/images/movie/Get_Fast_(2024).webp",
+   "stations": [
+    {
+     "name": "Get Fast (2024)",
+     "info": "ซับไทย",
+     "image": "https://fwiptv.tv/images/movie/Get_Fast_(2024).webp",
+     "url": "https://live.lnwplayer.com/hls/f6f6f73e-b76f-4bb4-ba06-fc0aead4e726/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
    "name": "Technoboys เทคโนบอยส์ (2024)",
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Technoboys-เทคโนบอยส์-2024.jpg",
@@ -1638,6 +1652,35 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "The Cabin in the Woods (2012) แย่งตาย ทะลุตาย",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/01/The-Cabin-in-the-Woods-แย่งตาย-ทะลุตาย-187x269.jpg",
+   "stations": [
+    {
+     "name": "The Cabin in the Woods (2012) แย่งตาย ทะลุตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/01/The-Cabin-in-the-Woods-แย่งตาย-ทะลุตาย-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/035ef47322b87b15a8871d6c/035ef47322b87b15a8871d6c168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Aeronauts (2019) ท่องสู่แดนแห่งความฝัน",
+   "info": "HD en n/a",
+   "image": "https://fwiptv.tv/images/movie/20191220102856the-aeronauts-5d77a62812b6e.jpg",
+   "stations": [
+    {
+     "name": "The Aeronauts (2019) ท่องสู่แดนแห่งความฝัน",
+     "info": "ซับไทย",
+     "image": "https://fwiptv.tv/images/movie/20191220102856the-aeronauts-5d77a62812b6e.jpg",
+     "url": "https://live.lnwplayer.com/hls/1c58b667-e4e5-4213-9db5-0563c284df72/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+
  {
    "name": "My Girl (1991) หัวใจกระเตาะ จะไม่โดดเดี่ยว ",
    "info": "เสียงไทย",
