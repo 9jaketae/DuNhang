@@ -1610,6 +1610,90 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "The Merry Gentlemen (2024) เดอะ เมอร์รี่ เจนเทิลแมน",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/The_Merry_Gentlemen_(2024)_เดอะ_เมอร์รี่_เจนเทิลแมน.webp",
+   "stations": [
+    {
+     "name": "The Merry Gentlemen (2024) เดอะ เมอร์รี่ เจนเทิลแมน",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/The_Merry_Gentlemen_(2024)_เดอะ_เมอร์รี่_เจนเทิลแมน.webp",
+     "url": "https://live.lnwplayer.com/hls/32251082-0987-4caa-81ad-6576d28de182/index.m3u8",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Alita Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Alita-Battle-Angel-2019-อลิตา-แบทเทิล-แองเจิ้ล-187x269.jpg",
+   "stations": [
+    {
+     "name": "Alita Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Alita-Battle-Angel-2019-อลิตา-แบทเทิล-แองเจิ้ล-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/acb9727b70e300d0bc751ce7/acb9727b70e300d0bc751ce7168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Honey, I Shrunk the Kids 4 จิ๋วพลิกมิติมหัศจรรย์ (1989)",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/20170409085700honey_shrunk_kids.jpg",
+   "stations": [
+    {
+     "name": "Honey, I Shrunk the Kids 4 จิ๋วพลิกมิติมหัศจรรย์ (1989)",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/20170409085700honey_shrunk_kids.jpg",
+     "url": "https://admin-play.com/cdn/hls/21e90a8705218ba0a61f0a85c0fdd646/1/index-v1-a1.txt?s=1",
+     "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Devotion (2022)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Devotion-2022-187x269.jpg",
+   "stations": [
+    {
+     "name": "Devotion (2022)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Devotion-2022-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e98a5c78ff501c245b92ee0f/e98a5c78ff501c245b92ee0f168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Project Wolf Hunting (2022) เรือคลั่งเกมล่าเดนมนุษย์",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Project-Wolf-Hunting-2022-เรือคลั่งเกมล่าเดนมนุษย์-300x450.png",
+   "stations": [
+    {
+     "name": "Project Wolf Hunting (2022) เรือคลั่งเกมล่าเดนมนุษย์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Project-Wolf-Hunting-2022-เรือคลั่งเกมล่าเดนมนุษย์-300x450.png",
+     "url": "https://main.24playerhd.com/m3u8/a3edacc396372a87a078a46b/a3edacc396372a87a078a46b168.m3u8",
+     "referer": "https://www.123-hd.com/"
+     }
+   ]
+  },
+  {
+   "name": "The Interview (2014) บ่มแผนบ้าไปฆ่าผู้นำ",
+   "info": "เสียงไทย",
+   "image": "https://ชอบหนัง.com/wp-content/uploads/2022/04/The-Interview-2014.jpg",
+   "stations": [
+    {
+     "name": "The Interview (2014) บ่มแผนบ้าไปฆ่าผู้นำ",
+     "info": "พากย์ไทย",
+     "image": "https://ชอบหนัง.com/wp-content/uploads/2022/04/The-Interview-2014.jpg",
+     "url": "https://stream1.movie2free.tv/cdn/down/34ddc23221dd7b629eb96238dfcf52db/video/900p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
  {
    "name": "Hanna (2011) เหี้ยมบริสุทธิ์",
    "info": "เสียงไทย",
