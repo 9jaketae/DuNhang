@@ -1427,56 +1427,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Strange Darling รัก ลวง ฆ่า (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=df26755b80fbd903ec228ad1",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Strange Darling รัก ลวง ฆ่า (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=df26755b80fbd903ec228ad1",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Beetlejuice Beetlejuice บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-   "info": "เสียงไทย 2024",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-2.jpg",
-   "stations": [
-    {
-     "name": "Beetlejuice Beetlejuice บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-2.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=ec4b8c5ab23fea543200a597",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Beetlejuice Beetlejuice บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice-บีเทิลจู๊ดส์-บีเทิลจู๊ดส์-ผีขี้จุ้ย-2.jpg",
-     "url": "https://main.abcplays.com/index_g.html?id=ec4b8c5ab23fea543200a597",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "เธอฟอร์แคช Love You to Debt (2024)",
-   "info": "เสียงไทย 2024",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/เธอฟอร์แคช-Love-You-to-Debt-2024.jpg",
-   "stations": [
-    {
-     "name": "เธอฟอร์แคช Love You to Debt (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/เธอฟอร์แคช-Love-You-to-Debt-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=24476b90f41c9f34ffb82ef0",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "เธอฟอร์แคช Love You to Debt (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/เธอฟอร์แคช-Love-You-to-Debt-2024.jpg",
-     "url": "https://main.abcplays.com/index_g.html?id=24476b90f41c9f34ffb82ef0",
      "referer": "https://www.24-hd.com/"
     }
    ]
@@ -1621,6 +1572,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://fwiptv.tv/images/movie/The_Merry_Gentlemen_(2024)_เดอะ_เมอร์รี่_เจนเทิลแมน.webp",
      "url": "https://live.lnwplayer.com/hls/32251082-0987-4caa-81ad-6576d28de182/index.m3u8",
      "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Way Down (2021) หยุดโลกปล้น",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Way-Down-2021-หยุดโลกปล้น-300x450.png",
+   "stations": [
+    {
+     "name": "Way Down (2021) หยุดโลกปล้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Way-Down-2021-หยุดโลกปล้น-300x450.png",
+     "url": "https://hot.24playerhd.com/autoplaylist/739f109da087b71e4ca1ec1b43384167/739f109da087b71e4ca1ec1b43384167.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Way Down (2021) หยุดโลกปล้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Way-Down-2021-หยุดโลกปล้น-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/76edb9a30ad33f906f5827c6f4947c36/76edb9a30ad33f906f5827c6f4947c36.m3u8",
+     "referer": "https://www.123-hd.com/"
     }
    ]
   },
