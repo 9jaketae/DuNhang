@@ -223,6 +223,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
 ########################################################
 
+  {
+   "name": "Wicked Part I วิคเค็ด (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "Wicked Part I วิคเค็ด (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/1b8dd221608c103bdd3af723/1b8dd221608c103bdd3af723168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Trigger Warning (2024) ลั่นไกเตือน",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Trigger-Warning-2024-ลั่นไกเตือน-300x450.jpg",
+   "stations": [
+    {
+     "name": "Trigger Warning (2024) ลั่นไกเตือน",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Trigger-Warning-2024-ลั่นไกเตือน-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/56003b5ec5f66ab24d771c29/56003b5ec5f66ab24d771c29168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
  {
    "name": "Gladiator  (2024) นักรบผู้กล้า ผ่าแผ่นดินทรราช",
    "info": "เสียงไทย",
@@ -244,7 +272,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
  {
    "name": "Ford v Ferrari (2019) ใหญ่ชนยักษ์ ซิ่งทะลุไมล์",
    "info": "IMDb8.1 เสียงไทย",
@@ -2025,7 +2052,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
+  {
+   "name": "Ready or Not (2019) เกมพร้อมตาย",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Ready-or-Not-2019-เกมพร้อมตาย-187x269.jpg",
+   "stations": [
+    {
+     "name": "Ready or Not (2019) เกมพร้อมตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Ready-or-Not-2019-เกมพร้อมตาย-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/fd4b4f4df13203634225ac15/fd4b4f4df13203634225ac15168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
   {
    "name": "The Negotiation (2018)",
    "info": "เสียงไทย",
@@ -2037,6 +2077,41 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://fwiptv.tv/images/movie/201905100932071.jpg",
      "url": "https://live.lnwplayer.com/hls/3abe9136-d098-4b27-8954-ff23a6635d13/index.m3u8",
      "referer": "https://fwiptv.tv/"
+    }
+   ]
+  },
+  {
+   "name": "King Kong คิงคอง",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/03/King-Kong-2005-คิงคอง-187x269.jpg",
+   "stations": [
+    {
+     "name": "King Kong (2005) คิงคอง",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/03/King-Kong-2005-คิงคอง-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/a8d040e5e1dfda43f74209c0/a8d040e5e1dfda43f74209c0168.m3u8",
+     "referer": "https://www.24-hd.com/king-kong/"
+    },
+    {
+     "name": "Kong Skull Island (2017) คอง มหาภัยเกาะกะโหลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kong-Skull-Island-2017-คอง-มหาภัยเกาะกะโหลก-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f84eaa48eb3c4e362b8c74d5/f84eaa48eb3c4e362b8c74d5168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Godzilla vs Kong (2021) ก็อดซิลล่า ปะทะ คอง",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/02/Godzilla-vs-Kong-2021-ก็อดซิลล่า-ปะทะ-คอง-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/d270968004114b350624c039/d270968004114b350624c039168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+     "info": "เสียง ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/16c7aea31ac96ecfd2fd7fba/16c7aea31ac96ecfd2fd7fba168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
