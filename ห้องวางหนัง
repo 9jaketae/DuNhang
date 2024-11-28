@@ -2081,6 +2081,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Push (2009) พุช โคตรคนเหนือมนุษย์",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Push-2009-พุช-โคตรคนเหนือมนุษย์-187x269.jpg",
+   "stations": [
+    {
+     "name": "Push (2009) พุช โคตรคนเหนือมนุษย์",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Push-2009-พุช-โคตรคนเหนือมนุษย์-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/585bee480485f70f05036b3e/585bee480485f70f05036b3e168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "King Kong คิงคอง",
    "info": "เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2023/03/King-Kong-2005-คิงคอง-187x269.jpg",
