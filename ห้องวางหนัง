@@ -85,27 +85,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
-   "name": "The Platform",
-   "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
-   "stations": [
-    {
-     "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
-     "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
-     "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    },
-    {
-     "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
-     "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/The_Platform_2_(El_hoyo_2)_(2024)_เดอะ_แพลตฟอร์ม_2.webp",
-     "url": "https://live.lnwplayer.com/hls/3acbfbd7-d2ee-4ae1-89e1-69e32f70acab/index.m3u8",
-     "referer": "https://fwiptv.tv/"
-    }
-   ]
-  },
- {
    "name": "หนัง DC Universe (Superman)",
    "info": "เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-187x269.jpg",
@@ -218,6 +197,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 "image":"https://www.moviehdfree.net/wp-content/uploads/2021/08/Niagara-1953.jpg.webp",
 "url":"https://playermhd.p2phls.xyz/0558d316-601d-40ad-9098-83cc11f970c9/_",
 "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "Mamma Mia! มัมมา มีอา!",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
+   "stations": [
+    {
+     "name": "Mamma Mia! (2008) มัมมา มีอา! วิวาห์วุ่น ลุ้นหาพ่อ",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/e84065330dff960fc276722e827ccde0/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "Mamma Mia! Here We Go Again (2018) มัมมา มีอา! 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia-Here-We-Go-Again-2.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/9dee0ef0d0d2954319069f5a8db97cec/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "The Platform",
+   "info": "เสียงไทย",
+   "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+   "stations": [
+    {
+     "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+     "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "พากย์ไทย",
+     "image": "https://fwiptv.tv/images/movie/The_Platform_2_(El_hoyo_2)_(2024)_เดอะ_แพลตฟอร์ม_2.webp",
+     "url": "https://live.lnwplayer.com/hls/3acbfbd7-d2ee-4ae1-89e1-69e32f70acab/index.m3u8",
+     "referer": "https://fwiptv.tv/"
     }
    ]
   },
