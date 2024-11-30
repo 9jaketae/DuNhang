@@ -4,6 +4,70 @@
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
+  {
+   "name": "The Trunk (2024) ",
+   "info": "เสียงไทย",
+   "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+   "stations": [
+    {
+     "name": "The Trunk EP 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/db96d173b6f251d8ad777da5/db96d173b6f251d8ad777da5168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/bd37b757af5e6b74b03bcae2/bd37b757af5e6b74b03bcae2168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e35eaa32b42e8e2dcfbeea20/e35eaa32b42e8e2dcfbeea20168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/48d12e889bb93f8f813b533a/48d12e889bb93f8f813b533a168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/0d02286f84df736bb2f86ed2/0d02286f84df736bb2f86ed2168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e320b485ea3827d13889bc55/e320b485ea3827d13889bc55168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/453f90839923dcd5941f1a3e/453f90839923dcd5941f1a3e168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    },
+    {
+     "name": "The Trunk EP 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/51f124ee7fe8d660344aaf32/51f124ee7fe8d660344aaf32168.m3u8",
+     "referer": "https://www.serie-day.com/"
+    }
+   ]
+  },
+
  {
    "name": "Durians Affair ข้ามภพมาพบเธอ",
    "info": "Korea เสียงไทย",
