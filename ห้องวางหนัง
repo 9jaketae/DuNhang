@@ -1277,6 +1277,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "The Forbidden Legend Sex And Chopsticks บทรักอมตะ",
+   "info": "เสียงไทย",
+   "image": "https://doomovie.online/wp-content/uploads/2024/10/The-Forbidden-Legend-Sex-And-Chopsticks-บทรักอมตะ-1-2008-187x280.jpg",
+   "stations": [
+    {
+     "name": "The Forbidden Legend Sex And Chopsticks บทรักอมตะ 1 (2008)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2024/10/The-Forbidden-Legend-Sex-And-Chopsticks-บทรักอมตะ-1-2008-187x280.jpg",
+     "url": "https://ezycdn.com/playlist-q9pimbkp-master.m3u8",
+     "referer": "https://doomovie.online/"
+    },
+    {
+     "name": "The Forbidden Legend Sex AND Chopsticks II บทรักอมตะ 2 (2009)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2024/10/The-Forbidden-Legend-Sex-AND-Chopsticks-II-บทรักอมตะ-2-2009-180x280.jpg",
+     "url": "https://ezycdn.com/playlist-qgndcjle-master.m3u8",
+     "referer": "https://doomovie.online/"
+    }
+   ]
+  },
  {
    "name": "Mannequin เทวดาทำหล่น",
    "info": "เสียงไทย",
@@ -2037,7 +2058,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
  {
    "name": "Confidential Assignment คู่จารชน คนอึนมึน",
    "info": "เสียงไทย",
@@ -2147,6 +2167,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-187x269.jpg",
      "url": "https://main.24playerhd.com/m3u8/16c7aea31ac96ecfd2fd7fba/16c7aea31ac96ecfd2fd7fba168.m3u8",
      "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
+   "stations": [
+    {
+     "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/554ae3b3f80cddfc22be9d31905e316e/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Troll (2022) โทรลล์",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Troll-2022-โทรลล์-300x450.png",
+   "stations": [
+    {
+     "name": "Troll (2022) โทรลล์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Troll-2022-โทรลล์-300x450.png",
+     "url": "https://main.24playerhd.com/m3u8/871bb3bbf517cc41edde6af2/871bb3bbf517cc41edde6af2168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Warrior’s Way มหาสงครามโคตรคนต่างพันธุ์ (2010)",
+   "info": "เสียงไทย",
+   "image": "https://doomovie.online/wp-content/uploads/2019/12/3440.jpg",
+   "stations": [
+    {
+     "name": "The Warrior’s Way มหาสงครามโคตรคนต่างพันธุ์ (2010)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2019/12/3440.jpg",
+     "url": "https://ezycdn.com/playlist-ig37b6qr-SD.m3u8",
+     "referer": "https://doomovie.online/"
     }
    ]
   },
