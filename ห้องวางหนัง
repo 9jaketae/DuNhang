@@ -2212,5 +2212,68 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "The Boy in the Striped Pyjamas (2008) เด็กชายในชุดนอนลายทาง",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/The-Boy-in-the-Striped-Pyjamas-2008.webp",
+   "stations": [
+    {
+     "name": "The Boy in the Striped Pyjamas (2008) เด็กชายในชุดนอนลายทาง",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/The-Boy-in-the-Striped-Pyjamas-2008.webp",
+     "url": "https://hplay.hdplayfull.xyz/d06619d7-210f-4180-a81f-79523107d376/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The BFG เดอะ บีเอฟจี ยักษ์ใหญ่หัวใจหล่อ (2016)",
+   "info": "เสียงไทย",
+   "image": "https://doomovie.online/wp-content/uploads/2019/07/1162.jpg",
+   "stations": [
+    {
+     "name": "The BFG เดอะ บีเอฟจี ยักษ์ใหญ่หัวใจหล่อ (2016)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2019/07/1162.jpg",
+     "url": "https://ezycdn.com/playlist-sj4ar56o-SD.m3u8",
+     "referer": "https://doomovie.online/"
+    }
+   ]
+  },
+  {
+   "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70438.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
+   "stations": [
+    {
+     "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/502bef6fa56f55167515ef2135e440f0/502bef6fa56f55167515ef2135e440f0.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Count of Monte-Cristo (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/The-Count-of-Monte-Cristo-2024.webp?x39550",
+     "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
+     "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
  ]
 },
