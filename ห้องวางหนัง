@@ -2347,16 +2347,44 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
-   "name": "Demon Sealer Bureau (2022) สำนักผนึกปีศาจ",
+   "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
    "info": "เสียงไทย",
-   "image": "https://32-tv.tv/wp-content/uploads/2024/12/WPZMDF-1031.jpg",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
    "stations": [
     {
-     "name": "Demon Sealer Bureau (2022) สำนักผนึกปีศาจ",
+     "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
      "info": "พากย์ไทย",
-     "image": "https://32-tv.tv/wp-content/uploads/2024/12/WPZMDF-1031.jpg",
-     "url": "https://hot.24playerhd.com/ioshls/10b452e818837f66eed57fa409ce17ac/10b452e818837f66eed57fa409ce17ac.m3u8",
-     "referer": "https://www.123-hd.com/"
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Viva Las Vegas (1964)",
+   "info": "เสียงไทย",
+   "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/Viva-Las-Vegas-1964.webp?x93978",
+   "stations": [
+    {
+     "name": "Viva Las Vegas (1964)",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/Viva-Las-Vegas-1964.webp?x93978",
+     "url": "https://playermhd.p2phls.xyz/ec204c35-9661-4873-bd9f-54a9d109216c/_",
+     "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "The Sugarland Express (1974) อีสาวบ้าเลือด",
+   "info": "เสียงไทย",
+   "image": "https://www.moviehdfree.net/wp-content/uploads/2021/12/The-Sugarland-Express-1974.jpg.webp",
+   "stations": [
+    {
+     "name": "The Sugarland Express (1974) อีสาวบ้าเลือด",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/12/The-Sugarland-Express-1974.jpg.webp",
+     "url": "https://playermhd.p2phls.xyz/c8e059e1-78d9-476c-8319-3ba89950cd8b/_",
+     "referer": "https://www.moviehdfree.net/"
     }
    ]
   },
