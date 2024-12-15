@@ -245,6 +245,62 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Carry-On (2024) สัมภาระอันตราย",
+   "info": "เสียงไทย",
+   "image": "https://24-hd.tv/wp-content/uploads/2024/12/images-e1734256315957.jpeg",
+   "stations": [
+    {
+     "name": "Carry-On (2024) สัมภาระอันตราย",
+     "info": "พากย์ไทย",
+     "image": "https://24-hd.tv/wp-content/uploads/2024/12/images-e1734256315957.jpeg",
+     "url": "https://asset.fembed.co/index/cxuo9ephj9.m3u8",
+     "referer": "https://24-hd.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Striking Rescue คนเดือด​ ซัดนรก (2024)",
+   "info": "เสียงไทย",
+   "image": "https://24-hd.tv/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด%E2%80%8B-ซัดนรก-2024-.jpg.webp",
+   "stations": [
+    {
+     "name": "Striking Rescue คนเดือด​ ซัดนรก (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://24-hd.tv/wp-content/uploads/2024/12/Striking-Rescue-คนเดือด%E2%80%8B-ซัดนรก-2024-.jpg.webp",
+     "url": "https://asset.fembed.co/master/th/aqeytzbredwwckf.txt",
+     "referer": "https://24-hd.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Mary มารีย์ (2024)",
+   "info": "เสียงไทย",
+   "image": "https://24-hd.tv/wp-content/uploads/2024/12/Mary-มารีย์-2024.jpg.webp",
+   "stations": [
+    {
+     "name": "Mary มารีย์ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://24-hd.tv/wp-content/uploads/2024/12/Mary-มารีย์-2024.jpg.webp",
+     "url": "https://asset.fembed.co/master/th/beihvlbefqeqwkg.m3u8",
+     "referer": "https://24-hd.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Camp Crasher คุณแม่ป่วนค่าย (2024)",
+   "info": "เสียงไทย",
+   "image": "https://24-hd.tv/wp-content/uploads/2024/12/Camp-Crasher-คุณแม่ป่วนค่าย-2024.jpg.webp",
+   "stations": [
+    {
+     "name": "Camp Crasher คุณแม่ป่วนค่าย (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://24-hd.tv/wp-content/uploads/2024/12/Camp-Crasher-คุณแม่ป่วนค่าย-2024.jpg.webp",
+     "url": "https://asset.fembed.co/index/gsaasx7e7m.m3u8",
+     "referer": "https://24-hd.tv/"
+    }
+   ]
+  },
+  {
    "name": "คนเดือด​ ซัดนรก Striking Rescue (2024)",
    "info": "เสียงไทย",
    "image": "https://www.037hdmovie.com/wp-content/uploads/2024/12/Striking-Rescue-2024.jpg",
@@ -282,6 +338,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024-187x269.jpg",
      "url": "https://main.24playerhd.com/m3u8/1b8dd221608c103bdd3af723/1b8dd221608c103bdd3af723168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
+   "stations": [
+    {
+     "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/554ae3b3f80cddfc22be9d31905e316e/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
+   "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351168.m3u8",
      "referer": "https://www.24-hd.com/"
     }
    ]
@@ -2206,20 +2290,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-  {
-   "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
-   "info": "เสียงไทย",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
-   "stations": [
-    {
-     "name": "We Live in Time (2024) เราอยู่ในกาลเวลา",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/11/We-Live-in-Time.webp",
-     "url": "https://stream1.movie2free.tv/cdn/down/554ae3b3f80cddfc22be9d31905e316e/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
+
   {
    "name": "Troll (2022) โทรลล์",
    "info": "เสียงไทย",
@@ -2343,20 +2414,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://doomovie.online/wp-content/uploads/2019/07/971.jpg",
      "url": "https://ezycdn.com/playlist-j24eu74l-SD.m3u8",
      "referer": "https://doomovie.online/"
-    }
-   ]
-  },
-  {
-   "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "The Red Virgin ฮิลเดการ์ต ดรุณีสีชาด (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Red-Virgin-ฮิลเดการ์ต-ดรุณีสีชาด-2024-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/dd1f631ed19cb8fc5977f351/dd1f631ed19cb8fc5977f351168.m3u8",
-     "referer": "https://www.24-hd.com/"
     }
    ]
   },
