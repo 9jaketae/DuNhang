@@ -406,20 +406,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
-   "name": "Ford v Ferrari (2019) ใหญ่ชนยักษ์ ซิ่งทะลุไมล์",
-   "info": "IMDb8.1 เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Ford-v-Ferrari-2019-ใหญ่ชนยักษ์-ซิ่งทะลุไมล์-187x269.jpg",
-   "stations": [
-    {
-     "name": "Ford v Ferrari (2019) ใหญ่ชนยักษ์ ซิ่งทะลุไมล์",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Ford-v-Ferrari-2019-ใหญ่ชนยักษ์-ซิ่งทะลุไมล์-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/04d0a4af6f3ec72d2a4b8ca4/04d0a4af6f3ec72d2a4b8ca4168.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
- {
    "name": "Red One (2024) เรด วัน",
    "info": "เสียงไทย",
    "image": "https://fwiptv.tv/images/movie/Red_One_(2024).webp",
@@ -664,19 +650,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
-   "name": "เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors- Walled In (2024)",
-   "info": "เสียงไทย",
-   "image": "https://lk-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",
-   "stations": [
-{
-"name":"เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors- Walled In (2024)",
-"image":"https://lk-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล.jpg",
-"url":"https://main.24playerhd.com/m3u8/d54efa3e822a088a2961d83c/d54efa3e822a088a2961d83c168.m3u8",
-"referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
- {
    "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
    "info": "หนังไทย",
    "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
@@ -686,20 +659,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "info": "เสียงไทย",
      "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
      "url": "https://live.lnwplayer.com/hls/ac2fd2cd-28dc-4466-9cb7-a1dc8388975a/index.m3u8",
-     "referer": "https://fwiptv.tv/"
-    }
-   ]
-  },
- {
-   "name": "Pilot ต้าวนักบิน จิ้นกันไหมจ๊ะ (2024)",
-   "info": "เสียงไทย 2024",
-   "image": "https://fwiptv.tv/images/movie/Pilot_ต้าวนักบิน_จิ้นกันไหมจ๊ะ_(2024).webp",
-   "stations": [
-    {
-     "name": "Pilot ต้าวนักบิน จิ้นกันไหมจ๊ะ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/Pilot_ต้าวนักบิน_จิ้นกันไหมจ๊ะ_(2024).webp",
-     "url": "https://live.lnwplayer.com/hls/06ca2603-4540-4134-98f4-81461897ae4c/index.m3u8",
      "referer": "https://fwiptv.tv/"
     }
    ]
@@ -722,34 +681,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.kubhd.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024.webp",
      "url": "https://playermhd.p2phls.xyz/7acb0a85-dcd1-417b-8447-1c65fa794d10/_",
      "referer": "https://www.moviehdfree.net/"
-    }
-   ]
-  },
- {
-   "name": "เงือกสาว ปัง ปัง The Mermaid (2016)",
-   "info": "เสียงไทย",
-   "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/hoIi9YWCi7LVOLB9Jew.jpg",
-   "stations": [
-    {
-     "name": "เงือกสาว ปัง ปัง The Mermaid (2016)",
-     "info": "พากย์ไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/hoIi9YWCi7LVOLB9Jew.jpg",
-     "url": "https://ezycdn.com/play.php?v=dn7rbbn2",
-     "referer": "https://movie285.com/"
-    }
-   ]
-  },
- {
-   "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-   "info": "เสียงไทย",
-   "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Little-Mermaid-2023-เงือกน้อยผจญภัย.jpg-348x522.webp",
-   "stations": [
-    {
-     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2023/12/The-Little-Mermaid-2023-เงือกน้อยผจญภัย.jpg-348x522.webp",
-     "url": "https://stream3.movie2free.tv/cdn/master/40f4c14d83a59ae1ff03026981f2a730/master.m3u8",
-     "referer": "https://movie2free.tv/"
     }
    ]
   },
@@ -778,48 +709,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
      "url": "https://hplay.hdplayfull.xyz/e1344de4-62f8-4b27-b9eb-5eebe0509a9c/_",
      "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Elevation (2024) อสุรกายขย้ำ 8000 ฟุต",
-   "info": "ซับไทย",
-   "image": "https://www.kubhd.com/wp-content/uploads/2024/11/Elevation-2024.webp",
-   "stations": [
-    {
-     "name": "Elevation (2024) อสุรกายขย้ำ 8000 ฟุต",
-     "info": "ซีบไทย",
-     "image": "https://www.kubhd.com/wp-content/uploads/2024/11/Elevation-2024.webp",
-     "url": "https://hplay.hdplayfull.xyz/571ef848-0301-4862-9a01-224833a0367f/_",
-     "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Get Fast (2024)",
-"info": "HD en n/a",
-   "image": "https://fwiptv.tv/images/movie/Get_Fast_(2024).webp",
-   "stations": [
-    {
-     "name": "Get Fast (2024)",
-     "info": "ซับไทย",
-     "image": "https://fwiptv.tv/images/movie/Get_Fast_(2024).webp",
-     "url": "https://live.lnwplayer.com/hls/f6f6f73e-b76f-4bb4-ba06-fc0aead4e726/index.m3u8",
-     "referer": "https://fwiptv.tv/"
-    }
-   ]
-  },
-  {
-   "name": "Technoboys เทคโนบอยส์ (2024)",
-   "info": "Sound Track 2024",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Technoboys-เทคโนบอยส์-2024.jpg",
-   "stations": [
-    {
-     "name": "Technoboys เทคโนบอยส์ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Technoboys-เทคโนบอยส์-2024.jpg",
-     "url": "https://main.abcplays.com/index_g.html?id=cd31243ca77d24e4931ce90d",
-     "referer": "https://www.24-hd.com/"
     }
    ]
   },
@@ -867,13 +756,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Outlaw เจ้าแม่ (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=2492527afd16cf717160e2ad",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Outlaw เจ้าแม่ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=2492527afd16cf717160e2ad",
      "referer": "https://www.24-hd.com/"
     }
@@ -884,13 +766,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2023",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
    "stations": [
-    {
-     "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=91823f9604c2d94961c8531a",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
      "info": "พากย์ไทย",
@@ -909,13 +784,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Damaged (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Damaged-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=69209cd29d04f53e0a7365ff",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Damaged (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Damaged-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=69209cd29d04f53e0a7365ff",
      "referer": "https://www.24-hd.com/"
     }
@@ -926,13 +794,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Honeymoonish-2024.jpg",
    "stations": [
-    {
-     "name": "Honeymoonish (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Honeymoonish-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=0dca3693b940b186133ce031",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Honeymoonish (2024)",
      "info": "ซับไทย",
@@ -951,13 +812,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Mountain Queen The Summits of Lhakpa Sherpa ราชินีขุนเขา ลัคปา เชอร์ปา (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Mountain-Queen-The-Summits-of-Lhakpa-Sherpa-ราชินีขุนเขา-ลัคปา-เชอร์ปา-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=8b159dc31b506fbd4aa402ae",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Mountain Queen The Summits of Lhakpa Sherpa ราชินีขุนเขา ลัคปา เชอร์ปา (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Mountain-Queen-The-Summits-of-Lhakpa-Sherpa-ราชินีขุนเขา-ลัคปา-เชอร์ปา-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=8b159dc31b506fbd4aa402ae",
      "referer": "https://www.24-hd.com/"
     }
@@ -968,13 +822,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-ยูนิคอร์นน้อยเทลม่า-2024.jpg",
    "stations": [
-    {
-     "name": "Thelma the Unicorn ยูนิคอร์นน้อยเทลม่า (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-ยูนิคอร์นน้อยเทลม่า-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=edc968c991bee195b8115189",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Thelma the Unicorn ยูนิคอร์นน้อยเทลม่า (2024)",
      "info": "ซับไทย",
@@ -993,13 +840,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Am I OK? ถามใจว่าใช่ปะ? (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Am-I-OK-ถามใจว่าใช่ปะ-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=f4a1a06d8209c4398a449473",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Am I OK? ถามใจว่าใช่ปะ? (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Am-I-OK-ถามใจว่าใช่ปะ-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=f4a1a06d8209c4398a449473",
      "referer": "https://www.24-hd.com/"
     }
@@ -1010,13 +850,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Young-Woman-and-the-Sea-2024.jpg",
    "stations": [
-    {
-     "name": "Young Woman and the Sea (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Young-Woman-and-the-Sea-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=8a96fd1c91d7dec574aa9477",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Young Woman and the Sea (2024)",
      "info": "ซับไทย",
@@ -1035,13 +868,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Maharaja มหาราชา (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Maharaja-มหาราชา-2024-เต็มเรื่อง.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=4580325d55d11b3b8514b94c",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Maharaja มหาราชา (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Maharaja-มหาราชา-2024-เต็มเรื่อง.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=4580325d55d11b3b8514b94c",
      "referer": "https://www.24-hd.com/"
     }
@@ -1052,13 +878,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Back-to-Black-2024.jpg",
    "stations": [
-    {
-     "name": "Back to Black (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Back-to-Black-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=185bcfdfad76bb77d96459b8",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Back to Black (2024)",
      "info": "ซับไทย",
@@ -1077,13 +896,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Apollo 13 Survival อะพอลโล 13 ภารกิจต้องรอด (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-อะพอลโล-13-ภารกิจต้องรอด-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=152855e12fd6f74b7b95b1e4",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Apollo 13 Survival อะพอลโล 13 ภารกิจต้องรอด (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-อะพอลโล-13-ภารกิจต้องรอด-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=152855e12fd6f74b7b95b1e4",
      "referer": "https://www.24-hd.com/"
     }
@@ -1094,13 +906,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Secret-Lives-of-Orangutans-ชีวิตลับอุรังอุตัง-2024.jpg",
    "stations": [
-    {
-     "name": "Secret Lives of Orangutans ชีวิตลับอุรังอุตัง (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Secret-Lives-of-Orangutans-ชีวิตลับอุรังอุตัง-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=f91a51651d12de97a9ab7040",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Secret Lives of Orangutans ชีวิตลับอุรังอุตัง (2024)",
      "info": "ซับไทย",
@@ -1119,13 +924,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Claws กรงเล็บเลือด (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Claws-กรงเล็บเลือด-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=8870ed77a478ee86eee6c1b4",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Claws กรงเล็บเลือด (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Claws-กรงเล็บเลือด-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=8870ed77a478ee86eee6c1b4",
      "referer": "https://www.24-hd.com/"
     }
@@ -1136,13 +934,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Blink-Twice-บลิงก์-ทไวซ์-ซิกอันตราย-2024.jpg",
    "stations": [
-    {
-     "name": "Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Blink-Twice-บลิงก์-ทไวซ์-ซิกอันตราย-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=3fed3e927923a9773f34084b",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)",
      "info": "พากย์ไทย",
@@ -1161,13 +952,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "The Killer สวยกล้าบ้าระห่ำ (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Killer-สวยกล้าบ้าระห่ำ-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=5df4a10b4bfb4d087030ba3b",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "The Killer สวยกล้าบ้าระห่ำ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Killer-สวยกล้าบ้าระห่ำ-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=5df4a10b4bfb4d087030ba3b",
      "referer": "https://www.24-hd.com/"
     }
@@ -1178,13 +962,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Tokunbo-Tokunbo̩-โทคุนโบ-2024.jpg",
    "stations": [
-    {
-     "name": "Tokunbo โทคุนโบ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Tokunbo-Tokunbo̩-โทคุนโบ-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=8af6061da036bb5cf75ebb37",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Tokunbo โทคุนโบ (2024)",
      "info": "ซับไทย",
@@ -1203,13 +980,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "He Went That Way เขาไปทางนั้น (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/He-Went-That-Way-เขาไปทางนั้น-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=7acebe4d6234840647386ed2",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "He Went That Way เขาไปทางนั้น (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/He-Went-That-Way-เขาไปทางนั้น-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=7acebe4d6234840647386ed2",
      "referer": "https://www.24-hd.com/"
     }
@@ -1220,13 +990,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Viva-La-Vida-จะฝ่าไปให้ถึงตะวัน-2024.jpg",
    "stations": [
-    {
-     "name": "Viva La Vida จะฝ่าไปให้ถึงตะวัน (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Viva-La-Vida-จะฝ่าไปให้ถึงตะวัน-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=a027c288b8795cfc6160cff5",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Viva La Vida จะฝ่าไปให้ถึงตะวัน (2024)",
      "info": "ซับไทย",
@@ -1245,13 +1008,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Janet Planet รักเธอเท่าจักรวาล (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Janet-Planet-รักเธอเท่าจักรวาล-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=b7275a1c33c902477096323b",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Janet Planet รักเธอเท่าจักรวาล (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Janet-Planet-รักเธอเท่าจักรวาล-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=b7275a1c33c902477096323b",
      "referer": "https://www.24-hd.com/"
     }
@@ -1262,13 +1018,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Kinds-of-Kindness-2024.jpg",
    "stations": [
-    {
-     "name": "Kinds of Kindness (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Kinds-of-Kindness-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=e46488983eee39b930207f30",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Kinds of Kindness (2024)",
      "info": "ซับไทย",
@@ -1287,13 +1036,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Nice Girls (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Nice-Girls-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=b1bd5b511e46ae1509d71b08",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Nice Girls (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Nice-Girls-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=b1bd5b511e46ae1509d71b08",
      "referer": "https://www.24-hd.com/"
     }
@@ -1308,13 +1050,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Incoming มือใหม่ไฮสกูล (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Incoming-มือใหม่ไฮสกูล-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=113fbe62869a458769b605db",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Incoming มือใหม่ไฮสกูล (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Incoming-มือใหม่ไฮสกูล-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=113fbe62869a458769b605db",
      "referer": "https://www.24-hd.com/"
     }
@@ -1325,13 +1060,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Alien-Romulus-เอเลี่ยน-โรมูลัส-2024.jpg",
    "stations": [
-    {
-     "name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Alien-Romulus-เอเลี่ยน-โรมูลัส-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=ec938d3cf4fd2a8b5d8c7363",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Alien Romulus เอเลี่ยน โรมูลัส (2024)",
      "info": "พากย์ไทย",
@@ -1356,13 +1084,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "The Crow อีกาพญายม (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Crow-อีกาพญายม-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=7695a768f4af4442a14b012f",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "The Crow อีกาพญายม (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Crow-อีกาพญายม-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=7695a768f4af4442a14b012f",
      "referer": "https://www.24-hd.com/"
     }
@@ -1373,13 +1094,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Elevator-โปรเจกต์ลิฟต์ติดรัก-2024.jpg",
    "stations": [
-    {
-     "name": "Elevator โปรเจกต์ลิฟต์ติดรัก (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Elevator-โปรเจกต์ลิฟต์ติดรัก-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=b5763bbffe0ca75ed45640e6",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Elevator โปรเจกต์ลิฟต์ติดรัก (2024)",
      "info": "ซับไทย",
@@ -1419,13 +1133,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Rebel-Ridge-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=fa42b12851ac746b34e96279",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Rebel-Ridge-เรเบลริดจ์-ผ่าเมืองอยุติธรรม-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=fa42b12851ac746b34e96279",
      "referer": "https://www.24-hd.com/"
     }
@@ -1436,13 +1143,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Hijack-1971-นรกเหนือน่านฟ้า-2024.jpg",
    "stations": [
-    {
-     "name": "Hijack 1971 นรกเหนือน่านฟ้า (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Hijack-1971-นรกเหนือน่านฟ้า-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=326ccdf3ad6d6f4459b4c4ec",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Hijack 1971 นรกเหนือน่านฟ้า (2024)",
      "info": "พากย์ไทย",
@@ -1461,13 +1161,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Firebrand (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Firebrand-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=452a3b54016aa09c944078ce",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Firebrand (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Firebrand-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=452a3b54016aa09c944078ce",
      "referer": "https://www.24-hd.com/"
     }
@@ -1482,21 +1175,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Trap (2024) แทร็ป",
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Trap-2024-แทร็ป-1.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=11e270054dd49ee8e6f42d17",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Trap (2024) แทร็ป",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Trap-2024-แทร็ป-1.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=11e270054dd49ee8e6f42d17",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Trap (2024) แทร็ป",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Trap-2024-แทร็ป-1.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=4a2a1a710aa81050ca3cadbf",
      "referer": "https://www.24-hd.com/"
     },
     {
@@ -1517,13 +1196,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Someone Like You ดุจดังเธอในดวงใจ (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Someone-Like-You-ดุจดังเธอในดวงใจ-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=7bee74156873c185a7e27bdf",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Someone Like You ดุจดังเธอในดวงใจ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Someone-Like-You-ดุจดังเธอในดวงใจ-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=7bee74156873c185a7e27bdf",
      "referer": "https://www.24-hd.com/"
     }
@@ -1534,13 +1206,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Harold-and-the-Purple-Crayon-แฮโรลด์กับสีเทียนมหัศจรรย์-2024.jpg",
    "stations": [
-    {
-     "name": "Harold and the Purple Crayon แฮโรลด์กับสีเทียนมหัศจรรย์ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Harold-and-the-Purple-Crayon-แฮโรลด์กับสีเทียนมหัศจรรย์-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=b87e3131a2c0b0e959479d0f",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Harold and the Purple Crayon แฮโรลด์กับสีเทียนมหัศจรรย์ (2024)",
      "info": "ซับไทย",
@@ -1605,13 +1270,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "While You Were Sleeping (2024) เธอหลับ เขาร้าย",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/While-You-Were-Sleeping-เธอหลับ-เขาร้าย-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=58a43d5a8a67358922bd62be",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "While You Were Sleeping (2024) เธอหลับ เขาร้าย",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/While-You-Were-Sleeping-เธอหลับ-เขาร้าย-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=58a43d5a8a67358922bd62be",
      "referer": "https://www.24-hd.com/"
     }
@@ -1622,13 +1280,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Deliverance-บ้านปลดวิญญาณ-2024.jpg",
    "stations": [
-    {
-     "name": "The Deliverance บ้านปลดวิญญาณ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Deliverance-บ้านปลดวิญญาณ-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=e004fe6df9845b9e1cd999e9",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "The Deliverance บ้านปลดวิญญาณ (2024)",
      "info": "ซับไทย",
@@ -1647,13 +1298,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "(Un)lucky Sisters โชค(ไม่)ดี พี่กับน้อง (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Unlucky-Sisters-โชคไม่ดี-พี่กับน้อง-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=c227ea09bac3558c85548edd",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "(Un)lucky Sisters โชค(ไม่)ดี พี่กับน้อง (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Unlucky-Sisters-โชคไม่ดี-พี่กับน้อง-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=c227ea09bac3558c85548edd",
      "referer": "https://www.24-hd.com/"
     }
@@ -1664,13 +1308,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "เสียงไทย 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Sheriff-Narko-Integriti-มือปราบเจ้าพ่อเถื่อน-2024-.jpg",
    "stations": [
-    {
-     "name": "Sheriff: Narko Integriti มือปราบเจ้าพ่อเถื่อน (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Sheriff-Narko-Integriti-มือปราบเจ้าพ่อเถื่อน-2024-.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=06c628bff1b3251cbe02c566",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Sheriff: Narko Integriti มือปราบเจ้าพ่อเถื่อน (2024)",
      "info": "ซับไทย",
@@ -1689,13 +1326,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Untold: Sign Stealer คนขโมยสัญญาณมือ (2024)",
      "info": "ซับไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Untold-Sign-Stealer-คนขโมยสัญญาณมือ-2024.png",
-     "url": "https://main.abcplays.com/index_n.php?id=e43c2776d8c26a1d40dcc8c9",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Untold: Sign Stealer คนขโมยสัญญาณมือ (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Untold-Sign-Stealer-คนขโมยสัญญาณมือ-2024.png",
      "url": "https://main.abcplays.com/index_g.html?id=e43c2776d8c26a1d40dcc8c9",
      "referer": "https://www.24-hd.com/"
     }
@@ -1706,13 +1336,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "info": "Sound Track 2024",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Longlegs-2024-ถอดรหัสคลั่งอำมหิต-1.jpg",
    "stations": [
-    {
-     "name": "Longlegs (2024) ถอดรหัสคลั่งอำมหิต",
-     "info": "ซับไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Longlegs-2024-ถอดรหัสคลั่งอำมหิต-1.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=9903aaa602cbb683c2947d0c",
-     "referer": "https://www.24-hd.com/"
-    },
     {
      "name": "Longlegs (2024) ถอดรหัสคลั่งอำมหิต",
      "info": "ซับไทย",
@@ -2442,6 +2065,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.moviehdfree.net/wp-content/uploads/2021/12/The-Sugarland-Express-1974.jpg.webp",
      "url": "https://playermhd.p2phls.xyz/c8e059e1-78d9-476c-8319-3ba89950cd8b/_",
      "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "Infinite (2021) อินฟินิท",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/08/Infinite-2021-e1691586319871.webp",
+   "stations": [
+    {
+     "name": "Infinite (2021) อินฟินิท",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/08/Infinite-2021-e1691586319871.webp",
+     "url": "https://hplay.hdplayfull.xyz/339a1811-a44e-4529-9240-79dbe576aa22/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Brothers Grimsby (2016) พี่น้องสายลับ",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Brothers-Grimsby-2016-พี่น้องสายลับ-187x269.jpg",
+   "stations": [
+    {
+     "name": "The Brothers Grimsby (2016) พี่น้องสายลับ",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Brothers-Grimsby-2016-พี่น้องสายลับ-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/46de68c7ffa4ebfdc396ff2a/46de68c7ffa4ebfdc396ff2a168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
