@@ -663,6 +663,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "Survive (2024) ต้องรอด ",
+   "info": "เสียงไทย",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2024/12/Survive-2024.jpg",
+   "stations": [
+    {
+     "name": "Survive (2024) ต้องรอด ",
+     "info": "พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/12/Survive-2024.jpg",
+     "url": "https://stm1con.cdn-nanaplayer.com/hls2/01/00009/wstvdazcgyhd_h/index-v1-a1.m3u8?t=ybbp9mbfvgTkhQJ1AHvYUUswTFtae0NuZcYvFK2H_IQ&s=1734522251&e=10800&f=48307&srv=gamepi4&i=0.3&sp=0&p1=stm1con&p2=stm1con",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
  {
    "name": "Officer Black Belt (2024)",
    "info": "หนังเกาหลี เสียงไทย 2024",
@@ -2027,20 +2041,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
-   "name": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
-   "info": "เสียงไทย",
-   "image": "https://doomovie.online/wp-content/uploads/2019/07/971.jpg",
-   "stations": [
-    {
-     "name": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
-     "info": "พากย์ไทย",
-     "image": "https://doomovie.online/wp-content/uploads/2019/07/971.jpg",
-     "url": "https://ezycdn.com/playlist-j24eu74l-SD.m3u8",
-     "referer": "https://doomovie.online/"
-    }
-   ]
-  },
-  {
    "name": "Viva Las Vegas (1964)",
    "info": "เสียงไทย",
    "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/Viva-Las-Vegas-1964.webp?x93978",
@@ -2093,6 +2093,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Brothers-Grimsby-2016-พี่น้องสายลับ-187x269.jpg",
      "url": "https://main.24playerhd.com/m3u8/46de68c7ffa4ebfdc396ff2a/46de68c7ffa4ebfdc396ff2a168.m3u8",
      "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Life Is Beautiful (1997) ยิ้มไว้โลกนี้ไม่มีสิ้นหวัง",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Life-Is-Beautiful.webp",
+   "stations": [
+    {
+     "name": "Life Is Beautiful (1997) ยิ้มไว้โลกนี้ไม่มีสิ้นหวัง",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Life-Is-Beautiful.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/50c10c2714d7fa0402f52fe4d8c35e32/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
+   "info": "เสียงไทย",
+   "image": "https://doomovie.online/wp-content/uploads/2019/07/971.jpg",
+   "stations": [
+    {
+     "name": "Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)",
+     "info": "พากย์ไทย",
+     "image": "https://doomovie.online/wp-content/uploads/2019/07/971.jpg",
+     "url": "https://ezycdn.com/playlist-j24eu74l-SD.m3u8",
+     "referer": "https://doomovie.online/"
     }
    ]
   },
