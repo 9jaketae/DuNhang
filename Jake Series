@@ -5,125 +5,6 @@
  "groups": [
 
   {
-   "name": "Secret Love ซ่อนรัก ซ่อนแค้น ",
-   "info": "เสียงไทย",
-   "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-   "stations": [
-    {
-     "name": "EP 1 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://h2fhhtryrk2zyb.010014.xyz/4.1/Korea/SecretLove(2013)Thai/EP01.mp4/chunk.xml",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 2 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://h2fhhtryrk2zyb.010014.xyz/4.1/Korea/SecretLove(2013)Thai/EP02.mp4/chunk.xml",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 3 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/sa/Korea/SecretLove%282013%29Thai/EP03.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 4 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/sa/Korea/SecretLove%282013%29Thai/EP04.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 5 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP05.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 6 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP06.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 7 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP07.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 8 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP08.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 9 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP09.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 10 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP10.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 11 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP11.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 12 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP12.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 13 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP13.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 14 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP14.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 15 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP15.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    },
-    {
-     "name": "EP 16 Secret Love ซ่อนรัก ซ่อนแค้น ",
-     "info": "พากย์ไทย",
-     "image": "https://www.baan-series.org/wp-content/uploads/2024/10/Secret-Love.jpg",
-     "url": "https://tooo48ebvqgw64.001140.xyz/g/Korea/SecretLove%282013%29Thai/EP16.mp4/playlist.m3u8",
-     "referer": "https://www.baan-series.org/"
-    }
-   ]
-  },
-  {
    "name": "The Trunk (2024) ",
    "info": "เสียงไทย",
    "image": "https://www.serie-day.com/wp-content/uploads/2024/11/The-Trunk-2024-203x300.jpg",
@@ -1242,6 +1123,252 @@
     
  ]
 }]},
+
+  {
+   "name": "Brocade Odyssey (2024) ต้นตํานานอาภรณ์จักรพรรดิ",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+   "stations": [
+    {
+     "name": "EP 1 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/87cd2b85c2eab3e193600161/87cd2b85c2eab3e193600161168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 2 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/5fb0f3b4ca59cacd21213677/5fb0f3b4ca59cacd21213677168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 3 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/07b1130f7739d3381dafc894/07b1130f7739d3381dafc894168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 4 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/2f949ff2e87bba5970e3e635/2f949ff2e87bba5970e3e635168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 5 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/5ff11ea7921f6244abb5e908/5ff11ea7921f6244abb5e908168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 6 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/292944a6f5beb7085d3f1c90/292944a6f5beb7085d3f1c90168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 7 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/39285fb87eb9248cf26cd41e/39285fb87eb9248cf26cd41e168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 8 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/3b52cb1e6361926bfdae5802/3b52cb1e6361926bfdae5802168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 9 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c3ddd02ea44ea50be6132290/c3ddd02ea44ea50be6132290168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 10 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/9b86934acedcfdd87b49e827/9b86934acedcfdd87b49e827168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 11 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/4a53ae471cdde38efc25a264/4a53ae471cdde38efc25a264168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 12 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/ebc1b22e6312b58e5c16cf64/ebc1b22e6312b58e5c16cf64168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 13 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/d11f8a21e6ffba3eec10e3f9/d11f8a21e6ffba3eec10e3f9168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 14 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/6609174a6b80ee1e648c0511/6609174a6b80ee1e648c0511168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 15 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/5998e271481e8e560c588bc0/5998e271481e8e560c588bc0168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 16 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/10e8ac0785260d595cba1f5e/10e8ac0785260d595cba1f5e168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 17 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/efc4db0cee7da1e79bba1833/efc4db0cee7da1e79bba1833168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 18 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/29af771cda579646fa368207/29af771cda579646fa368207168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 19 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/0e9539047ceb7582feff94b8/0e9539047ceb7582feff94b8168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 20 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/b203eee0b2f010d89f275ac3/b203eee0b2f010d89f275ac3168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 21 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/8216e5053b678a40a6b56333/8216e5053b678a40a6b56333168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 22 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/cfcd9e29d2f890224113f1c3/cfcd9e29d2f890224113f1c3168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 23 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/6dfc7694bc5a38703a8ae0a8/6dfc7694bc5a38703a8ae0a8168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 24 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c6a141e52859304ef00a4503/c6a141e52859304ef00a4503168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 25 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/3afdb135d502816296f285bf/3afdb135d502816296f285bf168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 26 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e100176b8e9924e8fb2f7a69/e100176b8e9924e8fb2f7a69168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 27 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c890d7cafb84f2beec537d89/c890d7cafb84f2beec537d89168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 28 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/52ed4c3c8070daca40bc9a09/52ed4c3c8070daca40bc9a09168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 29 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/52ab5ae2f7a98824d88fa757/52ab5ae2f7a98824d88fa757168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 30 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/8bb06e3d8fe5742568e2e474/8bb06e3d8fe5742568e2e474168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 31 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 32 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 33 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "EP 34 ต้นตํานานอาภรณ์จักรพรรดิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2024/11/Brocade-Odyssey-2024-ต้นตํานานอาภรณ์จักรพรรดิ-300x450.jpg",
+     "url": "",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
 
    {
    "name": "My Everlasting Bride (2023) เจ้าสาวพันธสัญญา",
