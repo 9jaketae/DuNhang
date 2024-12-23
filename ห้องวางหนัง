@@ -245,6 +245,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "The Six Triple Eight (2024) 888 กองพันหญิงแกร่ง",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Six-Triple-Eight-2024-888-กองพันหญิงแกร่ง-1-187x269.png",
+   "stations": [
+    {
+     "name": "The Six Triple Eight (2024) 888 กองพันหญิงแกร่ง",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/The-Six-Triple-Eight-2024-888-กองพันหญิงแกร่ง-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/65ab978b75986813a6ed153a/65ab978b75986813a6ed153a168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Carry-On (2024) สัมภาระอันตราย",
    "info": "เสียงไทย",
    "image": "https://24-hd.tv/wp-content/uploads/2024/12/images-e1734256315957.jpeg",
