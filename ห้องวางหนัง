@@ -244,6 +244,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
 ########################################################
 
+{
+   "name": "Exhuma ขุดมันขึ้นมาจากหลุม (2024)",
+   "info": "เสียงไทย",
+   "image": "https://de88.me/wp-content/uploads/2024/12/ขุดมันขึ้นมาจากหลุม2024Exhuma-1-717x1024.jpg",
+   "stations": [
+    {
+     "name": "Exhuma ขุดมันขึ้นมาจากหลุม (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://de88.me/wp-content/uploads/2024/12/ขุดมันขึ้นมาจากหลุม2024Exhuma-1-717x1024.jpg",
+     "url": "https://dedkub.cyou/hd/720/1356-Exhuma2024.mp4",
+     "referer": "https://de88.me/"
+    }
+   ]
+  },
   {
    "name": "The Six Triple Eight (2024) 888 กองพันหญิงแกร่ง",
    "info": "เสียงไทย",
@@ -2093,6 +2107,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.kubhd.com/wp-content/uploads/2023/08/Infinite-2021-e1691586319871.webp",
      "url": "https://hplay.hdplayfull.xyz/339a1811-a44e-4529-9240-79dbe576aa22/_",
      "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Uncharted ผจญภัยล่าขุมทรัพย์สุดขอบโลก (2022)",
+   "info": "เสียงไทย",
+   "image": "https://de88.me/wp-content/uploads/2022/05/Uncharted2022ผจญภัยล่าขุมทรัพย์สุดขอบโลก.jpeg",
+   "stations": [
+    {
+     "name": "Uncharted ผจญภัยล่าขุมทรัพย์สุดขอบโลก (2022)",
+     "info": "พากย์ไทย",
+     "image": "https://de88.me/wp-content/uploads/2022/05/Uncharted2022ผจญภัยล่าขุมทรัพย์สุดขอบโลก.jpeg",
+     "url": "https://nvme.dedkub.cyou/0553-Uncharted2022.mp4",
+     "referer": "https://de88.me/"
     }
    ]
   },
