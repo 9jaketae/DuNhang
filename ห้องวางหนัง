@@ -1551,18 +1551,17 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   {
    "name": "The Aeronauts (2019) ท่องสู่แดนแห่งความฝัน",
    "info": "HD en n/a",
-   "image": "https://fwiptv.tv/images/movie/20191220102856the-aeronauts-5d77a62812b6e.jpg",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2022/10/7MpAQfVjBGqC2VllKHEBaWw6iLv.jpg",
    "stations": [
     {
      "name": "The Aeronauts (2019) ท่องสู่แดนแห่งความฝัน",
      "info": "ซับไทย",
-     "image": "https://fwiptv.tv/images/movie/20191220102856the-aeronauts-5d77a62812b6e.jpg",
-     "url": "https://live.lnwplayer.com/hls/1c58b667-e4e5-4213-9db5-0563c284df72/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/10/7MpAQfVjBGqC2VllKHEBaWw6iLv.jpg",
+     "url": "https://streamhls.com/view/db3c1f9b-a69b-5ea1-9bd3-721db22a1d35.m3u8",
+     "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
-
  {
    "name": "My Girl (1991) หัวใจกระเตาะ จะไม่โดดเดี่ยว ",
    "info": "เสียงไทย",
@@ -1895,14 +1894,14 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   {
    "name": "The Negotiation (2018)",
    "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/201905100932071.jpg",
+   "image": "https://doomovie.online/wp-content/uploads/2019/10/2291.jpg",
    "stations": [
     {
      "name": "The Negotiation (2018)",
      "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/201905100932071.jpg",
-     "url": "https://live.lnwplayer.com/hls/3abe9136-d098-4b27-8954-ff23a6635d13/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "https://doomovie.online/wp-content/uploads/2019/10/2291.jpg",
+     "url": "https://ezycdn.com/playlist-ra44lhb4-SD.m3u8",
+     "referer": "https://doomovie.online/"
     }
    ]
   },
