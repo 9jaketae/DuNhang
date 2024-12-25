@@ -236,9 +236,9 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     {
      "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
      "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/The_Platform_2_(El_hoyo_2)_(2024)_เดอะ_แพลตฟอร์ม_2.webp",
-     "url": "https://live.lnwplayer.com/hls/3acbfbd7-d2ee-4ae1-89e1-69e32f70acab/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "ttps://www.24-hd.com/wp-content/uploads/2024/10/The-Platform-2-เดอะ-แพลตฟอร์ม-2-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
@@ -436,14 +436,14 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  {
    "name": "Red One (2024) เรด วัน",
    "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/Red_One_(2024).webp",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/Red-One-2024-เรดวัน.jpg",
    "stations": [
     {
      "name": "Red One (2024) เรด วัน",
      "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/Red_One_(2024).webp",
-     "url": "https://live.lnwplayer.com/hls/dd0ff977-ea52-460f-b509-e8db826d41ee/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/Red-One-2024-เรดวัน.jpg",
+     "url": "https://main.24playerhd.com/m3u8/57e73f81f8add59e37902406/57e73f81f8add59e37902406168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
