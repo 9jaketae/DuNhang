@@ -680,14 +680,14 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  {
    "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
    "info": "หนังไทย",
-   "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Taklee-Genesis-ตาคลี-เจเนซิส-2024.jpg",
    "stations": [
     {
      "name": "ตาคลี เจเนซิส (2024) Taklee Genesis",
      "info": "เสียงไทย",
-     "image": "https://fwiptv.tv/images/movie/Taklee_Genesis_(2024)_ตาคลี_เจเนซิส.webp",
-     "url": "https://live.lnwplayer.com/hls/ac2fd2cd-28dc-4466-9cb7-a1dc8388975a/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Taklee-Genesis-ตาคลี-เจเนซิส-2024.jpg",
+     "url": "https://main.24playerhd.com/m3u8/a877e1422cff601c7b8e6c43/a877e1422cff601c7b8e6c43168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
@@ -1390,14 +1390,14 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   {
    "name": "The Merry Gentlemen (2024) เดอะ เมอร์รี่ เจนเทิลแมน",
    "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/The_Merry_Gentlemen_(2024)_เดอะ_เมอร์รี่_เจนเทิลแมน.webp",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/The-Merry-Gentlemen-เดอะ-เมอร์รี่-เจนเทิลแมน-2024.jpg",
    "stations": [
     {
      "name": "The Merry Gentlemen (2024) เดอะ เมอร์รี่ เจนเทิลแมน",
      "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/The_Merry_Gentlemen_(2024)_เดอะ_เมอร์รี่_เจนเทิลแมน.webp",
-     "url": "https://live.lnwplayer.com/hls/32251082-0987-4caa-81ad-6576d28de182/index.m3u8",
-     "referer": "https://fwiptv.tv/"
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/The-Merry-Gentlemen-เดอะ-เมอร์รี่-เจนเทิลแมน-2024.jpg",
+     "url": "https://main.24playerhd.com/m3u8/1b7d7f4af52f6c5e4cb7d635/1b7d7f4af52f6c5e4cb7d635168.m3u8",
+     "referer": "https://www.123-hd.com/"
     }
    ]
   },
