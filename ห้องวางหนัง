@@ -258,7 +258,35 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
 ########################################################
 
-{
+  {
+   "name": "Mufasa: The Lion King (2024) มูฟาซา: เดอะ ไลอ้อน คิง",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Mufasa-The-Lion-King.webp",
+   "stations": [
+    {
+     "name": "Mufasa: The Lion King (2024) มูฟาซา: เดอะ ไลอ้อน คิง",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Mufasa-The-Lion-King.webp",
+     "url": "https://imovie-th.com/cdn/master/fa8ff84f76df9a9cb2b767e6ae5c0567/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Victory (2024) สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม",
+   "info": "เสียงไทย IMDb6.2",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Victory-2024-สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-1-187x269.png",
+   "stations": [
+    {
+     "name": "Victory (2024) สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Victory-2024-สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/cd94cf81bf39d52e401f3a1a/cd94cf81bf39d52e401f3a1a168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Exhuma ขุดมันขึ้นมาจากหลุม (2024)",
    "info": "เสียงไทย",
    "image": "https://de88.me/wp-content/uploads/2024/12/ขุดมันขึ้นมาจากหลุม2024Exhuma-1-717x1024.jpg",
@@ -2204,6 +2232,40 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
      "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
      "referer": "https://www.vojkuhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Constantine 2005 คนพิฆาตผี ",
+   "info": "เสียงไทย",
+   "image": "https://de88.me/wp-content/uploads/2020/09/Constantineคนพิฆาตผี2005.jpg",
+   "stations": [
+    {
+     "name": "Constantine 2005 คนพิฆาตผี ",
+     "info": "พากย์ไทย",
+     "image": "https://de88.me/wp-content/uploads/2020/09/Constantineคนพิฆาตผี2005.jpg",
+     "url": "https://dedkub.cyou/hd/720/0015-Constantine.mp4",
+     "referer": "https://de88.me/"
+    }
+   ]
+  },
+  {
+   "name": "Ferrari สปีดทวงบัลลังก์",
+   "info": "เสียงไทย IMDb6.4",
+   "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
+   "stations": [
+    {
+     "name": "Ferrari สปีดทวงบัลลังก์",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
+     "url": "https://plays2u.com/hv1/MWo0Z3loRS1KMHhXVklRRElsUVFJTTRwVC10Z1ZjVjVN/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    },
+    {
+     "name": "Ferrari สปีดทวงบัลลังก์",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Ferrari_2023/Ferrari_2023_th_1080.mp4?fbclid=IwY2xjawHbXfdleHRuA2FlbQIxMAABHfddStU03LzyjuLes-n8K835M-eahyvf0yIdVe3DXU_pDwK5FeqrHClFJw_aem_4UhCWRzKqMz1OMIKwiRyqw&nimblesessionid=115929315"
     }
    ]
   },
