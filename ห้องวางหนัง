@@ -238,19 +238,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  {
    "name": "The Platform",
    "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
    "stations": [
     {
      "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
      "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/fwkKn66qDh8GE7ZH2O5bxHaBzwW5Pla4s25vwjmh8yscc0ko.jpg",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
      "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
      "referer": "https://movie2free.tv/"
     },
     {
      "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
      "info": "พากย์ไทย",
-     "image": "ttps://www.24-hd.com/wp-content/uploads/2024/10/The-Platform-2-เดอะ-แพลตฟอร์ม-2-2024-187x269.jpg",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/10/The-Platform-2-2024.jpg",
      "url": "https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b168.m3u8",
      "referer": "https://www.24-hd.com/"
     }
@@ -1480,15 +1480,15 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
   {
    "name": "Honey, I Shrunk the Kids 4 จิ๋วพลิกมิติมหัศจรรย์ (1989)",
-   "info": "เสียงไทย",
-   "image": "https://fwiptv.tv/images/movie/20170409085700honey_shrunk_kids.jpg",
+   "info": "ซับไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2023/12/Honey-We-Shrunk-Ourselves-4-1997-จิ๋วพลิกมิติมหัศจรรย์-ตอน-อลเวงคุณพ่อย่อส่วน.jpg-345x522.webp",
    "stations": [
     {
      "name": "Honey, I Shrunk the Kids 4 จิ๋วพลิกมิติมหัศจรรย์ (1989)",
-     "info": "พากย์ไทย",
-     "image": "https://fwiptv.tv/images/movie/20170409085700honey_shrunk_kids.jpg",
-     "url": "https://admin-play.com/cdn/hls/21e90a8705218ba0a61f0a85c0fdd646/1/index-v1-a1.txt?s=1",
-     "referer": "https://fwiptv.tv/"
+     "info": "ซับไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2023/12/Honey-We-Shrunk-Ourselves-4-1997-จิ๋วพลิกมิติมหัศจรรย์-ตอน-อลเวงคุณพ่อย่อส่วน.jpg-345x522.webp",
+     "url": "https://imovie-th.com/cdn/master/e473c4c6ca05326b5d031ae5d8df7bc5/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/movie/"
     }
    ]
   },
@@ -2260,12 +2260,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
      "url": "https://plays2u.com/hv1/MWo0Z3loRS1KMHhXVklRRElsUVFJTTRwVC10Z1ZjVjVN/playlist",
      "referer": "https://www.vojkuhd.com/"
-    },
-    {
-     "name": "Ferrari สปีดทวงบัลลังก์",
-     "info": "พากย์ไทย",
-     "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/Ferrari_2023/Ferrari_2023_th_1080.mp4?fbclid=IwY2xjawHbXfdleHRuA2FlbQIxMAABHfddStU03LzyjuLes-n8K835M-eahyvf0yIdVe3DXU_pDwK5FeqrHClFJw_aem_4UhCWRzKqMz1OMIKwiRyqw&nimblesessionid=115929315"
     }
    ]
   },
