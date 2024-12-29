@@ -266,6 +266,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Colombiana (2011) ระห่ำเกินตาย",
+   "info": "เสียงไทย IMDb6.4/10",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
+   "stations": [
+    {
+     "name": "Colombiana (2011) ระห่ำเกินตาย",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
+     "url": "https://imovie-th.com/cdn/master/28f4ac2c356ae84928de8dd3aea778cc/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
    "name": "Mufasa: The Lion King (2024) มูฟาซา: เดอะ ไลอ้อน คิง",
    "info": "เสียงไทย",
    "image": "https://movie2free.tv/wp-content/uploads/2024/12/Mufasa-The-Lion-King.webp",
