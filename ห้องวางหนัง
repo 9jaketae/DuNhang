@@ -46,14 +46,14 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 "image":"https://movie2free.tv/wp-content/uploads/2024/03/Mary-Poppins.webp",
 "url":"https://stream1.movie2free.tv/cdn/down/1fc94e0bb90679f66775587242ebc3c5/video/900p.m3u8",
 "referer": "https://movie2free.tv/"
-},
+  },
   {
   "name" : "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
   "info"   :  "HD th 6.6/10",
   "image" : "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
    "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
      "referer": "https://www.vojkuhd.com/"
-  },
+    },
     {
      "name": "Gone with the Wind วิมานลอย (1939)",
      "info": "พากย์ไทย",
@@ -61,6 +61,13 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://playermhd.p2phls.xyz/dbab5983-b506-44ae-83b1-76c8bca2d3e0/_",
      "referer": "https://www.moviehdfree.net/"
     },
+{
+"name":"Romeo and Juliet (1968) โรมีโอและจูเลียต",
+"info": "HD th IMDb 7.6/10 ",
+"image":"https://www.ชอบหนัง.com/wp-content/uploads/2022/04/hzE63Fah1BbqGQ3srVhOXoPPkBb-265x375.jpg",
+"url":"https://streamhls.com/view/3ec8b057-8852-5f7f-b813-b727836abeec.m3u8",
+"referer": "https://www.ชอบหนัง.com/"
+},
     {
      "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
      "info": "พากย์ไทย",
