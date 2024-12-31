@@ -266,6 +266,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Kraven the Hunter (2024) คราเวน นักล่า",
+   "info": "เสียงไทย IMDb 7.3/10",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Kraven-the-Hunter.webp",
+   "stations": [
+    {
+     "name": "Kraven the Hunter (2024) คราเวน นักล่า",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Kraven-the-Hunter.webp",
+     "url": "https://player.movie2free.tv/cdn/master/37833f9acc511ab3652f40b1fa51de77/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+  {
+   "name": "We Live in Time (2024) เวลานั้นฉันและเธอ",
+   "info": "เสียงไทย IMDb 7.4",
+   "image": "https://www.vojkuhd.com/wp-content/uploads/2024/11/We-Live-in-Time.jpg",
+   "stations": [
+    {
+     "name": "We Live in Time (2024) เวลานั้นฉันและเธอ",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2024/11/We-Live-in-Time.jpg",
+     "url": "https://player2u.com/hv3/MTJabHhUSWxGUk5laEMxYTc3VkhFaldJT3FXX1FndHdt/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    }
+   ]
+  },
+  {
    "name": "Colombiana (2011) ระห่ำเกินตาย",
    "info": "เสียงไทย IMDb6.4/10",
    "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
@@ -2281,6 +2309,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
      "url": "https://plays2u.com/hv1/MWo0Z3loRS1KMHhXVklRRElsUVFJTTRwVC10Z1ZjVjVN/playlist",
      "referer": "https://www.vojkuhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "มหาภารตะ",
+   "info": "เสียงไทย",
+   "image": "https://n9.cl/4wlqv",
+   "stations": [
+    {
+     "name": "มหาภารตะ",
+     "info": "พากย์ไทย",
+     "image": "https://n9.cl/4wlqv",
+     "url": "https://tinyurl.com/378p3eby"
     }
    ]
   },
