@@ -266,6 +266,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
+   "info": "เสียงไทย IMDb5.5",
+   "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/Panda-Plan.jpg",
+   "stations": [
+    {
+     "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/Panda-Plan.jpg",
+     "url": "https://plays2u.com/hv1/MXdjaS1xUS10TWMzZTJNMlFiTTQ3SzY5ZldIOTJFQXRD/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    }
+   ]
+  },
+  {
    "name": "Wallace & Gromit: Vengeance Most Fowl (2025) วอลเลซแอนด์กรอมิต: แค้นติดปีก",
    "info": "เสียงไทย IMDb",
    "image": "https://shorturl.at/K9UKY",
@@ -2245,6 +2259,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/The-Brothers-Grimsby-2016-พี่น้องสายลับ-187x269.jpg",
      "url": "https://main.24playerhd.com/m3u8/46de68c7ffa4ebfdc396ff2a/46de68c7ffa4ebfdc396ff2a168.m3u8",
      "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Janhit Mein Jaari (2022) โลกจ๋า… อย่าหาว่าหนูสอน",
+   "info": "เสียงไทย IMDb6.8",
+   "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/Janhit-Mein-Jaari.jpg",
+   "stations": [
+    {
+     "name": "Janhit Mein Jaari (2022) โลกจ๋า… อย่าหาว่าหนูสอน",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/Janhit-Mein-Jaari.jpg",
+     "url": "https://plays2u.com/hv1/MW5tZmZ3a1RySk45dkxGNTVUZlVIWk5BUmotTkNfMzFY/playlist",
+     "referer": "https://www.vojkuhd.com/"
     }
    ]
   },
