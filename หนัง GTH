@@ -1,9 +1,31 @@
 {
  "name": "หนังหนัง GTH/GDH",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
- "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+ "author": "อัพวันที่ 9 มกราคม 2568",
+ "info": "ใช้ในครอบครัวเท่านั้น",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+
+  {
+   "name": "วิมานหนาม Wiman Nam (2024)",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2025/01/Wiman-Nam.webp",
+   "stations": [
+    {
+     "name": "วิมานหนาม Wiman Nam (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2025/01/Wiman-Nam.webp",
+     "url": "https://player.movie2free.tv/cdn/master/46b76922bdf1954d60d8c4d62472a926/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "วิมานหนาม The Paradise of Thorns (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/The-Paradise-of-Thorns.jpg",
+     "url": "https://plays2u.com/hv3/MW1nUjBKUHlIaVFhYUZ1bjVYSnQyRnczMzJVbzR4alUx/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    }
+   ]
+  },
   {
    "name": "LAHN MAH - หลานม่า (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5046/20240418174804TKMI.jpg",
