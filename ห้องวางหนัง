@@ -266,6 +266,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "House of Sayuri (2024) บ้านผีอิหยังวะ",
+   "info": "เสียงไทย IMDb6.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ-187x269.png",
+   "stations": [
+    {
+     "name": "House of Sayuri (2024) บ้านผีอิหยังวะ",
+     "info": "Japan พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/a95fee0e5aa7c2638dd70192/a95fee0e5aa7c2638dd70192168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
    "info": "เสียงไทย IMDb5.5",
    "image": "https://www.vojkuhd.com/wp-content/uploads/2025/01/Panda-Plan.jpg",
