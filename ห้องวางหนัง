@@ -266,6 +266,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Victory (2024) สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม",
+   "info": "HD th IMDb 6.2/10 ",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Victory-2024-สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-1-187x269.png",
+   "stations": [
+    {
+     "name": "Victory (2024) สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม",
+     "info": "เกาหลี พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Victory-2024-สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/cd94cf81bf39d52e401f3a1a/cd94cf81bf39d52e401f3a1a438.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Saturday Night (2024)",
+   "info": "HD th IMDb 7.1",
+   "image": "https://www.kubhd.com/wp-content/uploads/2024/10/Saturday-Night-2024.webp",
+   "stations": [
+    {
+     "name": "Saturday Night (2024)",
+     "info": "ฝรั่ง พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2024/10/Saturday-Night-2024.webp",
+     "url": "https://hplay.hdplayfull.xyz/33361bb3-562d-4f8a-9d75-ea0d6599ee9b/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Escape (2024) หนีให้พ้นนรก",
+   "info": "HD th IMDb 6.8",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-187x269.jpg",
+   "stations": [
+    {
+     "name": "Escape (2024) หนีให้พ้นนรก",
+     "info": "เกาหลี พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Escape-2024-หนีให้พ้นนรก-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/0d6953721084c4e01418bef6/0d6953721084c4e01418bef6.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "House of Sayuri (2024) บ้านผีอิหยังวะ",
    "info": "เสียงไทย IMDb6.6",
    "image": "https://www.24-hd.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ-187x269.png",
