@@ -266,6 +266,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
   {
+   "name": "Grave Torture ทุบนรก ศพกระดิก (2024)",
+   "info": "HD th IMDb 7.1",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Grave-Torture-ทุบนรก-ศพกระดิก-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "Grave Torture ทุบนรก ศพกระดิก (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Grave-Torture-ทุบนรก-ศพกระดิก-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/1d860a33b4b7828dc95052ad/1d860a33b4b7828dc95052ad168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Speak No Evil (2022) พักร้อนซ่อนตาย",
+   "info": "HD th IMDb 6.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Speak-No-Evil-2022-พักร้อนซ่อนตาย-187x269.jpg",
+   "stations": [
+    {
+     "name": "Speak No Evil (2022) พักร้อนซ่อนตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Speak-No-Evil-2022-พักร้อนซ่อนตาย-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e771ac50a7a0fc87ac309128/e771ac50a7a0fc87ac309128168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Heretic (2024)",
+   "info": "HD th IMDb 7.3",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Heretic-2024-1-187x269.png",
+   "stations": [
+    {
+     "name": "Heretic (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Heretic-2024-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/472f0d5467c54e6dd4142ffe/472f0d5467c54e6dd4142ffe168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Victory (2024) สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม",
    "info": "HD th IMDb 6.2/10 ",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/12/Victory-2024-สาวสายแด๊นซ์เชียร์วี๊ดบึ้ม-1-187x269.png",
