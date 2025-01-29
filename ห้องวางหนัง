@@ -2586,16 +2586,30 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
-   "name": "Ferrari สปีดทวงบัลลังก์",
-   "info": "เสียงไทย IMDb6.4",
-   "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
+   "name": "Annabelle ตุ๊กตาผี",
+   "info": "HD th IMDb n/a",
+   "image": "https://037hd.tv/wp-content/uploads/2020/12/download-16.jpg",
    "stations": [
     {
-     "name": "Ferrari สปีดทวงบัลลังก์",
+     "name": "Annabelle (2014) ตุ๊กตาผี",
      "info": "พากย์ไทย",
-     "image": "https://www.vojkuhd.com/wp-content/uploads/2024/12/Ferrari.jpg",
-     "url": "https://plays2u.com/hv1/MWo0Z3loRS1KMHhXVklRRElsUVFJTTRwVC10Z1ZjVjVN/playlist",
-     "referer": "https://www.vojkuhd.com/"
+     "image": "https://037hd.tv/wp-content/uploads/2020/12/download-16.jpg",
+     "url": "https://baxplay.com/hls/543e08a7-eb55-445a-9448-a00a3c306afa/index.m3u8",
+     "referer": "https://037hd.tv/"
+    },
+    {
+     "name": "Annabelle 2 Creation (2017) แอนนาเบลล์ กำเนิดตุ๊กตาผี",
+     "info": "พากย์ไทย",
+     "image": "https://037hd.tv/wp-content/uploads/2020/12/download-15.jpg",
+     "url": "https://baxplay.com/hls/0a66fafd-3340-4478-8ddc-95f030fb5f23/index.m3u8",
+     "referer": "https://037hd.tv/"
+    },
+    {
+     "name": "Annabelle 3 Comes Home (2019) แอนนาเบลล์ ตุ๊กตาผีกลับบ้าน",
+     "info": "พากย์ไทย",
+     "image": "https://037hd.tv/wp-content/uploads/2020/09/ดาวน์โหลด.jpg",
+     "url": "https://baxplay.com/hls/ebfb1368-114e-44f3-a175-25fbe8cb1155/index.m3u8",
+     "referer": "https://037hd.tv/"
     }
    ]
   },
