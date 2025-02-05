@@ -379,6 +379,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "High Forces (2024) ยึดเสียดฟ้า",
+   "info": "HD th IMDb 6.8",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2024/12/High-Forces-2024.jpg",
+   "stations": [
+    {
+     "name": "High Forces (2024) ยึดเสียดฟ้า",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/12/High-Forces-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/860e8911f4e2897d511c53af399dd735/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Panda Plan (2024) แพนด้าเด้งสู้ฟัด",
    "info": "เสียงไทย IMDb5.5",
    "image": "https://www.nangdee.com/photoThumbnail/items/m6553_1omxAzVMon105845.jpg",
