@@ -265,6 +265,35 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
 ########################################################
 
+   {
+   "name": "Companion (2025) คอมแพเนียน",
+   "info": "HD th IMDb 7.4",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2025/02/Companion-2025.jpg",
+   "stations": [
+    {
+     "name": "Companion (2025) คอมแพเนียน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2025/02/Companion-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3d1be557b7db455ba3f864365bd67eca/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+
+  {
+   "name": "Bogota city of the lost โบโกตา เมืองคนหลง (2025)",
+   "info": "HD th IMDb 5.7",
+   "image": "https://9928hd.com/wp-content/uploads/Bogota-city-of-the-lost-โบโกตา-เมืองคนหลง.jpg",
+   "stations": [
+    {
+     "name": "Bogota city of the lost โบโกตา เมืองคนหลง (2025)",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://9928hd.com/wp-content/uploads/Bogota-city-of-the-lost-โบโกตา-เมืองคนหลง.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/d2a8b70f80cfc82e78284dbbaba26442/master.m3u8",
+     "referer": "https://enjoy24cdn.com/"
+    }
+   ]
+  },
   {
    "name": "Grave Torture ทุบนรก ศพกระดิก (2024)",
    "info": "HD th IMDb 7.1",
