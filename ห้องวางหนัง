@@ -1,6 +1,5 @@
 {
 name: "ห้องวางหนัง",
-author: "๙/10/๒๕๖๗",
 image:"https://drive.google.com/uc?id=1OHvoOG6VDVgwRqrsbWYUByVuF3Gy3AOt",
 url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies",
 #"stations": [
@@ -265,6 +264,48 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
   },
 ########################################################
 
+
+
+    {
+ "name": "หนังใหม่ ปี 2024 - 2025",
+ "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
+ "groups": [
+ 
+  {
+   "name": "Heretic (2024) บ้านสั่งตาย",
+   "info": "HD th IMDb 7.0 / 10",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/01/7OUt2tckGxKwhq0u8zeEB1rKRwW.webp",
+   "stations": [
+    {
+     "name": "Heretic (2024) บ้านสั่งตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/01/7OUt2tckGxKwhq0u8zeEB1rKRwW.webp",
+     "url": "https://master.streamhls.com/hlsr2/d14e305d073330685f623967dbc27168/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Smile ยิ้มสยอง",
+   "info": "HD th IMDb  6.5",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Smile-2022-ยิ้มสยอง-187x269.jpg",
+   "stations": [
+    {
+     "name": "Smile (2022) ยิ้มสยอง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Smile-2022-ยิ้มสยอง-187x269.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0d823859313610fe57fea1340c897e43/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Smile 2 (2024) ยิ้มสยอง 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/rXc6o2ByBjdSlBMMHrQO6ggUCEj.webp",
+     "url": "https://master.streamhls.com/hlsr2/bc63544759dd5993820349f3061609d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
    {
    "name": "Companion (2025) คอมแพเนียน",
    "info": "HD th IMDb 7.4",
@@ -279,7 +320,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
   {
    "name": "Bogota city of the lost โบโกตา เมืองคนหลง (2025)",
    "info": "HD th IMDb 5.7",
@@ -407,6 +447,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70438.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Wallace & Gromit วอลเลซแอนด์กรอมิต",
    "info": "เสียงไทย IMDb",
    "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/gA0W8WydoidqC6bfzFd.jpg",
@@ -452,20 +506,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.vojkuhd.com/wp-content/uploads/2024/11/We-Live-in-Time.jpg",
      "url": "https://player2u.com/hv3/MTJabHhUSWxGUk5laEMxYTc3VkhFaldJT3FXX1FndHdt/playlist",
      "referer": "https://www.vojkuhd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Colombiana (2011) ระห่ำเกินตาย",
-   "info": "เสียงไทย IMDb6.4/10",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
-   "stations": [
-    {
-     "name": "Colombiana (2011) ระห่ำเกินตาย",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
-     "url": "https://imovie-th.com/cdn/master/28f4ac2c356ae84928de8dd3aea778cc/video/master.txt?device=pc",
-     "referer": "https://movie2free.tv/"
     }
    ]
   },
@@ -911,20 +951,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
-   "name": "จอมยุทธ์ทะลุภพ A Writer’s Odyssey (2021)",
-   "info": "เสียงไทย",
-   "image": "https://www.123-hd.com/wp-content/uploads/2022/03/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-300x450.png",
-   "stations": [
-    {
-     "name": "จอมยุทธ์ทะลุภพ A Writer’s Odyssey (2021)",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2022/03/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-300x450.png",
-     "url": "https://hot.24playerhd.com/ioshls/7d7a41dca5d41a0d97721890b46edda8/7d7a41dca5d41a0d97721890b46edda8.m3u8",
-     "referer": "https://www.123-hd.com/"
-    }
-   ]
-  },
- {
    "name": "The Shadow Strays นักฆ่าเงาล่าทรชน (2024)",
    "info": "เสียงไทย",
    "image": "https://www.24-hd.com/wp-content/uploads/2024/10/The-Shadow-Strays-นักฆ่าเงาล่าทรชน-2024-187x269.jpg",
@@ -939,20 +965,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
  {
-   "name": "Three Thousand Years of Longing (2022) สามพันปีแห่งความโหยหา",
-   "info": "IMDb6.9 เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Three-Thousand-Years-of-Longing-2022-187x269.jpg",
-   "stations": [
-    {
-     "name": "Three Thousand Years of Longing (2022) สามพันปีแห่งความโหยหา",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Three-Thousand-Years-of-Longing-2022-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/c3deee93a087de81b6d00a9b/c3deee93a087de81b6d00a9b168.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-  {
    "name": "Trouble ผิดที่ ผิดทาง (2024)",
    "info": "เสียงไทย 2024",
    "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024-300x450.jpg",
@@ -963,19 +975,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 "image":"https://www.123-hd.com/wp-content/uploads/2024/10/Trouble-ผิดที่-ผิดทาง-2024-300x450.jpg",
 "url":"https://main.24playerhd.com/m3u8/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2168.m3u8",
 "referer": "https://www.123-hd.com/"
-    }
-   ]
-  },
- {
-   "name": "Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
-   "info": "เสียงไทย",
-   "image": "https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
-   "stations": [
-    {
-"name":" Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
-"image":"https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
-"url":"https://hlsp2p.xyz/files/2e203c2d1f5397522e59732feb387293_1080p.txt",
-"referer": "https://www.037hdmovie.com/"
     }
    ]
   },
@@ -1028,48 +1027,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
- {
-   "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
-   "info": "เสียงไทย IMDb 6.8",
-   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Jungle-Cruise-2021.webp",
-   "stations": [
-    {
-     "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
-     "info": "พากย์ไทย",
-     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Jungle-Cruise-2021.webp",
-     "url": "https://hplay.hdplayfull.xyz/fbf6d50a-3932-4db2-8f77-8a959c3ffe28/_",
-     "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
- {
-   "name": "Hercules (2014) เฮอร์คิวลีส",
-   "info": "เสียงไทย",
-   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
-   "stations": [
-    {
-     "name": "Hercules (2014) เฮอร์คิวลีส",
-     "info": "พากย์ไทย",
-     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
-     "url": "https://hplay.hdplayfull.xyz/e1344de4-62f8-4b27-b9eb-5eebe0509a9c/_",
-     "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
- {
-   "name": "Collectors (2020) รวมกันเราฉก",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
-   "stations": [
-    {
-     "name": "Collectors (2020) รวมกันเราฉก",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
-     "url": "https://main.24playerhd.com/newplaylist/9f1a5be5663903bccde0c511/9f1a5be5663903bccde0c511.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
   {
    "name": "Boxer นักชกสังเวียนดิบ (2024)",
    "info": "เสียงไทย 2024",
@@ -1101,20 +1058,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "info": "พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Outlaw-เจ้าแม่-2024.jpg",
      "url": "https://main.abcplays.com/index_g.html?id=2492527afd16cf717160e2ad",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
-   "info": "เสียงไทย 2023",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
-   "stations": [
-    {
-     "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
-     "url": "https://main.abcplays.com/index_g.html?id=91823f9604c2d94961c8531a",
      "referer": "https://www.24-hd.com/"
     }
    ]
@@ -1245,27 +1188,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
- {
-   "name": "Mannequin เทวดาทำหล่น",
-   "info": "เสียงไทย",
-   "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
-   "stations": [
-    {
-     "name": "Mannequin 1 (1987) เทวดาทำหล่น 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
-     "url": "https://hplay.hdplayfull.xyz/2f27b0de-0b4b-4dcc-ac0b-0d52a5005ed5/_",
-     "referer": "https://www.kubhd.com/"
-    },
-    {
-     "name": "Mannequin 2 On the Move (1991) เทวดาทำหล่น ภาค2",
-     "info": "ซับไทย",
-     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Mannequin-2-On-the-Move-1991.webp",
-     "url": "https://hplay.hdplayfull.xyz/ec409643-d708-46ac-a4c6-db284f1725bf/_",
-     "referer": "https://www.kubhd.com/"
-    }
-   ]
-  },
   {
    "name": "Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)",
    "info": "เสียงไทย 2024",
@@ -1329,9 +1251,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
-#############################05/09/67##########################
-
   {
    "name": "High Forces (2024) ไฟลต์ระทึกฟ้าทะลุ",
    "info": "เสียงไทย",
@@ -1342,20 +1261,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "info": "พากย์ไทย",
      "image": "https://movie2free.tv/wp-content/uploads/2024/11/High-Forces.webp",
      "url": "https://stream1.movie2free.tv/cdn/down/cb4bfd017e25338a890345675e0be864/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
-  {
-   "name": "Conjuring Curse (2023) คำสาปเมืองผี",
-   "info": "เสียงไทย",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Conjuring-Curse.webp",
-   "stations": [
-    {
-     "name": "Conjuring Curse (2023) คำสาปเมืองผี",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Conjuring-Curse.webp",
-     "url": "https://stream1.movie2free.tv/cdn/master/8d27b3cfbe09082324a428cc3500fc9e/master.m3u8",
      "referer": "https://movie2free.tv/"
     }
    ]
@@ -1385,6 +1290,210 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2024/11/The-Merry-Gentlemen-เดอะ-เมอร์รี่-เจนเทิลแมน-2024.jpg",
      "url": "https://main.24playerhd.com/m3u8/1b7d7f4af52f6c5e4cb7d635/1b7d7f4af52f6c5e4cb7d635168.m3u8",
      "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c39c15f38c33254301effa05/c39c15f38c33254301effa05168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
+   "info": "เสียงไทย 2024",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",
+   "stations": [
+    {
+     "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",
+     "url": "https://main.abcplays.com/index_g.html?id=e2c0f5748ab78e61ceb47a7a",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
+   "stations": [
+    {
+     "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/502bef6fa56f55167515ef2135e440f0/502bef6fa56f55167515ef2135e440f0.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Count of Monte-Cristo (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/The-Count-of-Monte-Cristo-2024.webp?x39550",
+     "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
+     "referer": "https://www.moviehdfree.net/"
+    }
+    
+ ]
+}]},
+
+#####################################################
+
+  {
+ "name": "หนังก่อน ปี 2024",
+ "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
+ "groups": [
+
+  {
+   "name": "Colombiana (2011) ระห่ำเกินตาย",
+   "info": "เสียงไทย IMDb6.4/10",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
+   "stations": [
+    {
+     "name": "Colombiana (2011) ระห่ำเกินตาย",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Colombiana.webp",
+     "url": "https://imovie-th.com/cdn/master/28f4ac2c356ae84928de8dd3aea778cc/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "จอมยุทธ์ทะลุภพ A Writer’s Odyssey (2021)",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/03/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-300x450.png",
+   "stations": [
+    {
+     "name": "จอมยุทธ์ทะลุภพ A Writer’s Odyssey (2021)",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/03/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/7d7a41dca5d41a0d97721890b46edda8/7d7a41dca5d41a0d97721890b46edda8.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Three Thousand Years of Longing (2022) สามพันปีแห่งความโหยหา",
+   "info": "IMDb6.9 เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Three-Thousand-Years-of-Longing-2022-187x269.jpg",
+   "stations": [
+    {
+     "name": "Three Thousand Years of Longing (2022) สามพันปีแห่งความโหยหา",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Three-Thousand-Years-of-Longing-2022-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/c3deee93a087de81b6d00a9b/c3deee93a087de81b6d00a9b168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
+   "info": "เสียงไทย",
+   "image": "https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
+   "stations": [
+    {
+"name":" Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิเบิ้ล 7 ล่าพิกัดมรณะ",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2023/07/mission-impossible-7.jpg",
+"url":"https://hlsp2p.xyz/files/2e203c2d1f5397522e59732feb387293_1080p.txt",
+"referer": "https://www.037hdmovie.com/"
+    }
+   ]
+  },
+ {
+   "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
+   "info": "เสียงไทย IMDb 6.8",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Jungle-Cruise-2021.webp",
+   "stations": [
+    {
+     "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Jungle-Cruise-2021.webp",
+     "url": "https://hplay.hdplayfull.xyz/fbf6d50a-3932-4db2-8f77-8a959c3ffe28/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Hercules (2014) เฮอร์คิวลีส",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
+   "stations": [
+    {
+     "name": "Hercules (2014) เฮอร์คิวลีส",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Hercules-2014-e1695475746381.webp",
+     "url": "https://hplay.hdplayfull.xyz/e1344de4-62f8-4b27-b9eb-5eebe0509a9c/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Collectors (2020) รวมกันเราฉก",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
+   "stations": [
+    {
+     "name": "Collectors (2020) รวมกันเราฉก",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Collectors-2020-รวมกันเราฉก-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/9f1a5be5663903bccde0c511/9f1a5be5663903bccde0c511.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
+   "info": "เสียงไทย 2023",
+   "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
+   "stations": [
+    {
+     "name": "The Teachers Lounge ห้องเรียนเดือด (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/09/The-Teachers-Lounge-ห้องเรียนเดือด-2023.jpg",
+     "url": "https://main.abcplays.com/index_g.html?id=91823f9604c2d94961c8531a",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Mannequin เทวดาทำหล่น",
+   "info": "เสียงไทย",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
+   "stations": [
+    {
+     "name": "Mannequin 1 (1987) เทวดาทำหล่น 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/07/Mannequin-1987-e1690378939351.webp",
+     "url": "https://hplay.hdplayfull.xyz/2f27b0de-0b4b-4dcc-ac0b-0d52a5005ed5/_",
+     "referer": "https://www.kubhd.com/"
+    },
+    {
+     "name": "Mannequin 2 On the Move (1991) เทวดาทำหล่น ภาค2",
+     "info": "ซับไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/09/Mannequin-2-On-the-Move-1991.webp",
+     "url": "https://hplay.hdplayfull.xyz/ec409643-d708-46ac-a4c6-db284f1725bf/_",
+     "referer": "https://www.kubhd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Conjuring Curse (2023) คำสาปเมืองผี",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/12/Conjuring-Curse.webp",
+   "stations": [
+    {
+     "name": "Conjuring Curse (2023) คำสาปเมืองผี",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/12/Conjuring-Curse.webp",
+     "url": "https://stream1.movie2free.tv/cdn/master/8d27b3cfbe09082324a428cc3500fc9e/master.m3u8",
+     "referer": "https://movie2free.tv/"
     }
    ]
   },
@@ -1504,20 +1613,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Hanna-2011-เหี้ยมบริสุทธิ์-187x269.jpg",
      "url": "https://hot.24playerhd.com/ioshls/477995be3c5523abef24774f534b148f/477995be3c5523abef24774f534b148f.m3u8",
      "referer": "https://www.123-hd.com/"
-    }
-   ]
-  },
- {
-   "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "We Live in Time เวลานั้นฉันและเธอ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/11/We-Live-in-Time-เวลานั้นฉันและเธอ-2024-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/c39c15f38c33254301effa05/c39c15f38c33254301effa05168.m3u8",
-     "referer": "https://www.24-hd.com/"
     }
    ]
   },
@@ -1794,41 +1889,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-  {
-   "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
-   "info": "เสียงไทย",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/10/King-Arthur.webp",
-   "stations": [
-    {
-     "name": "King Arthur (2004) ศึกจอมราชันย์อัศวินล้างปฐพี",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/10/King-Arthur.webp",
-     "url": "https://stream1.movie2free.tv/cdn/down/c0fc5d4ebaa3a7198e001340edb60f4a/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
-  {
-   "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
-   "info": "เสียงไทย 2024",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",
-   "stations": [
-    {
-     "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",
-     "url": "https://main.abcplays.com/index_n.php?id=e2c0f5748ab78e61ceb47a7a",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Arthur the King (2024) อาเธอร์ จอมราชา",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Arthur-the-King-อาเธอร์-จอมราชา-2024.jpg",
-     "url": "https://main.abcplays.com/index_g.html?id=e2c0f5748ab78e61ceb47a7a",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
  {
    "name": "Confidential Assignment คู่จารชน คนอึนมึน",
    "info": "เสียงไทย",
@@ -2068,41 +2128,7 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-  {
-   "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70438.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
-   "info": "เสียงไทย",
-   "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
-   "stations": [
-    {
-     "name": "The Count of Monte Cristo (2002) ดวลรัก…ดับแค้น",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2022/01/The-Count-of-Monte-Cristo-2002-ดวลรัก...ดับแค้น-300x450.png",
-     "url": "https://hot.24playerhd.com/ioshls/502bef6fa56f55167515ef2135e440f0/502bef6fa56f55167515ef2135e440f0.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "The Count of Monte-Cristo (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/The-Count-of-Monte-Cristo-2024.webp?x39550",
-     "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
-     "referer": "https://www.moviehdfree.net/"
-    }
-   ]
-  },
+
   {
    "name": "The Proposal (2009) ลุ้นวิวาห์รักฟ้าแลบ",
    "info": "HD th IMDb 6.7/10",
