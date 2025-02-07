@@ -2,269 +2,7 @@
 name: "ห้องวางหนัง",
 image:"https://drive.google.com/uc?id=1OHvoOG6VDVgwRqrsbWYUByVuF3Gy3AOt",
 url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies",
-#"stations": [
-
 "groups": [
-
-   {
-   "name": "Movies Collection",
-   "info": "รวมหนังน่าดู",
-   "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
-   "stations": [
-    {
-     "name": "Notting Hill (1999) รักบานฉ่ำ ที่น๊อตติ้งฮิลล์",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Notting-Hill-1999-รักบานฉ่ำ-ที่น๊อตติ้งฮิลล์-300x450.png",
-     "url": "https://main.24playerhd.com/newplaylist/da67ab21a95596b7167e6c78/da67ab21a95596b7167e6c78.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "Titanic (1997) ไททานิค",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Titanic-1997-ไททานิค-300x450.jpg",
-     "url": "https://hot.24playerhd.com/ioshls/ed18e6e8f879cf08aefa0e7cbd40d914/ed18e6e8f879cf08aefa0e7cbd40d914.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-300x450.png",
-     "url": "https://main.24playerhd.com/newplaylist/14bf758d993ccf33b5b672a8/14bf758d993ccf33b5b672a8.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "ฉลาดเกมส์โกง  Bad Genius (2017)",
-     "info": "หนังไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/BRIhWnMxRvsN7FxjKHx.jpg",
-     "url": "https://playermhd.p2phls.xyz/48d024a7-02f6-4119-b246-071714d8c822/_",
-     "referer": "https://www.moviehdfree.net/"
-    },
-{
-"name":"Mary Poppins (1964) แมรี่ ป๊อปปินส์",
-"info": "HD th 7.8/10",
-"image":"https://movie2free.tv/wp-content/uploads/2024/03/Mary-Poppins.webp",
-"url":"https://stream1.movie2free.tv/cdn/down/1fc94e0bb90679f66775587242ebc3c5/video/900p.m3u8",
-"referer": "https://movie2free.tv/"
-  },
-  {
-  "name" : "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
-  "info"   :  "HD th 6.6/10",
-  "image" : "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
-   "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
-     "referer": "https://www.vojkuhd.com/"
-    },
-    {
-     "name": "Gone with the Wind วิมานลอย (1939)",
-     "info": "พากย์ไทย",
-     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/Gone-with-the-Wind-1939.jpg.webp",
-     "url": "https://playermhd.p2phls.xyz/dbab5983-b506-44ae-83b1-76c8bca2d3e0/_",
-     "referer": "https://www.moviehdfree.net/"
-    },
-{
-"name":"Romeo and Juliet (1968) โรมีโอและจูเลียต",
-"info": "HD th IMDb 7.6/10 ",
-"image":"https://www.ชอบหนัง.com/wp-content/uploads/2022/04/hzE63Fah1BbqGQ3srVhOXoPPkBb-265x375.jpg",
-"url":"https://streamhls.com/view/3ec8b057-8852-5f7f-b813-b727836abeec.m3u8",
-"referer": "https://www.ชอบหนัง.com/"
-},
-    {
-     "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
-     "info": "พากย์ไทย",
-     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/The-Sound-of-Music-1965.jpg.webp",
-     "url": "https://imovie-th.com/cdn/master/d99afa91743e2d9972e9a8177827360d/video/master.txt?device=pc",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
- {
-   "name": "The Godfather เดอะ ก็อดฟาเธอร์",
-   "info": "เสียงไทย",
-   "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
-   "stations": [
-    {
-     "name": "The Godfather (1972) เดอะ ก็อดฟาเธอร์",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
-     "url": "https://hot.24playerhd.com/ioshls/469dfceb684ab1142faf71de8bde0761/469dfceb684ab1142faf71de8bde0761.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "The Godfather 2 (1974) เดอะ ก็อดฟาเธอร์ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-2-1974-เดอะ-ก็อดฟาเธอร์-2-300x450.png",
-     "url": "https://hot.24playerhd.com/ioshls/2775b30b8a58ae56c4383bba453b81ad/2775b30b8a58ae56c4383bba453b81ad.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "The Godfather 3 (1990) เดอะ ก็อดฟาเธอร์ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-3-1990-เดอะ-ก็อดฟาเธอร์-3-300x450.png",
-     "url": "https://main.24playerhd.com/m3u8/425e35c00399e4e189589260/425e35c00399e4e189589260168.m3u8",
-     "referer": "https://www.123-hd.com/"
-    }
-   ]
-  },
- {
-   "name": "หนัง DC Universe (Superman)",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-187x269.jpg",
-   "stations": [
-    {
-     "name": "Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-300x450.jpg",
-     "url": "https://main.24playerhd.com/m3u8/79536154af21ab5610ac1c86/79536154af21ab5610ac1c86438.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Batman-v-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/7829b52aeb3aebea281d2052/7829b52aeb3aebea281d2052168.m3u8",
-     "referer": "https://www.24-hd.com/"
-    },
-    {
-     "name": "Justice League (2017)",
-     "info": "พากย์ไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
-     "url": "https://hplay.hdplayfull.xyz/1e3bf173-a35a-485a-ac89-2f340a6219fb/_",
-     "referer": "https://www.kubhd.com/"
-    },
-    {
-     "name": "Zack Snyder’s Justice League (2021)",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Zack-Snyders-Justice-League-2021-187x269.jpg",
-     "url": "https://main.24playerhd.com/m3u8/b709b14058ce60e66977b1b4/b709b14058ce60e66977b1b4168.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
- {
-   "name": "Chef Movies Collection",
-   "info": "HD",
-   "image": "https://i.pinimg.com/564x/a6/f2/0f/a6f20f0d2bd792485d8bbc3d796b0590.jpg",
-   "stations": [
-{
-"name":"Le Grand Chef 2: Kimchi Battle (Sik-gaek: Kim-chi-jeon-jaeng) บิ๊กกุ๊กศึกโลกันตร์ 2 ประลองกิมจิ (2010)",
-"image":"https://img.inwiptv.net/postor/20180607074250le-grand-chef-2-kimchi-battle.42247.jpg",
-"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2-Kimchi-Battle-2010/Le-Grand-Chef-2-Kimchi-Battle-2010-TH-720p.mp4/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-{
-"name":"Le Grand Chef (Sik-gaek) บิ๊กกุ๊กศึกโลกันตร์ (2007)",
-"image":"https://img.inwiptv.net/postor/20180607065001fullsizephoto799387.jpg",
-"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2007/Le-Grand-Chef-2007-TH-480p.mp4/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-{
-"name":"Kung-fu Chefs (Gong fu chu shen) กุ๊กเทวดา กังฟูใหญ่ฟัดใหญ่ (2009)",
-"image":"https://img.inwiptv.net/postor/20181020080414photo.jpeg",
-"url":"https://m1free.inwstream.com:1936/movie3/Kung-Fu-Chefs-2009/Kung-Fu-Chefs-2009-TH-480p.mp4/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-{
-"name":"The Chef เดอะ เชฟ ศึกกระทะเหล็ก (2012)",
-"image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20เดอะ%20เชฟ%20ศึกกระทะเหล็ก%20(2012).jpg",
-"url":"https://m1free.inwstream.com:1936/movie2/the_chef_2012/the_chef_2012_th_480p_fw.m4v/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-{
-"name":"Chef 2014",
-"image":"https://img.inwiptv.net/postor/20200407152743Chef%202014.jpg",
-"url":"https://m1free.inwstream.com:1936/movie2/chef_2014/chef_2014_th_1080p_fw.m4v/chunk.m3u8",
-"referer": "https://fw4free.com/"
-    }
-   ]
-  },
-{
-   "name": "Marilyn Monroe",
-   "info": "รวมหนังมาริลิน มอนโร",
-   "image": "https://img2.imgbiz.com/imgbiz/Marilyn-Monroe.jpg",
-   "stations": [
-
-{
-"name":"The Seven Year Itch (1955)",
-"image":"https://www.123-hd.com/wp-content/uploads/2023/05/The-Seven-Year-Itch-1955-300x450.jpg",
-"url":"https://main.24playerhd.com/m3u8/97d9e004d334a14b375b1b0b/97d9e004d334a14b375b1b0b168.m3u8",
-"referer": "https://www.123-hd.com/"
-},
-{
-"name":"How to Marry a Millionaire (1953) เคล็ดลับจับเศรษฐี",
-"image":"https://www.123-hd.com/wp-content/uploads/2022/04/How-to-Marry-a-Millionaire-1953-เคล็ดลับจับเศรษฐี-300x450.png",
-"url":"https://hot.24playerhd.com/ioshls/0f0b90478535e5c3fb63be6beed41a75/0f0b90478535e5c3fb63be6beed41a75.m3u8",
-"referer": "https://www.123-hd.com/"
-},
-{
-"name":"River Of No Return (1954) สายน้ำไม่ไหลกลับ",
-"image":"https://www.kubhd.com/wp-content/uploads/2024/01/River-Of-No-Return-1954-e1704250164490.webp",
-"url":"https://hplay.hdplayfull.xyz/1839fd59-a2e7-4393-8548-8289b5f37f65/_",
-"referer": "https://www.kubhd.com/"
-},
-{
-"name":"The Prince and the Showgirl (1957)",
-"image":"https://doomovie.online/wp-content/uploads/2021/09/The-Prince-and-the-Showgirl-1957.jpg",
-"url":"https://ezycdn.com/playlist-porrgm7s-SD.m3u8",
-"referer": "https://doomovie.online/"
-},
-{
-"name":"Gentlemen Prefer Blondes (1953) สองสาวยั่วสวาท",
-"image":"https://www.123-hd.com/wp-content/uploads/2022/04/Gentlemen-Prefer-Blondes-1953-สองสาวยั่วสวาท-300x450.png",
-"url":"https://hot.24playerhd.com/ioshls/fa2ea39492a30065311578144f35714c/fa2ea39492a30065311578144f35714c.m3u8",
-"referer": "https://www.123-hd.com/"
-},
-{
-"name":"Niagara (1953)",
-"image":"https://www.moviehdfree.net/wp-content/uploads/2021/08/Niagara-1953.jpg.webp",
-"url":"https://playermhd.p2phls.xyz/0558d316-601d-40ad-9098-83cc11f970c9/_",
-"referer": "https://www.moviehdfree.net/"
-    }
-   ]
-  },
-  {
-   "name": "Mamma Mia! มัมมา มีอา!",
-   "info": "เสียงไทย",
-   "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
-   "stations": [
-    {
-     "name": "Mamma Mia! (2008) มัมมา มีอา! วิวาห์วุ่น ลุ้นหาพ่อ",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
-     "url": "https://stream1.movie2free.tv/cdn/down/e84065330dff960fc276722e827ccde0/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    },
-    {
-     "name": "Mamma Mia! Here We Go Again (2018) มัมมา มีอา! 2",
-     "info": "พากย์ไทย",
-     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia-Here-We-Go-Again-2.webp",
-     "url": "https://stream1.movie2free.tv/cdn/down/9dee0ef0d0d2954319069f5a8db97cec/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    }
-   ]
-  },
- {
-   "name": "The Platform",
-   "info": "เสียงไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
-   "stations": [
-    {
-     "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
-     "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
-    },
-    {
-     "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/10/The-Platform-2-2024.jpg",
-     "url": "https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b168.m3u8",
-     "referer": "https://www.24-hd.com/"
-    }
-   ]
-  },
-########################################################
-
-
 
     {
  "name": "หนังใหม่ ปี 2024 - 2025",
@@ -1340,7 +1078,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
      "referer": "https://www.moviehdfree.net/"
     }
-    
  ]
 }]},
 
@@ -2421,7 +2158,267 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://ezycdn.com/playlist-j24eu74l-SD.m3u8",
      "referer": "https://doomovie.online/"
     }
+ ]
+}]},
+
+########################################################
+
+   {
+   "name": "Movies Collection",
+   "info": "รวมหนังน่าดู",
+   "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+   "stations": [
+    {
+     "name": "Notting Hill (1999) รักบานฉ่ำ ที่น๊อตติ้งฮิลล์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Notting-Hill-1999-รักบานฉ่ำ-ที่น๊อตติ้งฮิลล์-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/da67ab21a95596b7167e6c78/da67ab21a95596b7167e6c78.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Titanic (1997) ไททานิค",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Titanic-1997-ไททานิค-300x450.jpg",
+     "url": "https://hot.24playerhd.com/ioshls/ed18e6e8f879cf08aefa0e7cbd40d914/ed18e6e8f879cf08aefa0e7cbd40d914.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/14bf758d993ccf33b5b672a8/14bf758d993ccf33b5b672a8.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "ฉลาดเกมส์โกง  Bad Genius (2017)",
+     "info": "หนังไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/BRIhWnMxRvsN7FxjKHx.jpg",
+     "url": "https://playermhd.p2phls.xyz/48d024a7-02f6-4119-b246-071714d8c822/_",
+     "referer": "https://www.moviehdfree.net/"
+    },
+{
+"name":"Mary Poppins (1964) แมรี่ ป๊อปปินส์",
+"info": "HD th 7.8/10",
+"image":"https://movie2free.tv/wp-content/uploads/2024/03/Mary-Poppins.webp",
+"url":"https://stream1.movie2free.tv/cdn/down/1fc94e0bb90679f66775587242ebc3c5/video/900p.m3u8",
+"referer": "https://movie2free.tv/"
+  },
+  {
+  "name" : "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
+  "info"   :  "HD th 6.6/10",
+  "image" : "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
+   "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    },
+    {
+     "name": "Gone with the Wind วิมานลอย (1939)",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/Gone-with-the-Wind-1939.jpg.webp",
+     "url": "https://playermhd.p2phls.xyz/dbab5983-b506-44ae-83b1-76c8bca2d3e0/_",
+     "referer": "https://www.moviehdfree.net/"
+    },
+{
+"name":"Romeo and Juliet (1968) โรมีโอและจูเลียต",
+"info": "HD th IMDb 7.6/10 ",
+"image":"https://www.ชอบหนัง.com/wp-content/uploads/2022/04/hzE63Fah1BbqGQ3srVhOXoPPkBb-265x375.jpg",
+"url":"https://streamhls.com/view/3ec8b057-8852-5f7f-b813-b727836abeec.m3u8",
+"referer": "https://www.ชอบหนัง.com/"
+},
+    {
+     "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/The-Sound-of-Music-1965.jpg.webp",
+     "url": "https://imovie-th.com/cdn/master/d99afa91743e2d9972e9a8177827360d/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
    ]
   },
- ]
+ {
+   "name": "The Godfather เดอะ ก็อดฟาเธอร์",
+   "info": "เสียงไทย",
+   "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
+   "stations": [
+    {
+     "name": "The Godfather (1972) เดอะ ก็อดฟาเธอร์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-เดอะ-ก็อดฟาเธอร์-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/469dfceb684ab1142faf71de8bde0761/469dfceb684ab1142faf71de8bde0761.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Godfather 2 (1974) เดอะ ก็อดฟาเธอร์ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-2-1974-เดอะ-ก็อดฟาเธอร์-2-300x450.png",
+     "url": "https://hot.24playerhd.com/ioshls/2775b30b8a58ae56c4383bba453b81ad/2775b30b8a58ae56c4383bba453b81ad.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Godfather 3 (1990) เดอะ ก็อดฟาเธอร์ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-3-1990-เดอะ-ก็อดฟาเธอร์-3-300x450.png",
+     "url": "https://main.24playerhd.com/m3u8/425e35c00399e4e189589260/425e35c00399e4e189589260168.m3u8",
+     "referer": "https://www.123-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "หนัง DC Universe (Superman)",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-187x269.jpg",
+   "stations": [
+    {
+     "name": "Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน-300x450.jpg",
+     "url": "https://main.24playerhd.com/m3u8/79536154af21ab5610ac1c86/79536154af21ab5610ac1c86438.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Batman-v-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/7829b52aeb3aebea281d2052/7829b52aeb3aebea281d2052168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Justice League (2017)",
+     "info": "พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/07/Justice-League-Warworld-2023.jpg",
+     "url": "https://hplay.hdplayfull.xyz/1e3bf173-a35a-485a-ac89-2f340a6219fb/_",
+     "referer": "https://www.kubhd.com/"
+    },
+    {
+     "name": "Zack Snyder’s Justice League (2021)",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Zack-Snyders-Justice-League-2021-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/b709b14058ce60e66977b1b4/b709b14058ce60e66977b1b4168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+ {
+   "name": "Chef Movies Collection",
+   "info": "HD",
+   "image": "https://i.pinimg.com/564x/a6/f2/0f/a6f20f0d2bd792485d8bbc3d796b0590.jpg",
+   "stations": [
+{
+"name":"Le Grand Chef 2: Kimchi Battle (Sik-gaek: Kim-chi-jeon-jaeng) บิ๊กกุ๊กศึกโลกันตร์ 2 ประลองกิมจิ (2010)",
+"image":"https://img.inwiptv.net/postor/20180607074250le-grand-chef-2-kimchi-battle.42247.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2-Kimchi-Battle-2010/Le-Grand-Chef-2-Kimchi-Battle-2010-TH-720p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
 },
+{
+"name":"Le Grand Chef (Sik-gaek) บิ๊กกุ๊กศึกโลกันตร์ (2007)",
+"image":"https://img.inwiptv.net/postor/20180607065001fullsizephoto799387.jpg",
+"url":"https://m1free.inwstream.com:1936/movie3/Le-Grand-Chef-2007/Le-Grand-Chef-2007-TH-480p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"Kung-fu Chefs (Gong fu chu shen) กุ๊กเทวดา กังฟูใหญ่ฟัดใหญ่ (2009)",
+"image":"https://img.inwiptv.net/postor/20181020080414photo.jpeg",
+"url":"https://m1free.inwstream.com:1936/movie3/Kung-Fu-Chefs-2009/Kung-Fu-Chefs-2009-TH-480p.mp4/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"The Chef เดอะ เชฟ ศึกกระทะเหล็ก (2012)",
+"image":"https://img.inwiptv.net/postor/20200409170339The%20Chef%20เดอะ%20เชฟ%20ศึกกระทะเหล็ก%20(2012).jpg",
+"url":"https://m1free.inwstream.com:1936/movie2/the_chef_2012/the_chef_2012_th_480p_fw.m4v/chunk.m3u8",
+"referer": "https://fw4free.com/"
+},
+{
+"name":"Chef 2014",
+"image":"https://img.inwiptv.net/postor/20200407152743Chef%202014.jpg",
+"url":"https://m1free.inwstream.com:1936/movie2/chef_2014/chef_2014_th_1080p_fw.m4v/chunk.m3u8",
+"referer": "https://fw4free.com/"
+    }
+   ]
+  },
+{
+   "name": "Marilyn Monroe",
+   "info": "รวมหนังมาริลิน มอนโร",
+   "image": "https://img2.imgbiz.com/imgbiz/Marilyn-Monroe.jpg",
+   "stations": [
+
+{
+"name":"The Seven Year Itch (1955)",
+"image":"https://www.123-hd.com/wp-content/uploads/2023/05/The-Seven-Year-Itch-1955-300x450.jpg",
+"url":"https://main.24playerhd.com/m3u8/97d9e004d334a14b375b1b0b/97d9e004d334a14b375b1b0b168.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"How to Marry a Millionaire (1953) เคล็ดลับจับเศรษฐี",
+"image":"https://www.123-hd.com/wp-content/uploads/2022/04/How-to-Marry-a-Millionaire-1953-เคล็ดลับจับเศรษฐี-300x450.png",
+"url":"https://hot.24playerhd.com/ioshls/0f0b90478535e5c3fb63be6beed41a75/0f0b90478535e5c3fb63be6beed41a75.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"River Of No Return (1954) สายน้ำไม่ไหลกลับ",
+"image":"https://www.kubhd.com/wp-content/uploads/2024/01/River-Of-No-Return-1954-e1704250164490.webp",
+"url":"https://hplay.hdplayfull.xyz/1839fd59-a2e7-4393-8548-8289b5f37f65/_",
+"referer": "https://www.kubhd.com/"
+},
+{
+"name":"The Prince and the Showgirl (1957)",
+"image":"https://doomovie.online/wp-content/uploads/2021/09/The-Prince-and-the-Showgirl-1957.jpg",
+"url":"https://ezycdn.com/playlist-porrgm7s-SD.m3u8",
+"referer": "https://doomovie.online/"
+},
+{
+"name":"Gentlemen Prefer Blondes (1953) สองสาวยั่วสวาท",
+"image":"https://www.123-hd.com/wp-content/uploads/2022/04/Gentlemen-Prefer-Blondes-1953-สองสาวยั่วสวาท-300x450.png",
+"url":"https://hot.24playerhd.com/ioshls/fa2ea39492a30065311578144f35714c/fa2ea39492a30065311578144f35714c.m3u8",
+"referer": "https://www.123-hd.com/"
+},
+{
+"name":"Niagara (1953)",
+"image":"https://www.moviehdfree.net/wp-content/uploads/2021/08/Niagara-1953.jpg.webp",
+"url":"https://playermhd.p2phls.xyz/0558d316-601d-40ad-9098-83cc11f970c9/_",
+"referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "Mamma Mia! มัมมา มีอา!",
+   "info": "เสียงไทย",
+   "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
+   "stations": [
+    {
+     "name": "Mamma Mia! (2008) มัมมา มีอา! วิวาห์วุ่น ลุ้นหาพ่อ",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/e84065330dff960fc276722e827ccde0/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "Mamma Mia! Here We Go Again (2018) มัมมา มีอา! 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie2free.tv/wp-content/uploads/2024/11/Mamma-Mia-Here-We-Go-Again-2.webp",
+     "url": "https://stream1.movie2free.tv/cdn/down/9dee0ef0d0d2954319069f5a8db97cec/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+ {
+   "name": "The Platform",
+   "info": "เสียงไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
+   "stations": [
+    {
+     "name": "The Platform 1 (2019) เดอะ แพลตฟอร์ม 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/02/The-Platform-2019-เดอะ-แพลตฟอร์ม-187x269.jpg",
+     "url": "https://stream1.movie2free.tv/cdn/down/b8f2a55f89528fb6348b953501ab59f7/video/630p.m3u8",
+     "referer": "https://movie2free.tv/"
+    },
+    {
+     "name": "The Platform 2 (El hoyo 2) (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2024/10/The-Platform-2-2024.jpg",
+     "url": "https://main.24playerhd.com/m3u8/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b168.m3u8",
+     "referer": "https://www.24-hd.com/"
+        }
+  ]
+}
+  ]
+  
+}
