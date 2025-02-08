@@ -1078,6 +1078,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
      "referer": "https://www.moviehdfree.net/"
     }
+   ]
+  },
+  {
+   "name": "Sumala (2024) สุมาลา",
+   "info": "HD th IMDb 5.7",
+   "image": "https://www.nanamovies.me/wp-content/uploads/2025/02/Sumala-2024.webp",
+   "stations": [
+    {
+     "name": "Sumala (2024) สุมาลา",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.nanamovies.me/wp-content/uploads/2025/02/Sumala-2024.webp",
+     "url": "https://stm2pat.cdn-nanaplayer.com/hls2/02/00011/g2bi4ku28dpn_,n,h,.urlset/master.m3u8?t=eSWLmYzKgRYQ4x1e2E1B6FtVf5vafd6SrU2ePd_iKzo&s=1739032848&e=10800&f=57818&srv=drapex1&i=0.3&sp=0&p1=stm2pat&p2=stm2pat",
+     "referer": "https://stm2pat.cdn-nanaplayer.com/"
+    }
  ]
 }]},
 
