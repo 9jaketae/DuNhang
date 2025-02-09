@@ -1108,10 +1108,59 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
    "stations": [
     {
-     "name": "Berlin (2023) เบอร์ลิน",
-     "info": "หนังฝรั่ง พากย์ไทย",
+     "name": "EP 1 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
      "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
      "url": "https://m1-txt-2.xdomovie247.com/playlist2/detail/63ee2956/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 2 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m2-txt-2.xdomovie247.com/playlist2/detail/e2c233a0/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 3 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m3-txt-2.xdomovie247.com/playlist2/detail/06dc08e6/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 4 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m3-txt-2.xdomovie247.com/playlist2/detail/69aee81a/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 5 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m1-txt-2.xdomovie247.com/playlist2/detail/fb0e8a0d/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 6 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m1-txt-2.xdomovie247.com/playlist2/detail/01e8a42b/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 7 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m3-txt-2.xdomovie247.com/playlist2/detail/a05bbbdf/720/hls/index.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "EP 8 Berlin",
+     "info": "ซีรีย์ฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
+     "url": "https://m2-txt-2.xdomovie247.com/playlist2/detail/4db93721/720/hls/index.m3u8",
      "referer": "https://2025hd.com/"
     }
    ]
