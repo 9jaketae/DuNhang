@@ -1103,6 +1103,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Powder ชายเผือกสายฟ้าฟาด (1995)",
+   "info": "HD th IMDb 8.0",
+   "image": "https://movie285.com/wp-content/uploads/2020/07/p406.jpg",
+   "stations": [
+    {
+     "name": "Powder ชายเผือกสายฟ้าฟาด (1995)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://movie285.com/wp-content/uploads/2020/07/p406.jpg",
+     "url": "https://ezycdn.com/playlist-pgalapd5-SD.m3u8",
+     "referer": "https://24-hd.tv/"
+    }
+   ]
+  },
+  {
+   "name": "Night Of Soul Returning (2023) ค่ำคืนคืนวิญญาณ",
+   "info": "HD th IMDb 6.5",
+   "image": "https://www.movies-d.com/wp-content/uploads/2023/06/Night-Of-Soul-Returning-2023.webp",
+   "stations": [
+    {
+     "name": "Night Of Soul Returning (2023) ค่ำคืนคืนวิญญาณ",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/06/Night-Of-Soul-Returning-2023.webp",
+     "url": "https://master.streamhls.com/hlsr2/a055f2aa13766d29704cf2563b5e8bab/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Berlin (2023) เบอร์ลิน",
    "info": "HD th IMDb 9.7",
    "image": "https://2025hd.com/wp-content/uploads/2024/01/Berlin-2023-เบอร์ลิน.webp",
