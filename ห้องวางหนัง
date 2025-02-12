@@ -1103,6 +1103,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Don’t Look at the Demon (2022) ฝรั่งเซ่นผี",
+   "info": "HD th IMDb  6.7",
+   "image": "https://www.movies-d.com/wp-content/uploads/2024/02/dHMpgReXLwxTjqMOnRAZOqQcuvs-scaled.webp",
+   "stations": [
+    {
+     "name": "Don’t Look at the Demon (2022) ฝรั่งเซ่นผี",
+     "info": "พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/02/dHMpgReXLwxTjqMOnRAZOqQcuvs-scaled.webp",
+     "url": "https://master.streamhls.com/hlsr2/59dfa39b80a31c512c845e186603329a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Powder ชายเผือกสายฟ้าฟาด (1995)",
    "info": "HD th IMDb 8.0",
    "image": "https://movie285.com/wp-content/uploads/2020/07/p406.jpg",
