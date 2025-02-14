@@ -8,7 +8,56 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "name": "หนังใหม่ ปี 2024 - 2025",
  "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
  "groups": [
- 
+
+  {
+   "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+   "info": "HD th IMDb 6.3",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/02/1vKTw97ppeVkfmkTAVHY74W5e8T.webp",
+   "stations": [
+    {
+     "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/1vKTw97ppeVkfmkTAVHY74W5e8T.webp",
+     "url": "https://master.streamhls.com/hlsr2/54dc6d7b588755a61c87cfda8c47a688/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+     "info": "ซับไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/1vKTw97ppeVkfmkTAVHY74W5e8T.webp",
+     "url": "https://master.streamhls.com/hlsr2/e8c6c6f2dcb9a7515e3757af380cddfa/master.m3u8",
+     "referer": ""
+    }
+   ]
+  },
+  {
+   "name": "Don’t Move (2024) อย่าขยับ",
+   "info": "HD th IMDb 6.2",
+   "image": "https://www.movies-d.com/wp-content/uploads/2024/10/jHueERJ52y8F3zZUUvH4zwKLiwI.webp",
+   "stations": [
+    {
+     "name": "Don’t Move (2024) อย่าขยับ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/10/jHueERJ52y8F3zZUUvH4zwKLiwI.webp",
+     "url": "https://master.streamhls.com/hlsr2/96e922a0f8ad88669da3ceb885d6fc85/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fangs And Fury (2024) สงครามหมาป่า",
+   "info": "HD th IMDb 9.8",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/02/pGiFb6jnlLWRYr8HA9JqvMcnifi.webp",
+   "stations": [
+    {
+     "name": "Fangs And Fury (2024) สงครามหมาป่า",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/pGiFb6jnlLWRYr8HA9JqvMcnifi.webp",
+     "url": "https://master.streamhls.com/hlsr2/2426ed633332e0c126464cf6248d0794/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Heretic (2024) บ้านสั่งตาย",
    "info": "HD th IMDb 7.0 / 10",
