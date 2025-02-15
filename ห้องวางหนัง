@@ -10,6 +10,41 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+   "info": "HD th IMDb 6.6",
+   "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
+   "stations": [
+    {
+     "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+     "info": "หนังอินเดีย พากย์ไทย",
+     "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
+     "url": "https://asset.fembed.co/master/th/ffyzwwiutuifwml.txt",
+     "referer": "https://asset.fembed.co/"
+    },
+    {
+     "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+     "info": "หนังอินเดียพากย์ไทย",
+     "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
+     "url": "https://stm2pat.cdn-nanaplayer.com/hls2/01/00012/bbhuaen0fx6s_n/index-v1-a1.m3u8?t=P4VAPR-DkHq95qKHoPUgG49IT0gYf7DmKabw5YlIw8k&s=1739613291&e=10800&f=61816&srv=siciss3&i=0.3&sp=0&fr=bbhuaen0fx6s&p1=stm2pat&p2=stm2pat",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "The Order (2024) จับตายขบวนการเดนคน",
+   "info": "HD th IMDb 6.8",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/02/xxv21eTvPMbIuQIuSlDxcFIbtxp.webp",
+   "stations": [
+    {
+     "name": "The Order (2024) จับตายขบวนการเดนคน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/xxv21eTvPMbIuQIuSlDxcFIbtxp.webp",
+     "url": "https://master.streamhls.com/hlsr2/01b5b89c06b629a442453e02f36ee12e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
    "info": "HD th IMDb 6.3",
    "image": "https://www.movies-d.com/wp-content/uploads/2025/02/1vKTw97ppeVkfmkTAVHY74W5e8T.webp",
