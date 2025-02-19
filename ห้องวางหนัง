@@ -73,6 +73,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+   "info": "HD th IMDb 9.2",
+   "image": "https://www.movies-d.com/wp-content/uploads/2024/03/rVMfj3uLuxtfBXNhqcLbPm1hBKO.webp",
+   "stations": [
+    {
+     "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/03/rVMfj3uLuxtfBXNhqcLbPm1hBKO.webp",
+     "url": "https://master.streamhls.com/hlsr2/9198ca36cdbee17745316855542c297b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Fangs And Fury (2024) สงครามหมาป่า",
    "info": "HD th IMDb 9.8",
    "image": "https://www.movies-d.com/wp-content/uploads/2025/02/pGiFb6jnlLWRYr8HA9JqvMcnifi.webp",
