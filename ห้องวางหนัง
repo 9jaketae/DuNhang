@@ -24,6 +24,41 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Subservience (2024) เอไอร้อนรัก",
+   "info": "HD th IMDb 6.9",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
+   "stations": [
+    {
+     "name": "Subservience (2024) เอไอร้อนรัก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d28d96800b999962e624a53edfa6482e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Den of Thieves โคตรนรกปล้นเหนือเมฆ ",
+   "info": "HD th IMDb 7.0",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Den-of-Thieves-2018-โคตรนรกปล้นเหนือเมฆ-187x269.jpg",
+   "stations": [
+    {
+     "name": "Den of Thieves (2018) โคตรนรกปล้นเหนือเมฆ ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Den-of-Thieves-2018-โคตรนรกปล้นเหนือเมฆ-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/94d3425e0d9dd0f791099f27/94d3425e0d9dd0f791099f27168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    },
+    {
+     "name": "Den of Thieves 2 Pantera (2025)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-187x269.png",
+     "url": "https://hplay.hdplayfull.xyz/577524c4-3f20-4639-8a5e-2a2c536acdb9/_https://www.kubhd.com/",
+     "referer": ""
+    }
+   ]
+  },
+  {
    "name": "The Order (2024) จับตายขบวนการเดนคน",
    "info": "HD th IMDb 6.8",
    "image": "https://www.movies-d.com/wp-content/uploads/2025/02/xxv21eTvPMbIuQIuSlDxcFIbtxp.webp",
