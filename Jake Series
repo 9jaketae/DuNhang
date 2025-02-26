@@ -5,208 +5,83 @@
  "groups": [
 
   {
-   "name": "Pyramid Game (2024) เกมพีระมิด พากย์ไทย EP.1-10 END",
-   "info": "HD th IMDb 8.1",
-   "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
+   "name": "Pyramid Game (2024) – เกมพีระมิด (พากย์ไทย) 2024  ซีซั่น 1 Ep 10",
+   "info": "พากย์ไทย",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
    "stations": [
     {
-     "name": "EP 1 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/effe942a55a6974426a0d472a6ff1d56/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rOJVaM6iUq/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 2 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/c5bbf1ecbfd432f195eb1cf64c418ab5/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rV4unFj9dZ/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 3 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/fc953b997eb18427bfb90c222f7fbe28/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zgic6SVFXX/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 4 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/b85928d45c504c4044edf030ecf2f5f3/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/fWAVbOFNO/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 5 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/1ef047e2354c275e91c27b9c9a47e125/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/et1Zqml5j/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 6 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/fbb181e8173486901b8e0fbdf05ccc8c/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/x9E6T1deiX/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 7 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/58944dbace7e2b64432518e6f13c32fe/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/bFekj5VOK/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 8 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/494d10bf942fbf20c724fc3a2cccfca7/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/K4KTbwWd6C/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 9 Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/6257c5d5668505de81ed1c8e2b3a7b53/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UtWI0NaLxr/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     },
     {
-     "name": "EP 10 (ตอนจบ) Pyramid Game",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-full.com/wp-content/uploads/2024/03/เกมพีระมิด-3-1.jpg",
-     "url": "https://ok-nah.com/hls/f3f88d0d7977c69cccf6944dd9d76ee4/master.m3u8",
-     "referer": "https://series-full.com/"
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/03/Pyramid-Game.jpg?resize=200,300",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mBWkR0aBCW/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
     }
    ]
   },
-   {
-   "name": "Squid Game สควิดเกม เล่นลุ้นตาย",
-   "info": "HD th IMDb 8.0",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-   "stations": [
-    {
-     "name": "EP 1 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/4ec506c55336f5017aea720e/4ec506c55336f5017aea720e168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 2 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/f0cc67de0f0732f769e56cdc/f0cc67de0f0732f769e56cdc168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 3 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/a614fb4e5d4da52ab8371e57/a614fb4e5d4da52ab8371e57168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 4 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/0c689bbf4ef5242653550ad3/0c689bbf4ef5242653550ad3168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 5 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/d3c6f252d922294643bae743/d3c6f252d922294643bae743168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 6 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/9d9b4d8cd6ae9d2878c5a30c/9d9b4d8cd6ae9d2878c5a30c168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 7 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/a64b1fd11ab6754a38f91bc4/a64b1fd11ab6754a38f91bc4168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 8 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/94c577dd2e293a6de885f0c6/94c577dd2e293a6de885f0c6168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 9 Squid Game (2021)",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-     "url": "https://main.24playerhd.com/m3u8/8a234bef7d718b04712430a9/8a234bef7d718b04712430a9168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    }
-   ]
-  },
-  {
-   "name": "Squid Game Season 2 (2024) สควิดเกม เล่นลุ้นตาย ซีซั่น 2 ",
-   "info": "HD th IMDb 8.0",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
-   "stations": [
-    {
-     "name": "EP 1 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/0eb21478795eb8a03e8c71ae/0eb21478795eb8a03e8c71ae168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 2 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/e92abb5db7d91e41e5143919/e92abb5db7d91e41e5143919168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 3 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/736bcab59de0cb6bfe9de415/736bcab59de0cb6bfe9de415168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 4 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/fe975506e49102057dca258a/fe975506e49102057dca258a438.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 5 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/6dd9c3eb713faa401de82cdf/6dd9c3eb713faa401de82cdf168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 6 Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/b0973fe6248bab4ddc6d3f48/b0973fe6248bab4ddc6d3f48168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    },
-    {
-     "name": "EP 7 (ตอนจบ) Squid Game Season 2",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://1112hd.com/wp-content/uploads/2024/12/424274-185x239.jpg?v=1.0",
-     "url": "https://main.24playerhd.com/m3u8/f52d2000e3679127a9a0e18f/f52d2000e3679127a9a0e18f168.m3u8",
-     "referer": "https://www.serie-day.com/"
-    }
-   ]
-  },
+
   {
    "name": "Man to Man สุภาพบุรุษสายลับ ",
    "info": "HD th IMDb n/a",
