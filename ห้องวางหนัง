@@ -1241,10 +1241,24 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "stations": [
     {
      "name": "Sumala (2024) สุมาลา",
-     "info": "หนังอินโดฯ พากย์ไทย",
+     "info": "หนังมาเลย์ พากย์ไทย",
      "image": "https://www.nanamovies.me/wp-content/uploads/2025/02/Sumala-2024.webp",
      "url": "https://m5-txt-2.xdomovie247.com/playlist2/detail/9944556c13dyb/1080/hls/index.m3u8",
      "referer": "https://m5-txt-2.xdomovie247.com/"
+    }
+   ]
+  },
+  {
+   "name": "กัวซา ผีสาปนรกส่ง Dominion of Darkness (2024)",
+   "info": "HD th IMDb 5.8",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Dominion-of-Darkness-2024-กัวซา-ผีสาปนรกส่ง-187x269.png",
+   "stations": [
+    {
+     "name": "กัวซา ผีสาปนรกส่ง Dominion of Darkness (2024)",
+     "info": "หนังอินโดฯ พากษ์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Dominion-of-Darkness-2024-กัวซา-ผีสาปนรกส่ง-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/b3fae507c96f2430d16cb791/b3fae507c96f2430d16cb791168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
  ]
 }]},
