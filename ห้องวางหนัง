@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Demon City (2025) เมืองอสูร",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/02/92XINm6j8y2Ot3uTXyZg6YdPlyl.webp",
+   "stations": [
+    {
+     "name": "Demon City (2025) เมืองอสูร",
+     "info": "หนังญี่ปุ่น พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/02/92XINm6j8y2Ot3uTXyZg6YdPlyl.webp",
+     "url": "https://master.streamhls.com/hlsr2/74dd7c96344b685f3efb845210754ab6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Subservience (2024) เอไอร้อนรัก",
    "info": "HD th IMDb 6.9",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
@@ -1231,6 +1245,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.moviehdfree.net/wp-content/uploads/2024/11/The-Count-of-Monte-Cristo-2024.webp?x39550",
      "url": "https://playermhd.p2phls.xyz/1e56fe62-7981-46ac-889b-f9ff804d495c/_",
      "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+  {
+   "name": "Devils Stay (2024) ปีศาจปรสิต",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Devils-Stay-2024-ปีศาจปรสิต-187x269.png",
+   "stations": [
+    {
+     "name": "Devils Stay (2024) ปีศาจปรสิต",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Devils-Stay-2024-ปีศาจปรสิต-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/8bdbbaa5261ba72096e15984/8bdbbaa5261ba72096e15984168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Spring Garden (2024) บ้านผีกินคน",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Spring-Garden-2024-บ้านผีกินคน-187x269.png",
+   "stations": [
+    {
+     "name": "Spring Garden (2024) บ้านผีกินคน",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/02/Spring-Garden-2024-บ้านผีกินคน-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/cefa54844b8dac74f8de457e/cefa54844b8dac74f8de457e168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
