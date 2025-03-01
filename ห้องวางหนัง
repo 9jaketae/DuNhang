@@ -10,20 +10,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
-   "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
-   "info": "HD th IMDb 6.6",
-   "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
-   "stations": [
-    {
-     "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
-     "info": "หนังอินเดีย พากย์ไทย",
-     "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
-     "url": "https://asset.fembed.co/master/th/ffyzwwiutuifwml.txt",
-     "referer": "https://asset.fembed.co/"
-    }
-   ]
-  },
-  {
    "name": "Subservience (2024) เอไอร้อนรัก",
    "info": "HD th IMDb 6.9",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
@@ -53,8 +39,8 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Den of Thieves 2 Pantera (2025)",
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://www.24-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-187x269.png",
-     "url": "https://hplay.hdplayfull.xyz/577524c4-3f20-4639-8a5e-2a2c536acdb9/_https://www.kubhd.com/",
-     "referer": ""
+     "url": "https://main.24playerhd.com/m3u8/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574168.m3u8",
+     "referer": "https://www.24-hd.com/"
     }
    ]
   },
@@ -89,11 +75,10 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "info": "ซับไทย",
      "image": "https://www.movies-d.com/wp-content/uploads/2025/02/1vKTw97ppeVkfmkTAVHY74W5e8T.webp",
      "url": "https://master.streamhls.com/hlsr2/e8c6c6f2dcb9a7515e3757af380cddfa/master.m3u8",
-     "referer": ""
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
-
   {
    "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
    "info": "HD th IMDb 5.8",
@@ -350,6 +335,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg",
      "url": "https://main.24playerhd.com/m3u8/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70438.m3u8",
      "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+   "info": "HD th IMDb 6.6",
+   "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
+   "stations": [
+    {
+     "name": "Dhoom Dhaam (2025) บ่าวสาว ชื่นชุลมุน",
+     "info": "หนังอินเดีย พากย์ไทย",
+     "image": "https://newhd2025.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.webp",
+     "url": "https://asset.fembed.co/master/th/ffyzwwiutuifwml.txt",
+     "referer": "https://asset.fembed.co/"
     }
    ]
   },
