@@ -39,6 +39,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Hit Man (2024) นักฆ่า น่าหลอก",
+   "info": "HD th IMDb 7.3",
+   "image": "https://www.movies-d.com/wp-content/uploads/2024/06/s9SmRfDH0hikqjVpCWy5qvi70ZM.webp",
+   "stations": [
+    {
+     "name": "Hit Man (2024) นักฆ่า น่าหลอก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/06/s9SmRfDH0hikqjVpCWy5qvi70ZM.webp",
+     "url": "https://master.streamhls.com/hlsr2/a164c85923be9dea9cfb565f905da77a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Subservience (2024) เอไอร้อนรัก",
    "info": "HD th IMDb 6.9",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
