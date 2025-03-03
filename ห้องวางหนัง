@@ -1321,12 +1321,25 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 
 #####################################################
 
-
   {
  "name": "หนังก่อน ปี 2024",
  "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
  "groups": [
 
+  {
+   "name": "Big Stan (2007) พี่บิ๊กเบิ้ม ขอทีอย่าแหยม",
+   "info": "HD th IMDb 6.2",
+   "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/Big-Stan-2007.jpg.webp",
+   "stations": [
+    {
+     "name": "Big Stan (2007) พี่บิ๊กเบิ้ม ขอทีอย่าแหยม",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/Big-Stan-2007.jpg.webp",
+     "url": "https://master.streamhls.com/hlsr2/25c39650e650ad3e0a3638f0c2c97953/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Comrades Almost a Love Story (1996) เถียนมีมี่ 3,650 วัน… รักเธอคนเดียว",
    "info": "HD th IMDb  8.2",
