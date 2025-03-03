@@ -9,6 +9,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
  "groups": [
 
+
+  {
+   "name": "The Monkey (2025) จ๋อจัดตาย",
+   "info": "HD th IMDb 6.5",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/03/wafNVxVpS2cAnzWwk1jn33yNfcV.webp",
+   "stations": [
+    {
+     "name": "The Monkey (2025) จ๋อจัดตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/wafNVxVpS2cAnzWwk1jn33yNfcV.webp",
+     "url": "https://master.streamhls.com/hlsr2/ed20fa26b6d29e0a1dc67d4424926b0b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Demon City (2025) เมืองอสูร",
    "info": "HD th IMDb n/a",
