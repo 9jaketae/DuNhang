@@ -9,7 +9,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
  "groups": [
 
-
+  {
+   "name": "A Quiet Place ดินแดนไร้เสียง",
+   "info": "HD th IMDb 7.5",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/07/A-Quiet-Place-2018-ดินแดนไร้เสียง-187x269.jpg",
+   "stations": [
+    {
+     "name": "A Quiet Place (2018) ดินแดนไร้เสียง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2023/07/A-Quiet-Place-2018-ดินแดนไร้เสียง-187x269.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ba0d3aa9861e84f4d7ba63a2cb6c9e99/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "A Quiet Place Part 2 (2021) ดินแดนไร้เสียง 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2021/06/A-Quiet-Place-Part-II-2020-1.jpg",
+     "url": "https://text-lb.xmoviedo24.com/playlist2/c90b5426/master.m3u8",
+     "referer": "https://newhd2025.com/"
+    },
+    {
+     "name": "A Quiet Place Day One (2024) ดินแดนไร้เสียง วันที่หนึ่ง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://newhd2025.com/wp-content/uploads/2024/04/A-Quiet-Place-Day-One-2024_11zon.webp",
+     "url": "https://m5-txt-2.xdomovie247.com/playlist2/detail/a389666a/1080/hls/index.m3u8",
+     "referer": "https://m5-txt-2.xdomovie247.com/"
+    }
+   ]
+  },
   {
    "name": "The Monkey (2025) จ๋อจัดตาย",
    "info": "HD th IMDb 6.5",
