@@ -1350,6 +1350,10 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 
 ####################################################
 
+  {
+ "name": "หนังก่อน ปี 2024",
+ "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
+ "groups": [
 
   {
    "name": "We Can Be Heroes (2020) รวมพลังเด็กพันธุ์แกร่ง",
@@ -1360,16 +1364,11 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "We Can Be Heroes (2020) รวมพลังเด็กพันธุ์แกร่ง",
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://movie285-hd.com/wp-content/uploads/2020/12/p-1359.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a41a22425cafb5cd9af453c4740fd539/master.m3u8",
-     "referer": "https://master.streamhls.com"
+     "url": "https://ezycdn.com/playlist-7877ogf1-FHD.m3u8",
+     "referer": "https://24-hd.tv/"
     }
    ]
   },
-  {
- "name": "หนังก่อน ปี 2024",
- "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
- "groups": [
-
   {
    "name": "Big Stan (2007) พี่บิ๊กเบิ้ม ขอทีอย่าแหยม",
    "info": "HD th IMDb 6.2",
