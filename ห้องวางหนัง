@@ -2826,6 +2826,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "Paddington คุณหมี แพดดิงตัน",
+   "info": "HD th IMDb 7.2",
+   "image": "https://www.c2movie.com/wp-content/uploads/2015/03/Paddington-แพดดิงตัน-คุณหมีหนีป่ามาป่วนเมือง.jpg.webp",
+   "stations": [
+    {
+     "name": "Paddington (2014) แพดดิงตัน คุณหมีหนีป่ามาป่วนเมือง",
+     "info": "พากย์ไทย",
+     "image": "https://www.c2movie.com/wp-content/uploads/2015/03/Paddington-แพดดิงตัน-คุณหมีหนีป่ามาป่วนเมือง.jpg.webp",
+     "url": "https://cdn.player2u.com/hv1p2p/MTc3bTF5cG5TR2t2S3pMNEgzZm5kb3plNGx5YWFObDFh/playlist",
+     "referer": "https://www.c2movie.com/"
+    },
+    {
+     "name": "Paddington 2 (2018) แพดดิงตัน 2 ของขวัญที่หายไป",
+     "info": "พากย์ไทย",
+     "image": "https://www.c2movie.com/wp-content/uploads/2018/07/Paddington-2-203x300.jpg.webp",
+     "url": "https://cdn.imgtov.com/hv2p2p/MUlPbndWNmVCTnVvVFFSTXFSS0l4X2lGTnYwUVRhOTZT/playlist",
+     "referer": "https://www.c2movie.com/"
+    },
+    {
+     "name": "Paddington in Peru (2024) แพดดิงตัน คุณหมีผจญภัยป่าอะเมซอน",
+     "info": "พากย์ไทย",
+     "image": "https://www.c2movie.com/wp-content/uploads/2024/11/Paddington-in-Peru-203x300.jpg.webp",
+     "url": "https://cdn.player2u.com/hv3p2p/MWlCNElUbWpaTktxOG5iRElhc3RqZDdGVjZ6TzFiazBD/playlist",
+     "referer": "https://www.c2movie.com/"
+    }
+   ]
+  },
  {
    "name": "The Platform",
    "info": "เสียงไทย",
