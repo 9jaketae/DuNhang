@@ -2835,8 +2835,9 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Paddington (2014) แพดดิงตัน คุณหมีหนีป่ามาป่วนเมือง",
      "info": "พากย์ไทย",
      "image": "https://www.c2movie.com/wp-content/uploads/2015/03/Paddington-แพดดิงตัน-คุณหมีหนีป่ามาป่วนเมือง.jpg.webp",
-     "url": "https://hplay.hdplayfull.xyz/embed/pfucxsxdvy",
-     "referer": "https://hplay.hdplayfull.xyz/d8cc3776-6f2c-4abd-955e-62137375bc05/_"
+     "url": "https://hplay.hdplayfull.xyz/d8cc3776-6f2c-4abd-955e-62137375bc05/_",
+     "referer": "https://hplay.hdplayfull.xyz/embed/pfucxsxdvy",
+    "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
     },
     {
      "name": "Paddington 2 (2018) แพดดิงตัน 2 ของขวัญที่หายไป",
