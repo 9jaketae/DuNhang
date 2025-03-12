@@ -23,6 +23,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": " Mickey 17 (2025) มิกกี้ 17",
+   "info": "HD th IMDb  7.1",
+   "image": "https://www.037hdmoviez.com/wp-content/uploads/2025/03/Mickey-17-2025.jpg",
+   "stations": [
+    {
+     "name": " Mickey 17 (2025) มิกกี้ 17",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmoviez.com/wp-content/uploads/2025/03/Mickey-17-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/472d76d6032ba661b00af8d5380069ac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Grafted (2024) ถลก…นังหน้าสวย",
+   "info": "HD th IMDb  5.6",
+   "image": "https://www.037hdmoviez.com/wp-content/uploads/2025/02/Grafted-2024.jpg",
+   "stations": [
+    {
+     "name": "Grafted (2024) ถลก…นังหน้าสวย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmoviez.com/wp-content/uploads/2025/02/Grafted-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2db91b724452352282d70901bf7d6c24/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "A Quiet Place ดินแดนไร้เสียง",
    "info": "HD th IMDb 7.5",
    "image": "https://www.24-hd.com/wp-content/uploads/2023/07/A-Quiet-Place-2018-ดินแดนไร้เสียง-187x269.jpg",
