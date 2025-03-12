@@ -2689,6 +2689,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "หนังไขปริศนาในตำนาน",
+   "info": "HD th IMDb n/a",
+   "image": "https://2025hd.com/wp-content/uploads/2023/09/Angels-Demons-2009-เทวากับซาตาน.webp",
+   "stations": [
+    {
+     "name": "The Da Vinci Code (2006) รหัสลับระทึกโลก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmoviez.com/wp-content/uploads/2018/04/WlEFpseKgoeKyi7dkrp.jpg",
+     "url": "https://hplay.hdplayfull.xyz/38ebb81e-da39-41ac-9056-7e9a4c047c92/_",
+     "referer": "https://hplay.hdplayfull.xyz/embed/khbug97yeq"
+    },
+    {
+     "name": "Angels & Demons (2009) เทวากับซาตาน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2023/09/Angels-Demons-2009-เทวากับซาตาน.webp",
+     "url": "https://text-lb.xmoviedo24.com/playlist2/483540e3/master.m3u8",
+     "referer": "https://2025hd.com/"
+    },
+    {
+     "name": "Inferno (2016) โลกันตนรก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://2025hd.com/wp-content/uploads/2023/10/Inferno-2016-โลกันตนรก.webp",
+     "url": "https://text-lb.xmoviedo24.com/playlist2/367bc933/master.m3u8",
+     "referer": "https://2025hd.com/"
+    }
+   ]
+  },
  {
    "name": "หนัง DC Universe (Superman)",
    "info": "เสียงไทย",
