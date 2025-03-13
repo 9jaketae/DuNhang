@@ -799,6 +799,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+   "info": "HD th IMDb 7.2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+   "stations": [
+    {
+     "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+     "url": "https://master.streamhls.com/hlsr2/b2389aee46a340f867ee0fe67e6f06d5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
  {
    "name": "Absolution (2024) คนสันดานเดือด",
    "info": "เสียงไทย",
