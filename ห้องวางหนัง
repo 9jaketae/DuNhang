@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Rider ไรเดอร์ (2024)",
+   "info": "HD th IMDb 6.7",
+   "image": "https://928hd4k.com/wp-content/uploads/Rider-ไรเดอร์.jpg",
+   "stations": [
+    {
+     "name": "Rider ไรเดอร์ (2024)",
+     "info": "หนังไทย",
+     "image": "https://928hd4k.com/wp-content/uploads/Rider-ไรเดอร์.jpg",
+     "url": "https://hlsv3.enjoy24cdn.com/hls/9b620e3507247045e89958b90dce096d/master",
+     "referer": "https://928hd4k.com/rider-2024/"
+    }
+   ]
+  },
+  {
    "name": "Cleaner (2025) ไต่ระทึกตึกนรก",
    "info": "HD th IMDb n/a",
    "image": "https://www.moviehdfree.net/wp-content/uploads/2025/02/Cleaner-2025-e1740713277102.webp",
