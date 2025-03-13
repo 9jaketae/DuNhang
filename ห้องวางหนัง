@@ -780,8 +780,8 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
      "info": "พากย์ไทย",
      "image": "https://www.037hdmovie.com/wp-content/uploads/2024/08/Alien-Romulus-2024.jpg",
-     "url": "https://stream1.movie2free.tv/cdn/down/e084956a94dbd963f8d7df402ad12b0b/video/630p.m3u8",
-     "referer": "https://movie2free.tv/"
+     "url": "https://master.streamhls.com/hlsr2/64b415f2fed0013fc5b91771bec5e03d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
