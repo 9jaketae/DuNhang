@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "The Electric State (2025) ท่องแดนจักรกล",
+   "info": "HD th IMDb  6.3",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/03/ud3RiNxlMONMOVle7xyNn29CSYU.webp",
+   "stations": [
+    {
+     "name": "The Electric State (2025) ท่องแดนจักรกล",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/ud3RiNxlMONMOVle7xyNn29CSYU.webp",
+     "url": "https://master.streamhls.com/hlsr2/5453f6b20bf0aa1258c1652386ffcc54/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "มังกรหยก The Legend of the Condor Heroes The Gallants (2025)",
    "info": "HD th IMDb n/a",
    "image": "https://www.24-hd.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่-187x269.png",
