@@ -1480,6 +1480,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Zi Mui (2023) สื่อ-เม่ย",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Zi-Mui-2023-สื่อ-เม่ย.png",
+   "stations": [
+    {
+     "name": "Zi Mui (2023) สื่อ-เม่ย",
+     "info": "พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Zi-Mui-2023-สื่อ-เม่ย.png",
+     "url": "https://master.streamhls.com/hlsr2/1f412f122e658086114a18868dca21fc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "The Childe (2023) เทพบุตร ล่านรก",
    "info": "HD th IMDb n/a",
    "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Childe-2023-เทพบุตร-ล่านรก-300x450.jpg",
