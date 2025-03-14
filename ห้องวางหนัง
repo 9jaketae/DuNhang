@@ -107,6 +107,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Kraven the Hunter (2024) เครเว่น เดอะ ฮันเตอร์",
+   "info": "HD th IMDb  5.4",
+   "image": "https://www.037hdmoviez.com/wp-content/uploads/2024/12/Kraven-the-Hunter-2024.jpg",
+   "stations": [
+    {
+     "name": "Kraven the Hunter (2024) เครเว่น เดอะ ฮันเตอร์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdmoviez.com/wp-content/uploads/2024/12/Kraven-the-Hunter-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/93707159920ef181f1269bd05f23469a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "The Monkey (2025) จ๋อจัดตาย",
    "info": "HD th IMDb 6.5",
    "image": "https://www.movies-d.com/wp-content/uploads/2025/03/wafNVxVpS2cAnzWwk1jn33yNfcV.webp",
