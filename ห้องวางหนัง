@@ -24,6 +24,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+   "info": "HD th IMDb 5.5",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
+   "stations": [
+    {
+     "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+     "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
+     "url": "https://main.24playerhd.com/newplaylist/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0.m3u8",
+     "referer": "https://www.24-hd.com/dark-nuns/"
+    }
+   ]
+  },
+  {
    "name": "Lembayung โรงพยาบาท (2024)",
    "info": "HD th IMDb 6.1",
    "image": "https://928hd4k.com/wp-content/uploads/Lembayung-โรงพยาบาท.jpg",
