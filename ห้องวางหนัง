@@ -1508,6 +1508,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "It Boy (2013) ว้าวุ่นใจตามหารัก",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/12/It-Boy-2013-e1701936845406.webp",
+   "stations": [
+    {
+     "name": "It Boy (2013) ว้าวุ่นใจตามหารัก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/12/It-Boy-2013-e1701936845406.webp",
+     "url": "https://hplay.hdplayfull.xyz/d53ed57d-a4b4-45ab-ab57-deea2fb38ed9/_",
+     "referer": "https://www.kubhd.com/movie/it-boy-2013/"
+    }
+   ]
+  },
+  {
    "name": "Ant-Man and the Wasp: Quantumania (2023)",
    "info": "HD th IMDb 6.6",
    "image": "https://www.037hdmovie.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-แอนท์-แมน-และ-เดอะ-วอสพ์-ตะลุยมิติควอนตัม.jpg",
