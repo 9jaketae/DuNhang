@@ -3095,6 +3095,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+  {
+   "name": "Ne Zha นาจา",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Ne-Zha-2019-นาจา-187x269.png",
+   "stations": [
+    {
+     "name": "Ne Zha (2019) นาจา",
+     "info": "พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Ne-Zha-2019-นาจา-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/1a6504903cf600716a340033/1a6504903cf600716a340033168.m3u8",
+     "referer": "https://www.24-hd.com/ne-zha/"
+    },
+    {
+     "name": "Ne Zha 2 (2025) นาจา 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/f6c16a27e09b2393475ab4bf/f6c16a27e09b2393475ab4bf168.m3u8",
+     "referer": "https://www.24-hd.com/ne-zha-2/"
+    },
+    {
+     "name": "Nezha Demon Child is Back (2024) นาจา การกลับมาของเด็กปีศาจ",
+     "info": "พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-นาจา-การกลับมาของเด็กปีศาจ-1-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/68f8e807874f25aeb8463a5f/68f8e807874f25aeb8463a5f168.m3u8",
+     "referer": "https://www.24-hd.com/nezha-demon-child-is-back/"
+    }
+   ]
+  },
  {
    "name": "The Platform",
    "info": "เสียงไทย",
