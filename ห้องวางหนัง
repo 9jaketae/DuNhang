@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+   "info": "HD th IMDb 5.5",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
+   "stations": [
+    {
+     "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+     "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
+     "url": "https://main.24playerhd.com/newplaylist/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0.m3u8",
+     "referer": "https://www.24-hd.com/dark-nuns/"
+    }
+   ]
+  },
+  {
    "name": "The Electric State (2025) ท่องแดนจักรกล",
    "info": "HD th IMDb  6.3",
    "image": "https://www.movies-d.com/wp-content/uploads/2025/03/ud3RiNxlMONMOVle7xyNn29CSYU.webp",
@@ -24,6 +38,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Second Life (2024) ตัวมัมประจำคุก",
+   "info": "HD th IMDb 6.7",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Second-Life-2024-ตัวมัมประจำคุก-1-187x269.png",
+   "stations": [
+    {
+     "name": "Second Life (2024) ตัวมัมประจำคุก",
+     "info": "หนังจีน พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Second-Life-2024-ตัวมัมประจำคุก-1-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/1a5435b0e5aabb3e64875b96/1a5435b0e5aabb3e64875b96168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+
+  {
    "name": "Betting With Ghost ผีพารวย (2024)",
    "info": "HD th IMDb 6.7",
    "image": "https://free928hd.com/wp-content/uploads/Betting-With-Ghost-ผีพารวย.jpg",
@@ -34,20 +63,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://free928hd.com/wp-content/uploads/Betting-With-Ghost-ผีพารวย.jpg",
      "url": "https://enjoy24cdn.com/hlsr2/bc7d52e0c8237c35bc98e5c934891d64/master.m3u8",
      "referer": "https://free928hd.com/betting-with-ghost-2024/"
-    }
-   ]
-  },
-  {
-   "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
-   "info": "HD th IMDb 5.5",
-   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
-   "stations": [
-    {
-     "name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
-     "info": "หนังเกาหลี พากย์ไทย",
-   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม-187x269.png",
-     "url": "https://main.24playerhd.com/newplaylist/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0.m3u8",
-     "referer": "https://www.24-hd.com/dark-nuns/"
     }
    ]
   },
