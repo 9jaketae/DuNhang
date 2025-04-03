@@ -1537,6 +1537,63 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Kong Skull Island (2017) คอง มหาภัยเกาะกะโหลก",
+   "info": "HD th IMDb 6.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kong-Skull-Island-2017-คอง-มหาภัยเกาะกะโหลก-187x269.jpg",
+   "stations": [
+    {
+     "name": "Kong Skull Island (2017) คอง มหาภัยเกาะกะโหลก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kong-Skull-Island-2017-คอง-มหาภัยเกาะกะโหลก-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/f84eaa48eb3c4e362b8c74d5/f84eaa48eb3c4e362b8c74d5168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
+   "info": "HD th IMDb 6.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jungle-Cruise-2021-187x269.jpg",
+   "stations": [
+    {
+     "name": "Jungle Cruise (2021) ผจญภัยล่องป่ามหัศจรรย์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jungle-Cruise-2021-187x269.jpg",
+     "url": "https://main.24playerhd.com/m3u8/3b19956af3896165fb52d0f0/3b19956af3896165fb52d0f0168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Eternals (2021) ฮีโร่พลังเทพเจ้า",
+   "info": "HD th IMDb 6.3",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Eternals-2021-ฮีโร่พลังเทพเจ้า-187x269.jpg",
+   "stations": [
+    {
+     "name": "Eternals (2021) ฮีโร่พลังเทพเจ้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Eternals-2021-ฮีโร่พลังเทพเจ้า-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/3bc367d8404e9440212643fd/3bc367d8404e9440212643fd.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+
+  {
+   "name": "MaXXXine (2024) แม็กซีน",
+   "info": "HD th IMDb 6.4",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/MaXXXine-2024-แม็กซีน-187x269.png",
+   "stations": [
+    {
+     "name": "MaXXXine (2024) แม็กซีน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.24-hd.com/wp-content/uploads/2025/03/MaXXXine-2024-แม็กซีน-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/2ae12135b874a2c74bab3f31/2ae12135b874a2c74bab3f31168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "It Boy (2013) ว้าวุ่นใจตามหารัก",
    "info": "HD th IMDb n/a",
    "image": "https://www.kubhd.com/wp-content/uploads/2023/12/It-Boy-2013-e1701936845406.webp",
