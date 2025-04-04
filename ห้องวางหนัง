@@ -1720,6 +1720,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Huang Miao Village’s Tales of Mystery (2023) เรื่องลึกลับหมู่บ้านหวงเมี่ยว",
+   "info": "HD th IMDb 5.0",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/03/lmoutPdc0oFYgaG6clbdDzIF1lF.webp",
+   "stations": [
+    {
+     "name": "Huang Miao Village’s Tales of Mystery (2023) เรื่องลึกลับหมู่บ้านหวงเมี่ยว",
+     "info": "หนังจีน  พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/03/lmoutPdc0oFYgaG6clbdDzIF1lF.webp",
+     "url": "https://master.streamhls.com/hlsr2/bf577c6c202bab1a59b7b6432498b3bd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Don’t Look at the Demon (2022) ฝรั่งเซ่นผี",
    "info": "HD th IMDb  6.7",
    "image": "https://www.movies-d.com/wp-content/uploads/2024/02/dHMpgReXLwxTjqMOnRAZOqQcuvs-scaled.webp",
