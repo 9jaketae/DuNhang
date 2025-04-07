@@ -1537,6 +1537,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "เรื่องลึกลับหมู่บ้านหวงเมี่ยว Huang Miao Village’s Tales of Mystery (2023)",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.vojkuhd.com/wp-content/uploads/2025/03/Huang-Miao-Villages-Tales-of-Mystery.jpg.webp",
+   "stations": [
+    {
+     "name": "เรื่องลึกลับหมู่บ้านหวงเมี่ยว Huang Miao Village’s Tales of Mystery (2023)",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.vojkuhd.com/wp-content/uploads/2025/03/Huang-Miao-Villages-Tales-of-Mystery.jpg.webp",
+     "url": "https://cdm.player2u.com/hv3p2p/MUM0VmpYeV8tbTh4MTJKQmhmMXZLNDZ0Y3FkV2RWLUVi/playlist.m3u8",
+     "referer":   "https://donugdee.com/"
+    }
+   ]
+  },
+  {
    "name": "Kong Skull Island (2017) คอง มหาภัยเกาะกะโหลก",
    "info": "HD th IMDb 6.6",
    "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kong-Skull-Island-2017-คอง-มหาภัยเกาะกะโหลก-187x269.jpg",
