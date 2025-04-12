@@ -1594,6 +1594,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Monster Hunt ศึกถล่มฟ้า อสูรน้อยจอมซน",
+   "info": "HD th IMDb 6.1",
+   "image": "https://3.bp.blogspot.com/-s2qdTM7RxJY/VoeEM6VroYI/AAAAAAAABaQ/Y6XWll-QEWk/s1600/maxresdefault.jpg",
+   "stations": [
+    {
+     "name": "Monster Hunt (2015) ศึกถล่มฟ้า อสูรน้อยจอมซน",
+     "info": "พากย์ไทย",
+     "image": "https://3.bp.blogspot.com/-s2qdTM7RxJY/VoeEM6VroYI/AAAAAAAABaQ/Y6XWll-QEWk/s1600/maxresdefault.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c3d00843bd189054f47f68d39a273750/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Monster Hunt 2 (2018) มอนสเตอร์ ฮันท์ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2023/11/Monster-Hunt-2-2018-e1700564970784.webp",
+     "url": "https://master.streamhls.com/hlsr2/013ca39bcd1b7980cfce0d71927b845c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "เรื่องลึกลับหมู่บ้านหวงเมี่ยว Huang Miao Village’s Tales of Mystery (2023)",
    "info": "HD th IMDb n/a",
    "image": "https://www.vojkuhd.com/wp-content/uploads/2025/03/Huang-Miao-Villages-Tales-of-Mystery.jpg.webp",
