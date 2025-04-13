@@ -5,6 +5,69 @@
  "groups": [
 
   {
+   "name": "Light Shop (พากย์ไทย)",
+   "info": "HD th IMDb n/a",
+   "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+   "stations": [
+    {
+     "name": "Ep.1 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/fvZIpbpDqG/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.2 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5A1horOG9/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.3 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sbUeDJZfCa/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.4 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QJ8Tt2Feji/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.5 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PhqCpraRX9/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.6 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/T7kElGl9Yk/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.7 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/bgxGSIlk30/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.8 (ตอนจบ) Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/P0oNZfPklm/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    }
+   ]
+  },
+  {
    "name": "Hyper Knife (2025) พากย์ไทย EP1-8 End.",
    "info": "HD th IMDb n/a",
    "image": "https://goseries4k.com/wp-content/uploads/2025/03/3-2-320x480-2.jpg",
