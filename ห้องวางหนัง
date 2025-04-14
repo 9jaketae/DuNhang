@@ -10,6 +10,28 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "วัยสตาร์ท น็อนสต็อป Start It Up (2024)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2025/04/Start-It-Up-2024.webp",
+   "stations": [
+    {
+     "name": "วัยสตาร์ท น็อนสต็อป Start It Up (2024)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/04/Start-It-Up-2024.webp",
+     "url": "https://nanaplayer.com/aqw38cvqjeve",
+     "referer": "https://www.nanamovies.me/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "วัยสตาร์ท น็อนสต็อป Start It Up (2024)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/04/Start-It-Up-2024.webp",
+     "url": "https://m1free.inwstream.com:1936/movie4/Start_It_Up_2024/Start_It_Up_2024_th_1080.mp4?fbclid=IwY2xjawJpp-JleHRuA2FlbQIxMAABHhVONqJcyB-voAWPk2crQotA3_dopI4EZ_F_KWZqD0wB31_VtBamaad5Fz-8_aem_QPraXAB7CO-8e9Yt7jdp4Q&nimblesessionid=116240413",
+     "referer": "https://m1free.inwstream.com:1936/"
+    }
+   ]
+  },
+  {
    "name": "แก๊งหิมะเดือด Frozen Hot Boys (2025)",
    "info": "HD th IMDb 5.1",
    "image": "https://series88.com/wp-content/uploads/2025/04/46456456456.jpg",
