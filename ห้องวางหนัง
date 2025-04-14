@@ -1616,6 +1616,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "พรุ่งนี้ตาย (Die Tomorrow)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2025/02/Die-Tomorrow-2017.webp",
+   "stations": [
+    {
+     "name": "พรุ่งนี้ตาย (Die Tomorrow)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/02/Die-Tomorrow-2017.webp",
+     "url": "https://nanaplayer.com/y4o6rl6ulm4q",
+     "referer": "https://www.nanamovies.me/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
    "name": "Monster Hunt ศึกถล่มฟ้า อสูรน้อยจอมซน",
    "info": "HD th IMDb 6.1",
    "image": "https://3.bp.blogspot.com/-s2qdTM7RxJY/VoeEM6VroYI/AAAAAAAABaQ/Y6XWll-QEWk/s1600/maxresdefault.jpg",
