@@ -3122,28 +3122,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://main.24playerhd.com/m3u8/9c07a6fbfffb60171dc0383c/9c07a6fbfffb60171dc0383c168.m3u8",
      "referer": "https://www.24-hd.com/"
     }
-   ]
-  },
-
-  {
-   "name": "Monster Hunt",
-   "info": "HD th IMDb n/a",
-   "image": "https://nanamovies.net/wp-content/uploads/2016/04/Monster-Hunt-2015.jpg",
-   "stations": [
-    {
-     "name": "Monster Hunt (2015) ศึกถล่มฟ้า อสูรน้อยจอมซน พากย์ไทย",
-     "info": "หนังจีน พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2016/04/Monster-Hunt-2015.jpg",
-     "url": "https://nanaplayer.com/b28zq405iiqj",
-     "referer": "https://www.nanamovies.me/",
-    },
-    {
-     "name": "Monster Hunt 2 (2018) มอนสเตอร์ ฮันท์ 2 พากย์ไทย",
-     "info": "หนังจีน พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2018/02/Monster-Hunt-2-2018.jpeg",
-     "url": "https://nanaplayer.com/sbz9ii26r5q2",
-     "referer": "https://www.nanamovies.me/",
-    }
  ]
 }]},
 
