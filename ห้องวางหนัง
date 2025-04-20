@@ -3300,6 +3300,85 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+
+   {
+   "name": "Movies Collection",
+   "info": "รวมหนังน่าดู",
+   "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+   "stations": [
+    {
+     "name": "Notting Hill (1999) รักบานฉ่ำ ที่น๊อตติ้งฮิลล์",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Notting-Hill-1999-รักบานฉ่ำ-ที่น๊อตติ้งฮิลล์-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/da67ab21a95596b7167e6c78/da67ab21a95596b7167e6c78.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "Titanic (1997) ไททานิค",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Titanic-1997-ไททานิค-300x450.jpg",
+     "url": "https://hot.24playerhd.com/ioshls/ed18e6e8f879cf08aefa0e7cbd40d914/ed18e6e8f879cf08aefa0e7cbd40d914.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง",
+     "info": "พากย์ไทย",
+     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-300x450.png",
+     "url": "https://main.24playerhd.com/newplaylist/14bf758d993ccf33b5b672a8/14bf758d993ccf33b5b672a8.m3u8",
+     "referer": "https://www.123-hd.com/"
+    },
+    {
+     "name": "ฉลาดเกมส์โกง  Bad Genius (2017)",
+     "info": "หนังไทย",
+     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/BRIhWnMxRvsN7FxjKHx.jpg",
+     "url": "https://playermhd.p2phls.xyz/48d024a7-02f6-4119-b246-071714d8c822/_",
+     "referer": "https://www.moviehdfree.net/"
+    },
+{
+"name": "Mary Poppins (1964) แมรี่ ป๊อปปินส์",
+"info": "HD th 7.8/10",
+"image": "https://movie2free.tv/wp-content/uploads/2024/03/Mary-Poppins.webp",
+"url":"https://stream1.movie2free.tv/cdn/down/1fc94e0bb90679f66775587242ebc3c5/video/900p.m3u8",
+"referer": "https://movie2free.tv/"
+  },
+  {
+  "name" : "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
+  "info"   :  "HD th 6.6/10",
+  "image" : "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
+   "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
+     "referer": "https://www.vojkuhd.com/"
+    },
+    {
+     "name": "Gone with the Wind วิมานลอย (1939)",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/Gone-with-the-Wind-1939.jpg.webp",
+     "url": "https://playermhd.p2phls.xyz/dbab5983-b506-44ae-83b1-76c8bca2d3e0/_",
+     "referer": "https://www.moviehdfree.net/"
+    },
+{
+"name":"Romeo and Juliet (1968) โรมีโอและจูเลียต",
+"info": "HD th IMDb 7.6/10 ",
+"image":"https://www.ชอบหนัง.com/wp-content/uploads/2022/04/hzE63Fah1BbqGQ3srVhOXoPPkBb-265x375.jpg",
+"url":"https://streamhls.com/view/3ec8b057-8852-5f7f-b813-b727836abeec.m3u8",
+"referer": "https://www.ชอบหนัง.com/"
+},
+    {
+     "name": "Roman Holiday (1953) โรมรำลึก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/11/7W3afdX2eDuRGIBm1YJgGcLJx8q-200x300.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7d67ef7e324e78e7f7c091cf7af64728/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/The-Sound-of-Music-1965.jpg.webp",
+     "url": "https://imovie-th.com/cdn/master/d99afa91743e2d9972e9a8177827360d/video/master.txt?device=pc",
+     "referer": "https://movie2free.tv/"
+    }
+   ]
+  },
+
   {
    "name": "Paddington คุณหมี แพดดิงตัน",
    "info": "HD th IMDb 7.2",
@@ -3379,81 +3458,17 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
 
-   {
-   "name": "Movies Collection",
-   "info": "รวมหนังน่าดู",
-   "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+  {
+   "name": "เด็กเดน  2005",
+   "info": "HD th IMDb 4.5",
+   "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
    "stations": [
     {
-     "name": "Notting Hill (1999) รักบานฉ่ำ ที่น๊อตติ้งฮิลล์",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Notting-Hill-1999-รักบานฉ่ำ-ที่น๊อตติ้งฮิลล์-300x450.png",
-     "url": "https://main.24playerhd.com/newplaylist/da67ab21a95596b7167e6c78/da67ab21a95596b7167e6c78.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "Titanic (1997) ไททานิค",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Titanic-1997-ไททานิค-300x450.jpg",
-     "url": "https://hot.24playerhd.com/ioshls/ed18e6e8f879cf08aefa0e7cbd40d914/ed18e6e8f879cf08aefa0e7cbd40d914.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง",
-     "info": "พากย์ไทย",
-     "image": "https://www.123-hd.com/wp-content/uploads/2023/02/The-Shawshank-Redemption-1994-ชอว์แชงค์-มิตรภาพ-ความหวัง-ความรุนแรง-300x450.png",
-     "url": "https://main.24playerhd.com/newplaylist/14bf758d993ccf33b5b672a8/14bf758d993ccf33b5b672a8.m3u8",
-     "referer": "https://www.123-hd.com/"
-    },
-    {
-     "name": "ฉลาดเกมส์โกง  Bad Genius (2017)",
+     "name": "เด็กเดน",
      "info": "หนังไทย",
-     "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/BRIhWnMxRvsN7FxjKHx.jpg",
-     "url": "https://playermhd.p2phls.xyz/48d024a7-02f6-4119-b246-071714d8c822/_",
-     "referer": "https://www.moviehdfree.net/"
-    },
-{
-"name": "Mary Poppins (1964) แมรี่ ป๊อปปินส์",
-"info": "HD th 7.8/10",
-"image": "https://movie2free.tv/wp-content/uploads/2024/03/Mary-Poppins.webp",
-"url":"https://stream1.movie2free.tv/cdn/down/1fc94e0bb90679f66775587242ebc3c5/video/900p.m3u8",
-"referer": "https://movie2free.tv/"
-  },
-  {
-  "name" : "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
-  "info"   :  "HD th 6.6/10",
-  "image" : "https://www.24-hd.com/wp-content/uploads/2024/01/The-Parent-Trap-1998-แฝดจุ้นลุ้นรัก-187x269.jpg",
-   "url": "https://plays2u.com/hv2/MUFnb3JxTklveVk3LUZTYUxyOWdiOF9oSGE3cDhHUkJs/playlist",
-     "referer": "https://www.vojkuhd.com/"
-    },
-    {
-     "name": "Gone with the Wind วิมานลอย (1939)",
-     "info": "พากย์ไทย",
-     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/Gone-with-the-Wind-1939.jpg.webp",
-     "url": "https://playermhd.p2phls.xyz/dbab5983-b506-44ae-83b1-76c8bca2d3e0/_",
-     "referer": "https://www.moviehdfree.net/"
-    },
-{
-"name":"Romeo and Juliet (1968) โรมีโอและจูเลียต",
-"info": "HD th IMDb 7.6/10 ",
-"image":"https://www.ชอบหนัง.com/wp-content/uploads/2022/04/hzE63Fah1BbqGQ3srVhOXoPPkBb-265x375.jpg",
-"url":"https://streamhls.com/view/3ec8b057-8852-5f7f-b813-b727836abeec.m3u8",
-"referer": "https://www.ชอบหนัง.com/"
-},
-    {
-     "name": "Roman Holiday (1953) โรมรำลึก",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/11/7W3afdX2eDuRGIBm1YJgGcLJx8q-200x300.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7d67ef7e324e78e7f7c091cf7af64728/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Sound of Music (1965) มนต์รักเพลงสวรรค์",
-     "info": "พากย์ไทย",
-     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/06/The-Sound-of-Music-1965.jpg.webp",
-     "url": "https://imovie-th.com/cdn/master/d99afa91743e2d9972e9a8177827360d/video/master.txt?device=pc",
-     "referer": "https://movie2free.tv/"
-
+     "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
+     "url": "https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/36153ffd1611b5873268b6b94545339b/997cb28ab96e27ca97604e58bcc7ef62/index.m3u8",
+     "referer": "https://movie.goal-th.com/movies/238158"
         }
   ]
 }
