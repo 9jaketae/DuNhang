@@ -3471,7 +3471,27 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
+  {
+   "name": "Train to Busan ด่วนนรกซอมบี้คลั่ง พากย์ไทย",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2016/12/Train-to-Busan-2016.jpeg.webp",
+   "stations": [
+    {
+     "name": "Train to Busan (2016) ด่วนนรกซอมบี้คลั่ง พากย์ไทย",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2016/12/Train-to-Busan-2016.jpeg.webp",
+     "url": "https://nanaplayer.com/gj5mw0ysxcy4",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Train to Busan 2 (2020) ฝ่านรกซอมบี้คลั่ง พากย์ไทย",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2016/12/Train-to-Busan-2016.jpeg.webp",
+     "url": "https://nanaplayer.com/levdvu99u84n",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
   {
    "name": "เด็กเดน  2005",
    "info": "HD th IMDb 4.5",
