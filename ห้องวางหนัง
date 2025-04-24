@@ -1621,6 +1621,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
  "groups": [
 
+
+  {
+   "name": "Slumberland | Netflix (2022) สลัมเบอร์แลนด์",
+   "info": "HD th IMDb 7.6",
+   "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Slumberland-2022-187x269.jpg",
+   "stations": [
+    {
+     "name": "Slumberland | Netflix (2022) สลัมเบอร์แลนด์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Slumberland-2022-187x269.jpg",
+     "url": "https://master.streamhls.com/hlsr2/364f32aa485652433532744613874e6b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "พรุ่งนี้ตาย (Die Tomorrow)",
    "info": "HD th IMDb n/a",
