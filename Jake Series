@@ -4,70 +4,10 @@
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
-
   {
-   "name": "Light Shop (พากย์ไทย)",
-   "info": "HD th IMDb n/a",
-   "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-   "stations": [
-    {
-     "name": "Ep.1 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/fvZIpbpDqG/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.2 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5A1horOG9/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.3 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/sbUeDJZfCa/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.4 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QJ8Tt2Feji/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.5 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PhqCpraRX9/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.6 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/T7kElGl9Yk/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.7 Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/bgxGSIlk30/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    },
-    {
-     "name": "Ep.8 (ตอนจบ) Light Shop",
-     "info": "ซีรีย์เกาหลี พากย์ไทย",
-     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/P0oNZfPklm/video.mp4/chunk.m3u8",
-     "referer": "https://series-cdn.team-indy.net:8443/"
-    }
-   ]
-  },
+   "name": "Weak Hero วัยมันส์พันธุ์ฮีโร่ พากย์ไทย",
+   "image": "https://goseries4k.com/wp-content/uploads/2024/03/วัยมันส์พันธุ์ฮีโร่.jpg",
+   "groups": [
 
   {
    "name": "Weak Hero Class 1 วัยมันส์พันธุ์ฮีโร่ พากย์ไทย (2022)",
@@ -132,7 +72,133 @@
     }
    ]
   },
-
+  {
+   "name": "Weak Hero Class 2 (2025) นักเรียนดีเดือด รุ่น 2 (พากย์ไทย)",
+   "info": "HD th IMDb 9.0",
+   "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+   "stations": [
+    {
+     "name": "Ep.1 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/cd9b3e4560d50897be3b7e4a/cd9b3e4560d50897be3b7e4a.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.2 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/da3e36af3eb37fc8b010e8b4/da3e36af3eb37fc8b010e8b4.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.3 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/941356d468dd191841a7a05d/941356d468dd191841a7a05d.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.4 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/322ea7cbf5a43c3adcd75650/322ea7cbf5a43c3adcd75650.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.5 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/b67d40826e605f622daa5778/b67d40826e605f622daa5778168.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.6 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/e54ea4a2d420bb56c037c3ea/e54ea4a2d420bb56c037c3ea168.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.7 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/98c99f80e0eaa0acd725a898/98c99f80e0eaa0acd725a898168.m3u8",
+     "referer": "https://www.serieday-hd.com/"
+    },
+    {
+     "name": "Ep.8 นักเรียนดีเดือด รุ่น 2",
+     "info": "ซีรี่ย์เกาหลี พากย์ไทย",
+     "image": "https://www.serieday-hd.com/wp-content/uploads/2025/04/Weak-Hero-Class-2-2025-240x300.jpg",
+     "url": "https://series.team-indy.net/embed/ZhT8NcYezl/",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  }
+]},
+  {
+   "name": "Light Shop (พากย์ไทย)",
+   "info": "HD th IMDb n/a",
+   "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+   "stations": [
+    {
+     "name": "Ep.1 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/fvZIpbpDqG/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.2 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5A1horOG9/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.3 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sbUeDJZfCa/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.4 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QJ8Tt2Feji/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.5 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PhqCpraRX9/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.6 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/T7kElGl9Yk/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.7 Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/bgxGSIlk30/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    },
+    {
+     "name": "Ep.8 (ตอนจบ) Light Shop",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+     "image": "https://series-indy.com/wp-content/uploads/2024/12/Light-Shop-1-225x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/P0oNZfPklm/video.mp4/chunk.m3u8",
+     "referer": "https://series-cdn.team-indy.net:8443/"
+    }
+   ]
+  },
   {
    "name": "Friendly Rivalry (2025) เพื่อนรัก เกมลวง",
    "info": "HD th IMDb n/a",
