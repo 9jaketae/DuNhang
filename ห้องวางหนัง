@@ -9,7 +9,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
  "groups": [
 
-
+  {
+   "name": "Speak No Evil (2024) เงียบ ซ่อน ตาย",
+   "info": "HD th IMDb 6.9",
+   "image": "https://cdn.majorcineplex.com/uploads/movie/4134/thumb_4134.jpg?140220250435",
+   "stations": [
+    {
+     "name": "Speak No Evil (2024) เงียบ ซ่อน ตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://cdn.majorcineplex.com/uploads/movie/4134/thumb_4134.jpg?140220250435",
+     "url": "https://main.24playerhd.com/m3u8/b5d506e9176c5c738c4d6e9f/b5d506e9176c5c738c4d6e9f168.m3u8",
+     "referer": "https://www.24-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Midnight Inn โรงเตี๊ยมราตรี (2024)",
+   "info": "HD th IMDb 6",
+   "image": "https://928hd-th.com/wp-content/uploads/Midnight-Inn-โรงเตี๊ยมราตรี.jpg",
+   "stations": [
+    {
+     "name": "Midnight Inn โรงเตี๊ยมราตรี (2024)",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://928hd-th.com/wp-content/uploads/Midnight-Inn-โรงเตี๊ยมราตรี.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/11ba4a758d1c17c9cba17f4e69d15882/master.m3u8",
+     "referer": "https://928hd-th.com/"
+    }
+   ]
+  },
   {
    "name": "The Moogai (2024) ผีลักลูกคน",
    "info": "HD th IMDb n/a",
