@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "โฮมสวีทโฮม กำเนิดใหม่ Home Sweet Home Rebirth (2025)",
+   "info": "HD th IMDb n/a",
+   "image": "https://928hd-th.com/wp-content/uploads/Home-Sweet-Home-Rebirth-โฮมสวีทโฮม-กำเนิดใหม่.jpg",
+   "stations": [
+    {
+   "name": "โฮมสวีทโฮม กำเนิดใหม่ Home Sweet Home Rebirth (2025)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://928hd-th.com/wp-content/uploads/Home-Sweet-Home-Rebirth-โฮมสวีทโฮม-กำเนิดใหม่.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/bedcdcfad81144c4fb24be1e6c56e619/master.m3u8",
+     "referer": "https://928hd-th.com/home-sweet-home-rebirth-2025/"
+    }
+   ]
+  },
+  {
    "name": "Speak No Evil (2024) เงียบ ซ่อน ตาย",
    "info": "HD th IMDb 6.9",
    "image": "https://cdn.majorcineplex.com/uploads/movie/4134/thumb_4134.jpg?140220250435",
