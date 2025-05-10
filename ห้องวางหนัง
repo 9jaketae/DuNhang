@@ -3191,6 +3191,29 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
 ########################################################
 
 
+  {
+   "name": "ดูหนัง เจสัน สเตแธม Jason Statham ครบทุกเรื่อง",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.kubhd.com/wp-content/uploads/2023/07/The-Mechanic-2011-e1689133038449.webp",
+   "stations": [
+    {
+     "name": "A Working Man (2025) นรกหยุดนรก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2025/02/A-Working-Man-2025.webp",
+     "url": "https://hplay.hdplayfull.xyz/46dca7c3-a14a-472e-ba92-da45df3ecf78/_",
+     "referer": "https://www.kubhd.com/movie/a-working-man/"
+    },
+    {
+     "name": "The Beekeeper (2024) นรกเรียกพ่อ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.kubhd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-e1704196027267.webp",
+     "url": "https://hplay.hdplayfull.xyz/cf20adb4-d6b1-4950-be74-b5ff6b948cd1/_",
+     "referer": "https://www.kubhd.com/movie/the-beekeeper-2024/"
+
+    }
+   ]
+  },
+
  {
    "name": "The Godfather เดอะ ก็อดฟาเธอร์",
    "info": "เสียงไทย",
