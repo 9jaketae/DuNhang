@@ -1677,7 +1677,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
  "groups": [
 
-
+  {
+   "name": "Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก",
+   "info": "HD th IMDb n/a",
+   "image": "https://lk-hd.com/wp-content/uploads/2023/09/Plane-2023.jpeg",
+   "stations": [
+    {
+     "name": "Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://lk-hd.com/wp-content/uploads/2023/09/Plane-2023.jpeg",
+     "url": "https://enjoy24cdn.com/hlsr2/42db9972afd04f95cdd9d07d931052b8/master.m3u8",
+     "referer": "https://lk-hd.com/plane/"
+    }
+   ]
+  },
   {
    "name": "Slumberland | Netflix (2022) สลัมเบอร์แลนด์",
    "info": "HD th IMDb 7.6",
