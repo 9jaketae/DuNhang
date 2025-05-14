@@ -23,7 +23,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
+  {
+   "name": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.movies-d.com/wp-content/uploads/2025/05/1CevACy2U8dxgaPLBEeE15lPpw.webp",
+   "stations": [
+    {
+     "name": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2025/05/1CevACy2U8dxgaPLBEeE15lPpw.webp",
+     "url": "https://master.streamhls.com/hlsr2/6900b2cedd25d669335fd0c5f85b3e80/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Uprising กบฏผงาดแผ่นดิน (2024)",
    "info": "HD th IMDb 6.7",
