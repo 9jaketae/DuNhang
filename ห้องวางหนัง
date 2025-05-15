@@ -48,13 +48,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://moviesdoofree.com/wp-content/uploads/2024/10/3-9.jpg",
      "url": "https://serverdatam3u8.com/movie/M14716.mp4/playlist.m3u8",
      "referer": "https://moviesdoofree.com/"
-    },
-    {
-     "name": "Uprising กบฏผงาดแผ่นดิน (2024)",
-     "info": "หนังเกาหลี พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2024/10/3-9.jpg",
-     "url": "https://serverdatam3u8.com/movie/M14716.mp4/chunk.m3u8?nimblesessionid=797717",
-     "referer": "https://moviesdoofree.com/"
     }
    ]
   },
