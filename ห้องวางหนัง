@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "ฝ่านรกกองโจร (2025) Counterstrike",
+   "info": "HD th IMDb n/a",
+   "image": "https://lk-hd.com/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike.webp",
+   "stations": [
+    {
+     "name": "ฝ่านรกกองโจร (2025) Counterstrike",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://lk-hd.com/wp-content/uploads/2025/03/ฝ่านรกกองโจร-2025-Counterstrike.webp",
+     "url": "https://enjoy24cdn.com/hlsr2/f0ecb1d324a52f7d41a318876f6ff2df/master.m3u8",
+     "referer": "https://lk-hd.com/counterstrike-2025/"
+    }
+   ]
+  },
+  {
    "name": " Kumanthong (2019) กุมารทอง ราคะ-เฮี้ยน",
    "info": "HD th IMDb 5.6",
    "image": "https://moviesdoofree.com/wp-content/uploads/2023/02/2.5-scaled.jpg",
