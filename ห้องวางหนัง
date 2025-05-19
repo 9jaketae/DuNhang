@@ -1735,6 +1735,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Evil Dead (2013) ผีอมตะ",
+   "info": "HD th IMDb 6.5",
+   "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
+   "stations": [
+    {
+     "name": "Evil Dead (2013) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
+     "url": "https://enjoy24cdn.com/hlsr2/e9df2d1155eca1a9664af1dff2dd8957/master.m3u8",
+     "referer": "https://lk-hd.com/evil-dead-2013/"
+    }
+   ]
+  },
+  {
    "name": "In the Tall Grass (2019) พงหลอนมรณะ",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.net/wp-content/uploads/2019/10/In-the-Tall-Grass-2019-.jpeg.webp",
