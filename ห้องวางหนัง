@@ -1735,6 +1735,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "32 Malasana Street (2020) 32 มาลาซานญ่า ย่านผีอยู่",
+   "info": "HD th IMDb n/a",
+   "image": "https://movie.thaiware.com/upload_misc/movie/2020_06/original/2006121800370P2.jpg",
+   "stations": [
+    {
+     "name": "32 Malasana Street (2020) 32 มาลาซานญ่า ย่านผีอยู่",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2020/09/32-Malasana-Street-2020.jpg",
+     "url": "https://nanaplayer.com/2d8fk63fmm64",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "In the Tall Grass (2019) พงหลอนมรณะ",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.net/wp-content/uploads/2019/10/In-the-Tall-Grass-2019-.jpeg.webp",
