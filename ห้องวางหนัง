@@ -1735,20 +1735,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
-   "name": "Evil Dead (2013) ผีอมตะ",
-   "info": "HD th IMDb 6.5",
-   "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
-   "stations": [
-    {
-     "name": "Evil Dead (2013) ผีอมตะ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
-     "url": "https://enjoy24cdn.com/hlsr2/e9df2d1155eca1a9664af1dff2dd8957/master.m3u8",
-     "referer": "https://lk-hd.com/evil-dead-2013/"
-    }
-   ]
-  },
-  {
    "name": "In the Tall Grass (2019) พงหลอนมรณะ",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.net/wp-content/uploads/2019/10/In-the-Tall-Grass-2019-.jpeg.webp",
@@ -1759,6 +1745,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://nanamovies.net/wp-content/uploads/2019/10/In-the-Tall-Grass-2019-.jpeg.webp",
      "url": "https://nanaplayer.com/w0vj0ndvpez1",
      "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "The Thieves (2012) 10 ดาวโจรปล้นโคตรเพชร",
+   "info": "HD th IMDb n/a",
+   "image": "https://lk-hdmovie.com/wp-content/uploads/2024/04/The-Thieves-2012.jpeg",
+   "stations": [
+    {
+     "name": "The Thieves (2012) 10 ดาวโจรปล้นโคตรเพชร",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://lk-hdmovie.com/wp-content/uploads/2024/04/The-Thieves-2012.jpeg",
+     "url": "https://enjoy24cdn.com/hlsr2/658ac65e000350f2a4ba1a278a7f798c/master.m3u8",
+     "referer": "https://lk-hdmovie.com/"
     }
    ]
   },
@@ -1978,6 +1978,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "image": "https://www.24-hd.com/wp-content/uploads/2025/03/Zi-Mui-2023-สื่อ-เม่ย.png",
      "url": "https://master.streamhls.com/hlsr2/1f412f122e658086114a18868dca21fc/master.m3u8",
      "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Evil Dead (2013) ผีอมตะ",
+   "info": "HD th IMDb 6.5",
+   "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
+   "stations": [
+    {
+     "name": "Evil Dead (2013) ผีอมตะ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://lk-hd.com/wp-content/uploads/2024/02/Evil-Dead-2013.jpeg",
+     "url": "https://enjoy24cdn.com/hlsr2/e9df2d1155eca1a9664af1dff2dd8957/master.m3u8",
+     "referer": "https://lk-hd.com/evil-dead-2013/"
     }
    ]
   },
