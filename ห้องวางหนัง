@@ -1735,6 +1735,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Pet Sematary (2019) กลับจากป่าช้า",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2019/04/Pet-Sematary-2019.jpg",
+   "stations": [
+    {
+     "name": "Pet Sematary (2019) กลับจากป่าช้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2019/04/Pet-Sematary-2019.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c8afeec74045f98e3be481a9617ac894/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "32 Malasana Street (2020) 32 มาลาซานญ่า ย่านผีอยู่",
    "info": "HD th IMDb n/a",
    "image": "https://movie.thaiware.com/upload_misc/movie/2020_06/original/2006121800370P2.jpg",
