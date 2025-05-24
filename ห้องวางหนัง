@@ -38,6 +38,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Shaun of the Dead (2004) รุ่งอรุณแห่งความวาย(ป่วง)",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.24-hdd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-รุ่งอรุณแห่งความวายป่วง-187x269.jpg",
+   "stations": [
+    {
+     "name": "Shaun of the Dead (2004) รุ่งอรุณแห่งความวาย(ป่วง)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hdd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-รุ่งอรุณแห่งความวายป่วง-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/52d2a0282dc05d6e88bd27c4/52d2a0282dc05d6e88bd27c4.m3u8",
+     "referer": "https://www.24-hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "เด็กเดน  2005",
    "info": "HD th IMDb 4.5",
    "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
