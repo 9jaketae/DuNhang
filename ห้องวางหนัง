@@ -24,6 +24,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "สูบคู่กู้โลก (Soob Kuu Ku Lok) 2013",
+   "info": "HD th IMDb n/a",
+   "image": "https://928hd-th.com/wp-content/uploads/สูบคู่กู้โลก-Soob-Kuu-Ku-Lok-359x512.jpg",
+   "stations": [
+    {
+     "name": "สูบคู่กู้โลก (Soob Kuu Ku Lok) 2013",
+     "info": "พากย์ไทย",
+     "image": "https://928hd-th.com/wp-content/uploads/สูบคู่กู้โลก-Soob-Kuu-Ku-Lok-359x512.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/6f68d3f35460eab77c26d6c3941cb1cf/master.m3u8",
+     "referer": "https://928hd-th.com/"
+    }
+   ]
+  },
+  {
    "name": "เด็กเดน  2005",
    "info": "HD th IMDb 4.5",
    "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
