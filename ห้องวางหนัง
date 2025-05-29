@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "THE CALL (2020) สายตรงต่ออดีต พากย์ไทย ",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2025/05/THE-CALL-2020.webp",
+   "stations": [
+    {
+     "name": "THE CALL (2020) สายตรงต่ออดีต พากย์ไทย ",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/05/THE-CALL-2020.webp",
+     "url": "https://nanaplayer.com/fg4l85v8iitw",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "ชู้จากนรก The Devil’s Bride (2025)",
    "info": "HD th IMDb n/a",
    "image": "https://www.v8-hd.com/wp-content/uploads/2025/05/Pengantin-Setan.png",
