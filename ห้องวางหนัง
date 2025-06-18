@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ พากย์ไทย",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2021/05/จอมยุทธ์ทะลุภพ-ซับไทย-HD.jpeg",
+   "stations": [
+    {
+     "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ พากย์ไทย",
+     "info": "พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2021/05/จอมยุทธ์ทะลุภพ-ซับไทย-HD.jpeg",
+     "url": "https://nanaplayer.com/rsoqhgulpvhs",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร",
    "info": "HD th IMDb n/a",
    "image": "https://www.kubhdfree.com/wp-content/uploads/2024/12/How-to-Train-Your-Dragon-2025.webp",
