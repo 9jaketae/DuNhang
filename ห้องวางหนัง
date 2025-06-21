@@ -94,6 +94,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Memories of Murder (2003) ฆาตกรรม ความตาย และสายฝน",
+   "info": "HD th IMDb  8.1",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2022/09/Memories-of-Murder-2003.jpg",
+   "stations": [
+    {
+     "name": "Memories of Murder (2003) ฆาตกรรม ความตาย และสายฝน",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2022/09/Memories-of-Murder-2003.jpg",
+     "url": "https://master.streamhls.com/hlsr2/66542d94389186b1cf64d8eed6800a9f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "เด็กเดน  2005",
    "info": "HD th IMDb 4.5",
    "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
