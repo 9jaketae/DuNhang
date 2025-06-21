@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Ghost in the Shell (2017) โกสต์ อิน เดอะ เชลล์",
+   "info": "HD th IMDb 6.3 /10",
+   "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/Ghost-in-the-Shell-2017.jpg",
+   "stations": [
+    {
+     "name": "Ghost in the Shell (2017) โกสต์ อิน เดอะ เชลล์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/Ghost-in-the-Shell-2017.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0338da7a3417367de9b6f22f143e61a4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ พากย์ไทย",
    "info": "HD th IMDb n/a",
    "image": "https://nanamovies.net/wp-content/uploads/2021/05/จอมยุทธ์ทะลุภพ-ซับไทย-HD.jpeg",
