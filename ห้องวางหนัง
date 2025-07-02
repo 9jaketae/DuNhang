@@ -10,6 +10,34 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Dr. Cheon and the Lost Talisman (2023)",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
+   "stations": [
+    {
+     "name": "Dr. Cheon and the Lost Talisman (2023)",
+     "info": "หนังเกาหลี ซับไทย",
+     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
+     "url": "https://master3.baraq.xyz/PlayList/65a9d13ca0725U7H/master.m3u8",
+     "referer": "https://www.imovie99.com/"
+    },
+    {
+     "name": "Dr. Cheon and the Lost Talisman (2023)",
+     "info": "หนังเกาหลี ซับไทย",
+     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
+     "url": "https://master3.baraq.xyz/media/65a9d13ca0725U7H/360/hls/index.m3u8",
+     "referer": "https://www.imovie99.com/"
+    },
+    {
+     "name": "Dr. Cheon and the Lost Talisman (2023",
+     "info": "หนังเกาหลี ซับไทย",
+     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
+     "url": "https://v2.symanagemovie.com/video/7eacb532570ff6858afd2723755ff790",
+     "referer": "https://v2.symanagemovie.com/"
+    }
+   ]
+  },
+  {
    "name": "The Autopsy of Jane Doe (2016) สืบศพหลอน ซ่อนระทึก",
    "info": "HD th IMDb n/a",
    "image": "https://www.037hd-movies.com/wp-content/uploads/2018/05/The-Autopsy-of-Jane-Doe-2016.jpg",
