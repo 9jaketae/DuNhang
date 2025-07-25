@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Ghost Killer (2025) โกสต์คิลเลอร์",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Ghost-Killer-2025-1.webp",
+   "stations": [
+    {
+     "name": "Ghost Killer (2025) โกสต์คิลเลอร์",
+     "info": "หนังญี่ปุ่น ซับไทย",
+     "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Ghost-Killer-2025-1.webp",
+     "url": "https://m4-txt-2.xdomovie247.com/playlist2/detail/a53ccfb1bYjTm/1080/hls/index.m3u8",
+     "referer": "https://www.25moviehd.com/"
+    }
+   ]
+  },
+  {
    "name": " Ice Road: Vengeance (2025)",
    "info": "HD th IMDb n/a",
    "image": "https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg",
