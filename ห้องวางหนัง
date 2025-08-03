@@ -290,20 +290,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
-   "name": "สูบคู่กู้โลก (Soob Kuu Ku Lok) 2013",
-   "info": "HD th IMDb n/a",
-   "image": "https://928hd-th.com/wp-content/uploads/สูบคู่กู้โลก-Soob-Kuu-Ku-Lok-359x512.jpg",
-   "stations": [
-    {
-     "name": "สูบคู่กู้โลก (Soob Kuu Ku Lok) 2013",
-     "info": "พากย์ไทย",
-     "image": "https://928hd-th.com/wp-content/uploads/สูบคู่กู้โลก-Soob-Kuu-Ku-Lok-359x512.jpg",
-     "url": "https://enjoy24cdn.com/hlsr2/6f68d3f35460eab77c26d6c3941cb1cf/master.m3u8",
-     "referer": "https://928hd-th.com/"
-    }
-   ]
-  },
-  {
    "name": "Shaun of the Dead (2004) รุ่งอรุณแห่งความวาย(ป่วง)",
    "info": "HD th IMDb n/a",
    "image": "https://www.24-hdd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-รุ่งอรุณแห่งความวายป่วง-187x269.jpg",
@@ -328,20 +314,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.037hd-movies.com/wp-content/uploads/2022/09/Memories-of-Murder-2003.jpg",
      "url": "https://master.streamhls.com/hlsr2/66542d94389186b1cf64d8eed6800a9f/master.m3u8",
      "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "เด็กเดน  2005",
-   "info": "HD th IMDb 4.5",
-   "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
-   "stations": [
-    {
-     "name": "เด็กเดน",
-     "info": "หนังไทย",
-     "image": "https://image.tmdb.org/t/p/w300/rQuitWeUfXkYUAtKsPDS3FOO1fw.jpg",
-     "url": "https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/36153ffd1611b5873268b6b94545339b/997cb28ab96e27ca97604e58bcc7ef62/index.m3u8",
-     "referer": "https://movie.goal-th.com/movies/238158"
     }
    ]
   }]},
