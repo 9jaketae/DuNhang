@@ -123,6 +123,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Champions (2023) ไปแชมป์กับ...ทีมบ๊องส์",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.037hdd-movie.com/wp-content/uploads/2023/03/Champions-2023.jpg",
+   "stations": [
+    {
+     "name": "Champions (2023) ไปแชมป์กับ...ทีมบ๊องส์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hdd-movie.com/wp-content/uploads/2023/03/Champions-2023.jpg",
+     "url": "https://master.streamhls.com/hls/7bf51675c036c4bb27f57c1e04074f15/master",
+     "referer": "https://player.stream1689.com/"
+    }
+   ]
+  },
+  {
    "name": "Dr. Cheon and the Lost Talisman (2023)",
    "info": "HD th IMDb n/a",
    "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
