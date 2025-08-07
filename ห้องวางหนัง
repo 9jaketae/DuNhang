@@ -10,6 +10,20 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "The Pickup (2025) เดอะพิคอัพ",
+   "info": "HD th IMDb n/a",
+   "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",
+   "stations": [
+    {
+     "name": "The Pickup (2025) เดอะพิคอัพ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",
+     "url": "https://m3u8haha.com/movie/M15406.mp4/playlist.m3u8",
+     "referer": "https://moviesdoofree.com/"
+    }
+   ]
+  },
+  {
    "name": "My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน",
    "info": "HD th IMDb n/a",
    "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/1-1.jpg",
