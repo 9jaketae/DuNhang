@@ -10,6 +10,32 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Heart Eyes (2025) ฮาร์ทอายส์ เกลียดนักคนมีคู่ ซับไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/08/Heart-Eyes-2025.webp",
+   "stations": [
+    {
+     "name": "Heart Eyes (2025) ฮาร์ทอายส์ เกลียดนักคนมีคู่",
+     "info": "หนังฝรั่ง ซับไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Heart-Eyes-2025.webp",
+     "url": "https://nanaplayer.com/i8zdsu09ik0w",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "Eddington (2025) ซับไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/08/Eddington-2025.webp",
+   "stations": [
+    {
+     "name": "Eddington (2025)",
+     "info": "หนังฝรั่ง ซับไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Eddington-2025.webp",
+     "url": "https://nanaplayer.com/jei0wz9ubrdw",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "The Pickup (2025) เดอะพิคอัพ",
    "info": "HD th IMDb n/a",
    "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",
