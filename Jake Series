@@ -4,6 +4,31 @@
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
+  {
+   "name": "Warm on a Cold Night (2023) อุ่นรัก เจ้าชายคลายหนาว",
+     "info": "ซีรีย์จีน พากย์ไทย",
+   "image": "https://series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH-212x300.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1 อุ่นรัก เจ้าชายคลายหนาว",
+     "image": "https://series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH-212x300.jpg",
+     "url": "https://main.24playerhd.com/m3u8/fc58099b16a280f901e99271/fc58099b16a280f901e99271438.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "ตอนที่ 2 อุ่นรัก เจ้าชายคลายหนาว",
+     "image": "https://series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH-212x300.jpg",
+      "url": "https://series.team-indy.net/embed/6KADUjwN/",
+      "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่  อุ่นรัก เจ้าชายคลายหนาว",
+     "image": "https://series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH-212x300.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/6KADUjwN/video.mp4/playlist.m3u8",
+     "referer": "https://series-indy.com/"
+    }
+   ]
+  },
  {
    "name": " Moon Lovers Scarlet Heart Ryeo ข้ามมิติลิขิตสวรรค์ ตอนที่ 1-20 [จบ] พากย์ไทย ",
    "info": "HD th IMDb n/a",
