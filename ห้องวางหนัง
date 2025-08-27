@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Fantasy Football Ruined Our Lives แฟนตาซีฟุตบอลพังชีวิต (2025)",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://928hdnew.com/wp-content/uploads/Fantasy-Football-Ruined-Our-Lives-แฟนตาซีฟุตบอลพังชีวิต.jpg",
+   "stations": [
+    {
+     "name": "Fantasy Football Ruined Our Lives แฟนตาซีฟุตบอลพังชีวิต (2025)",
+     "image": "https://928hdnew.com/wp-content/uploads/Fantasy-Football-Ruined-Our-Lives-แฟนตาซีฟุตบอลพังชีวิต.jpg",
+     "url": "https://original.enjoy24cdn.com/hlsr2/93884ade2b2d10182e77e308c3869f46/master.m3u8",
+     "referer": "https://928hdnew.com/"
+    }
+   ]
+  },
+  {
    "name": "Heart Eyes (2025) ฮาร์ทอายส์ เกลียดนักคนมีคู่ ซับไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/08/Heart-Eyes-2025.webp",
    "stations": [
