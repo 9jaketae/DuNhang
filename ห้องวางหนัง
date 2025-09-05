@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Tomorrowland (2015) ผจญแดนอนาคต",
+   "image": "https://nanamovies.org/wp-content/uploads/2016/11/Tomorrowland-2015-ผจญแดนอนาคต.jpeg.webp",
+   "stations": [
+    {
+     "name": "Tomorrowland (2015) ผจญแดนอนาคต",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2016/11/Tomorrowland-2015-ผจญแดนอนาคต.jpeg.webp",
+     "url": "https://nanaplayer.com/b4l5u9s1xg9r",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
    "name": "คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์ Kayaor (2025)",
    "info": "หนังไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/08/Kayaor-2025.webp",
