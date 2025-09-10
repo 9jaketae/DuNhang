@@ -5,6 +5,43 @@
  "groups": [
 
   {
+   "name": "Tempest (2025) EP.1-9 จบ",
+     "info": "ซีรีย์เกาหลี พากย์ไทย",
+   "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+   "stations": [
+    {
+     "name": "EP.1 Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "https://ok-nah.com/hls/7be1e2d6971d63ae08d12939fdc9d9c2/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.2 Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "https://ok-nah.com/hls/d118f241baaa04322c7e38910c72566a/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.3 Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "https://ok-nah.com/hls/aed4789df351aef6a533f866357b5c98/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP. Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP. Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "",
+     "referer": "https://series-fulls.com/"
+    }
+   ]
+  },
+  {
    "name": "Warm on a Cold Night (2023) อุ่นรัก เจ้าชายคลายหนาว",
      "info": "ซีรีย์จีน พากย์ไทย",
    "image": "https://series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH-212x300.jpg",
