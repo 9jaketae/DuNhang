@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": " I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
+   "image": "https://nanamovies.org/wp-content/uploads/2018/04/I-Am-Legend.jpeg.webp",
+   "stations": [
+    {
+     "name": " I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2018/04/I-Am-Legend.jpeg.webp",
+     "url": "https://nanaplayer.com/kgk4fzld7vqe",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Tomorrowland (2015) ผจญแดนอนาคต",
    "image": "https://nanamovies.org/wp-content/uploads/2016/11/Tomorrowland-2015-ผจญแดนอนาคต.jpeg.webp",
    "stations": [
