@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Handsome Guys (Haenseomgaijeu) (2024) สับฮา ไอ้หนุ่มบ้านนอก",
+   "info": "หนังเกาหลี ซับไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/09/Handsome-Guys-Haenseomgaijeu-2024.webp",
+   "stations": [
+    {
+     "name": "Handsome Guys",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/09/Handsome-Guys-Haenseomgaijeu-2024.webp",
+     "url": "https://nanaplayer.com/vx5u461xucg9",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "หลวงพี่แจ๊สโคตรซิ่ง Jazz The Racing (2025)",
    "info": "หนังไทย",
    "image": "https://www.kubhdd.com/wp-content/uploads/2025/03/Jazz-The-Racing-2025-e1743066781876.webp",
