@@ -28,16 +28,22 @@
      "referer": "https://series-fulls.com/"
     },
     {
-     "name": "EP. Tempest (2025)",
+     "name": "EP.4 Tempest (2025)",
      "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
-     "url": "",
-     "referer": "https://series-fulls.com/"
+     "url": "https://main.24playerhd.com/m3u8/52b39508964e62497e2e1cae/52b39508964e62497e2e1cae168.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP.5 Tempest (2025)",
+     "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
+     "url": "https://main.24playerhd.com/m3u8/3c491c74c60c9f1696476041/3c491c74c60c9f1696476041438.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
     },
     {
      "name": "EP. Tempest (2025)",
      "image": "https://series-fulls.com/wp-content/uploads/2025/09/Tempest-2.webp",
      "url": "",
-     "referer": "https://series-fulls.com/"
+     "referer": "https://www.seriesday-hd.com/"
     }
    ]
   },
