@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Tin & Tina (2023) ตินกับตินา",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2023/05/Tin-Tina-2023-ตินกับตินา.jpeg",
+   "stations": [
+    {
+     "name": "Tin & Tina (2023) ตินกับตินา",
+   "image": "https://nanamovies.org/wp-content/uploads/2023/05/Tin-Tina-2023-ตินกับตินา.jpeg",
+     "url": "https://nanaplayer.com/j64tvbj820he",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Handsome Guys (Haenseomgaijeu) (2024) สับฮา ไอ้หนุ่มบ้านนอก",
    "info": "หนังเกาหลี ซับไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/09/Handsome-Guys-Haenseomgaijeu-2024.webp",
