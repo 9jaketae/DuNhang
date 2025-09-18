@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Automata (2014) ล่าจักรกล ยึดอนาคต",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hdd-movie.com/wp-content/uploads/2018/04/siTm8vIBo4q4xIAcsBk.jpg",
+   "stations": [
+    {
+     "name": "Automata (2014) ล่าจักรกล ยึดอนาคต",
+     "image": "https://www.037hdd-movie.com/wp-content/uploads/2018/04/siTm8vIBo4q4xIAcsBk.jpg",
+     "url": "https://api2.xn--72czaud0ezbn4b8de.com/video/c2a41a67-3320-5358-9b97-ee4c80a1f13c/playlist.m3u8",
+     "referer": "https://www.doo-nang.com/"
+    }
+   ]
+  },
+  {
    "name": "Tin & Tina (2023) ตินกับตินา",
      "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2023/05/Tin-Tina-2023-ตินกับตินา.jpeg",
