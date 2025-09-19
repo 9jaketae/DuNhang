@@ -1,9 +1,58 @@
 {
  "name": "Jake Series",
- "author": "อัพวันที่ 08-06-2025",
+ "author": "อัพวันที่ 20-09-2025",
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
+  {
+   "name": "My Youth (2025) วัยเยาว์ของสองเรา EP1-12 จบ",
+   "info": "ซีรีย์เกาหลี ซับไทย",
+   "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+   "stations": [
+    {
+     "name": "EP 1 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/226a2622d000c8d8d87a84cb/226a2622d000c8d8d87a84cb168.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP 2 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/4b9671f0ff2658b194786279/4b9671f0ff2658b194786279168.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP 3 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/1c741fe11523b88ba5e8ddb4/1c741fe11523b88ba5e8ddb4168.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP 4 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/c0d5a0a4687815a7664658f1/c0d5a0a4687815a7664658f1168.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP 5 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/7ccc8e42e44bd850d2649161/7ccc8e42e44bd850d2649161438.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP 6 My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "https://main.24playerhd.com/m3u8/c443be23aa41f9e162ce6c06/c443be23aa41f9e162ce6c06438.m3u8",
+     "referer": "https://www.seriesday-hd.com/"
+    },
+    {
+     "name": "EP  My Youth",
+     "image": "https://goseries4k.com/wp-content/uploads/2025/08/4521.gif",
+     "url": "",
+     "referer": "https://www.seriesday-hd.com/"
+    }
+   ]
+  },
   {
    "name": "Tempest (2025) EP.1-9 จบ",
      "info": "ซีรีย์เกาหลี พากย์ไทย",
