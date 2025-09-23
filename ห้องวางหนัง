@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Last Man Down (2021) โคตรคลั่งบาซูก้า พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2021/10/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+   "stations": [
+    {
+     "name": "Last Man Down (2021) โคตรคลั่งบาซูก้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2021/10/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+     "url": "https://master.streamhls.com/hls/4eb6be33565d21b879578f49f82ecc26/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Miss Baek (2018) ซับไทย",
    "image": "https://285hdmovies.com/wp-content/uploads/2025/09/6g6dsvl8.jpg",
    "stations": [
