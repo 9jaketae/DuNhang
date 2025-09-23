@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "The Park (2003) สวนสนุกผี",
+   "image": "https://nanamovies.org/wp-content/uploads/2020/08/สวนสนุกผี-The-Park-2003.jpeg",
+   "stations": [
+    {
+     "name": "The Park (2003) สวนสนุกผี",
+     "info": "พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2020/08/สวนสนุกผี-The-Park-2003.jpeg",
+     "url": "https://nanaplayer.com/s62af4knuyi1",
+     "referer": "https://www.nanamovies.me/" 
+    }
+   ]
+  },
+  {
    "name": "Last Man Down (2021) โคตรคลั่งบาซูก้า พากย์ไทย",
    "image": "https://www.v8-hdd.com/wp-content/uploads/2021/10/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
    "stations": [
