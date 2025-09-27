@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์ พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024.webp",
+   "stations": [
+    {
+     "name": "แฮโรลด์กับสีเทียนมหัศจรรย์",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024.webp",
+     "url": "https://nanaplayer.com/t9e2o8h4lqzo",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "The Park (2003) สวนสนุกผี",
    "image": "https://nanamovies.org/wp-content/uploads/2020/08/สวนสนุกผี-The-Park-2003.jpeg",
    "stations": [
