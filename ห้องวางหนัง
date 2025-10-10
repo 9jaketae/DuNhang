@@ -10,6 +10,26 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
+   "stations": [
+    {
+     "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
+     "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
+     "url": "https://m3u8haha.com/movie/M07482.mp4/playlist.m3u8",
+     "referer": "https://movie747hd.com/"
+    },
+    {
+     "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
+     "info": "พากย์ไทย",
+     "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
+     "url": "https://movie747hd.com/ดู/the-professor-and-the-madman-2019-ศาสตราจารย์และคนบ้/",
+     "referer": "https://movie747hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์ พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024.webp",
    "stations": [
