@@ -10,6 +10,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Good Fortune (2025) เทวดาแบบใดห์",
+   "info": "หนังฝรั่ง ซับไทย",
+   "image": "https://www.kub-hd.com/wp-content/uploads/2025/07/Good-Fortune-2025.webp",
+   "stations": [
+    {
+     "name": "Good Fortune (2025) เทวดาแบบใดห์",
+     "image": "https://www.kub-hd.com/wp-content/uploads/2025/07/Good-Fortune-2025.webp",
+     "url": "https://hplay.hdplayfull.xyz/embed/6rodkd0otp",
+     "referer": "https://www.kub-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
      "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
