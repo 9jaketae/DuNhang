@@ -7209,7 +7209,8 @@
      "name": "ตอนที่ 1 หงสาประกาศิต",
      "image": "https://deejung-series.com/uploads/b5f27ffa3ebe03bfad5afa4d01bd6fd1.jpg",
      "url": "https://ok.ru/videoembed/9357896125043?autoplay=1",
-     "referer": "https://deejung-series.com/"
+     "referer": "https://deejung-series.com/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
     },
     {
      "name": "ตอนที่ 1 หงสาประกาศิต",
@@ -7220,12 +7221,14 @@
      "name": "ตอนที่ 1 หงสาประกาศิต",
      "image": "https://deejung-series.com/uploads/b5f27ffa3ebe03bfad5afa4d01bd6fd1.jpg",
      "url": "https://ok.ru/videoembed/9357896125043",
-     "referer": "https://deejung-series.com/"
+     "referer": "https://deejung-series.com/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
     },
     {
      "name": "ตอนที่ 1 หงสาประกาศิต",
      "image": "https://deejung-series.com/uploads/b5f27ffa3ebe03bfad5afa4d01bd6fd1.jpg",
-     "url": "https://ok.ru/videoembed/9357896125043"
+     "url": "https://ok.ru/videoembed/9357896125043",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
     }
    ]
   },
