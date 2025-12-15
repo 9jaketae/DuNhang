@@ -4,6 +4,19 @@ image:"https://drive.google.com/uc?id=1OHvoOG6VDVgwRqrsbWYUByVuF3Gy3AOt",
 url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies",
 "groups": [
 
+  {
+   "name": "Wake Up Dead Man: A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://moviesdoofree.com/wp-content/uploads/2025/12/1-6.jpg",
+   "stations": [
+    {
+     "name": "Wake Up Dead Man: A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป",
+     "image": "https://moviesdoofree.com/wp-content/uploads/2025/12/1-6.jpg",
+     "url": "https://m3u8haha.com/embed/M15591/",
+     "referer": "https://moviesdoofree.com/"
+    }
+   ]
+  },
     {
  "name": "วางหนัง 1",
  "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
