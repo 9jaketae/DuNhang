@@ -18,6 +18,12 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     {
      "name": "เสือ (2025) 4 Tigers",
      "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
+     "url": "https://master.streamhls.com/hls/f2944f401f5cac66d4e5dd7ae5bffc2d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "เสือ (2025) 4 Tigers",
+     "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
      "url": "https://hplay.hdplayfull.xyz/embed/ds6rf4qt4p",
      "referer": "https://kub-hdd.com/"
     }
