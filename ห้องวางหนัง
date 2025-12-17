@@ -11,6 +11,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "เสือ (2025) 4 Tigers",
+   "info": "หนังไทย",
+   "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
+   "stations": [
+    {
+     "name": "เสือ (2025) 4 Tigers",
+     "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
+     "url": "https://hplay.hdplayfull.xyz/embed/ds6rf4qt4p",
+     "referer": "https://kub-hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "Good Fortune (2025) เทวดาแบบใดห์",
    "info": "หนังฝรั่ง ซับไทย",
    "image": "https://www.kub-hd.com/wp-content/uploads/2025/07/Good-Fortune-2025.webp",
