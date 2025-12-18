@@ -11,6 +11,39 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "มือปืน (2025) The Last Shot",
+   "info": "หนังไทย",
+   "image": "https://kub-hdd.com/wp-content/uploads/2025/10/The-Last-Shot-2025.webp",
+   "stations": [
+    {
+     "name": "มือปืน (2025) The Last Shot",
+     "image": "https://kub-hdd.com/wp-content/uploads/2025/10/The-Last-Shot-2025.webp",
+     "url": "https://hplay.hdplayfull.xyz/embed/w3cmpxlsdq",
+     "referer": "https://kub-hdd.com/"
+    },
+    {
+     "name": "มือปืน (2025) The Last Shot",
+     "image": "https://kub-hdd.com/wp-content/uploads/2025/10/The-Last-Shot-2025.webp",
+     "url": "https://reverse-pd1.hlsserver.space/hls/6937fdb815edf9d5145899c5/mxfile",
+     "referer": "https://stream037.com/"
+    }
+   ]
+  },
+
+  {
+   "name": "จอมโจรสโนไวท์กับราชินีบานฉ่ำ Mirror Mirror (2012)",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://new-movie2thai.com/wp-content/uploads/2020/10/pys6zIJN8Sxlk2Ss2GZuYuXPbtw-200x300.jpg",
+   "stations": [
+    {
+     "name": "จอมโจรสโนไวท์กับราชินีบานฉ่ำ Mirror Mirror (2012)",
+     "image": "https://new-movie2thai.com/wp-content/uploads/2020/10/pys6zIJN8Sxlk2Ss2GZuYuXPbtw-200x300.jpg",
+     "url": "https://be2719.rcr22.ams01.i8yz83pn.com/hls2/05/10065/y711cfca51hd_x/master.m3u8?t=HYXAtKgJZx7I1XaGY2culNGMQTxn0bc80rs5Jfjbh3o&s=1766052006&e=10800&f=51454037&srv=1075&asn=17552&sp=5500&p=1",
+     "referer": ""
+    }
+   ]
+  },
+  {
    "name": "Wake Up Dead Man A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2025/12/Wake-Up-Dead-Man-A-Knives-Out-Mystery-2025.webp",
