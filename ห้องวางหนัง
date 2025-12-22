@@ -11,6 +11,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "ผีใช้ได้ค่ะ A Useful Ghost (2025)",
+   "info": "หนังไทย",
+   "image": "https://new-movie2thai.com/wp-content/uploads/2025/12/9evMHDxDFw0x8KFAIbC0xvCtySa-202x300.jpg",
+   "stations": [
+    {
+     "name": "ผีใช้ได้ค่ะ A Useful Ghost (2025)",
+     "image": "https://new-movie2thai.com/wp-content/uploads/2025/12/9evMHDxDFw0x8KFAIbC0xvCtySa-202x300.jpg",
+     "url": "https://fin-3dg-b1.i8yz83pn.com/hls2/05/10515/543r3xls0s8x_x/master.m3u8?t=S7GBDMe3mvw0YxQ027A_B4bk_mQ0CghO9B7LYeOuqhw&s=1766414120&e=10800&f=52578241&srv=1075&asn=17552&sp=5500&p=1",
+     "referer": "https://new-movie2thai.com/"
+    }
+   ]
+  },
+  {
    "name": "วันวิบัติ จันทร์ถล่มโลก (2022) Moonfall",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://de88.me/wp-content/uploads/2022/07/วันวิบัติจันทร์ถล่มโลก2022Moonfall-1-717x1024.jpg",
