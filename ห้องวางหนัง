@@ -687,6 +687,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "referer": "https://master.streamhls.com/"
     }
    ]
+  },
+
+  {
+   "name": "VMX Kama Sutra (2025)",
+   "info": "HD th IMDb 9.0",
+   "image": "https://25-hd.com/wp-content/uploads/2025/07/kLhabEKcEkMDAfTiitChlpcvclY-2-683x1024.jpg",
+   "stations": [
+    {
+     "name": "VMX Kama Sutra (2025)",
+     "info": "ซับไทย",
+     "image": "https://25-hd.com/wp-content/uploads/2025/07/kLhabEKcEkMDAfTiitChlpcvclY-2-683x1024.jpg",
+     "url": "https://reverse-lb4235.hlsserver.space/hls/6946504f4687cc5e1744e80a/mxfile",
+     "referer": ""
+    }
+   ]
   }]},
 
 
