@@ -4,6 +4,32 @@
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
+  {
+   "name": "Spring Fever (2026) ใบไม้ผลิที่รอคอย",
+   "info": "ซีรีย์เกาหลี พากย์ไทย",
+   "image": "https://series-fulls.com/wp-content/uploads/2026/01/ใบไม้ผลิที่รอคอย-1.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1 Spring Fever",
+     "image": "https://series-fulls.com/wp-content/uploads/2026/01/ใบไม้ผลิที่รอคอย-1.webp",
+     "url": "https://top-cdn.com/hls/f77b9ce9e0c32fb079a35393369fd695/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "ตอนที่ 2 Spring Fever",
+     "image": "https://series-fulls.com/wp-content/uploads/2026/01/ใบไม้ผลิที่รอคอย-1.webp",
+     "url": "https://top-cdn.com/hls/faae3bd0433a0a4b0252f3475f0ac627/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "ตอนที่  Spring Fever",
+     "image": "https://series-fulls.com/wp-content/uploads/2026/01/ใบไม้ผลิที่รอคอย-1.webp",
+     "url": "",
+     "referer": "https://series-fulls.com/"
+    }
+   ]
+  },
+
  {
  "name": "Mayfair Witches",
  "info": "ซีรี่ย์ฝรั่ง ซับไทย",
