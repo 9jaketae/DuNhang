@@ -1351,6 +1351,21 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
+
+  {
+   "name": "The Way We Were (1973) สุดทางรัก",
+   "info": "หนังฝรั่ง ซับไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2020/10/rwBONrd3ipufrSA2sAQtvhC0FYF.jpg",
+   "stations": [
+    {
+     "name": "The Way We Were (1973) สุดทางรัก",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2020/10/rwBONrd3ipufrSA2sAQtvhC0FYF.jpg",
+     "url": "https://master.streamhls.com/hls/71550147d9cca63658fe0715286281fa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+
   {
    "name": "Ne Zha นาจา",
    "info": "HD th IMDb n/a",
