@@ -11,6 +11,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2018/10/Love-Rosie-2014-Sub-TH.jpg",
+   "stations": [
+    {
+     "name": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2018/10/Love-Rosie-2014-Sub-TH.jpg",
+     "url": "https://m3u8haha.com/movie/M00745.mp4/chunk.m3u8",
+     "referer": "https://xn--72czbs0gd7b9c.com/"
+    }
+   ]
+  },
+  {
    "name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
    "info": "Disney plus Hotstar IMDb7/10",
    "image": "https://www.finsliqblog.com/wp-content/uploads/2025/08/Freakier-Friday-2025-e1755486960607.webp?x47487",
