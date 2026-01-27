@@ -35,716 +35,585 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "url": "https://media.vdohls.com/771vyhsiui/playlist.m3u8"
     }
    ]
-  },
+  }]},
+
+    {
+ "name": "หนังดีที่น่าดู",
+ "image": "https://img5.pic.in.th/file/secure-sv1/05-Movies-1.jpeg",
+ "groups": [
 
   {
-   "name": "ผีใช้ได้ค่ะ A Useful Ghost (2025)",
-   "info": "หนังไทย",
-   "image": "https://new-movie2thai.com/wp-content/uploads/2025/12/9evMHDxDFw0x8KFAIbC0xvCtySa-202x300.jpg",
-   "stations": [
-    {
-     "name": "ผีใช้ได้ค่ะ A Useful Ghost (2025)",
-     "image": "https://new-movie2thai.com/wp-content/uploads/2025/12/9evMHDxDFw0x8KFAIbC0xvCtySa-202x300.jpg",
-     "url": "https://fin-3dg-b1.i8yz83pn.com/hls2/05/10515/543r3xls0s8x_x/master.m3u8?t=S7GBDMe3mvw0YxQ027A_B4bk_mQ0CghO9B7LYeOuqhw&s=1766414120&e=10800&f=52578241&srv=1075&asn=17552&sp=5500&p=1",
-     "referer": "https://new-movie2thai.com/"
-    }
-   ]
-  },
-  {
-   "name": "วันวิบัติ จันทร์ถล่มโลก (2022) Moonfall",
+   "name": "Love Story (1970) เลิฟ สตอรี่",
    "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://de88.me/wp-content/uploads/2022/07/วันวิบัติจันทร์ถล่มโลก2022Moonfall-1-717x1024.jpg",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2023/02/Love-Story-1970.jpg",
    "stations": [
     {
-     "name": "วันวิบัติ จันทร์ถล่มโลก (2022) Moonfall",
-     "image": "https://de88.me/wp-content/uploads/2022/07/วันวิบัติจันทร์ถล่มโลก2022Moonfall-1-717x1024.jpg",
-     "url": "https://1688.dedkub.cyou/hd/720/0632-Moonfall2022.mp4",
-     "referer": "https://de88.me/"
-    }
-   ]
-  },
-  {
-   "name": "Your Host (2025) ",
-   "info": "หนังฝรั่ง ซับไทย",
-   "image": "https://9nung.com/wp-content/uploads/2025/10/sz0ff2j1bZOLM9HT9LjkcewZBYR-185x278.jpg",
-   "stations": [
-    {
-     "name": "Your Host (2025) ",
-     "image": "https://9nung.com/wp-content/uploads/2025/10/sz0ff2j1bZOLM9HT9LjkcewZBYR-185x278.jpg",
-     "url": "https://media.vdohls.com/otrrdrrezjnuxfs/playlist.m3u8",
-     "referer": "https://9nung.com/"
-    }
-   ]
-  },
-  {
-   "name": "จอมโจรสโนไวท์กับราชินีบานฉ่ำ Mirror Mirror (2012)",
-   "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://9nung.com/wp-content/uploads/Mirror-Mirror-4150.jpeg",
-   "stations": [
-    {
-     "name": "จอมโจรสโนไวท์กับราชินีบานฉ่ำ Mirror Mirror (2012)",
-     "image": "https://9nung.com/wp-content/uploads/Mirror-Mirror-4150.jpeg",
-     "url": "https://be2719.rcr22.ams01.i8yz83pn.com/hls2/05/10065/y711cfca51hd_x/master.m3u8?t=TJHy6_A8DJAdIKlMXY_5PoerWlzdQaB1P2yA27ou_xw&s=1766128248&e=10800&f=51454037&srv=1075&asn=17552&sp=5500&p=1",
-     "referer": "https://ico3c.com/"
-    }
-   ]
-  },
-  {
-   "name": "Wake Up Dead Man A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป",
-   "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/12/Wake-Up-Dead-Man-A-Knives-Out-Mystery-2025.webp",
-   "stations": [
-    {
-     "name": "Wake Up Dead Man A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/12/Wake-Up-Dead-Man-A-Knives-Out-Mystery-2025.webp",
-     "url": "https://hplay.hdplayfull.xyz/embed/pcy7gm1l14",
-     "referer": "https://kub-hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "เสือ (2025) 4 Tigers",
-   "info": "หนังไทย",
-   "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
-   "stations": [
-    {
-     "name": "เสือ (2025) 4 Tigers",
-     "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
-     "url": "https://master.streamhls.com/hls/f2944f401f5cac66d4e5dd7ae5bffc2d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "เสือ (2025) 4 Tigers",
-     "image": "https://kub-hdd.com/wp-content/uploads/2025/11/4-Tigers-2025.webp",
-     "url": "https://hplay.hdplayfull.xyz/embed/ds6rf4qt4p",
-     "referer": "https://kub-hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Good Fortune (2025) เทวดาแบบใดห์",
-   "info": "หนังฝรั่ง ซับไทย",
-   "image": "https://www.kub-hd.com/wp-content/uploads/2025/07/Good-Fortune-2025.webp",
-   "stations": [
-    {
-     "name": "Good Fortune (2025) เทวดาแบบใดห์",
-     "image": "https://www.kub-hd.com/wp-content/uploads/2025/07/Good-Fortune-2025.webp",
-     "url": "https://media.vdohls.com/wphqnwpvhtrszxc/playlist.m3u8",
-     "referer": "https://9nung.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
-     "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
-   "stations": [
-    {
-     "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
-     "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
-     "url": "https://m3u8haha.com/movie/M07482.mp4/playlist.m3u8",
-     "referer": "https://movie747hd.com/"
-    },
-    {
-     "name": "The Professor and the Madman (2019) ศาสตราจารย์และคนบ้า",
-     "info": "พากย์ไทย",
-     "image": "https://movie345hd.com/wp-content/uploads/2019/10/2-1.jpg",
-     "url": "https://movie747hd.com/ดู/the-professor-and-the-madman-2019-ศาสตราจารย์และคนบ้/",
-     "playInNatPlayer": "true", 
-     "referer": "https://movie747hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์ พากย์ไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024.webp",
-   "stations": [
-    {
-     "name": "แฮโรลด์กับสีเทียนมหัศจรรย์",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon-2024.webp",
-     "url": "https://nanaplayer.com/t9e2o8h4lqzo",
-     "referer" : "https://nanamovies.org/"
-    }
-   ]
-  },
-  {
-   "name": "The Park (2003) สวนสนุกผี",
-   "image": "https://nanamovies.org/wp-content/uploads/2020/08/สวนสนุกผี-The-Park-2003.jpeg",
-   "stations": [
-    {
-     "name": "The Park (2003) สวนสนุกผี",
-     "info": "พากย์ไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2020/08/สวนสนุกผี-The-Park-2003.jpeg",
-     "url": "https://nanaplayer.com/s62af4knuyi1",
-     "referer": "https://www.nanamovies.me/" 
-    }
-   ]
-  },
-  {
-   "name": "Last Man Down (2021) โคตรคลั่งบาซูก้า พากย์ไทย",
-   "image": "https://www.v8-hdd.com/wp-content/uploads/2021/10/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-   "stations": [
-    {
-     "name": "Last Man Down (2021) โคตรคลั่งบาซูก้า",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.v8-hdd.com/wp-content/uploads/2021/10/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
-     "url": "https://master.streamhls.com/hls/4eb6be33565d21b879578f49f82ecc26/master.m3u8",
+     "name": "Love Story (1970) เลิฟ สตอรี่",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2023/02/Love-Story-1970.jpg",
+     "url": "https://master.streamhls.com/hls/a575ad7d30dd1eba0a1812f5d24ed06e/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "Miss Baek (2018) ซับไทย",
-   "image": "https://285hdmovies.com/wp-content/uploads/2025/09/6g6dsvl8.jpg",
-   "stations": [
-    {
-     "name": "Miss Baek",
-     "info": "หนังเกาหลี ซับไไทย",
-     "image": "https://285hdmovies.com/wp-content/uploads/2025/09/6g6dsvl8.jpg",
-     "url": "https://ezycdn.com/playlist-9ap4bp8-FHD.m3u8",
-     "referer": "https://285hdmovies.com/"
-    }
-   ]
-  },
-  {
-   "name": "Automata (2014) ล่าจักรกล ยึดอนาคต",
+   "name": "Melody (1971) เมโลดี้ที่รัก",
    "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://www.037hdd-movie.com/wp-content/uploads/2018/04/siTm8vIBo4q4xIAcsBk.jpg",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2020/03/4e5amwptqyo-11818-poster.jpg",
    "stations": [
     {
-     "name": "Automata (2014) ล่าจักรกล ยึดอนาคต",
-     "image": "https://www.037hdd-movie.com/wp-content/uploads/2018/04/siTm8vIBo4q4xIAcsBk.jpg",
-     "url": "https://api2.xn--72czaud0ezbn4b8de.com/video/c2a41a67-3320-5358-9b97-ee4c80a1f13c/playlist.m3u8",
-     "referer": "https://www.doo-nang.com/"
+     "name": "Melody (1971) เมโลดี้ที่รัก",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2018/04/0kByjL71kf822s0gARj.jpg",
+     "url": "https://master.streamhls.com/hls/84df4923dc3e731c257daf5d001e5996/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "Tin & Tina (2023) ตินกับตินา",
-     "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2023/05/Tin-Tina-2023-ตินกับตินา.jpeg",
-   "stations": [
-    {
-     "name": "Tin & Tina (2023) ตินกับตินา",
-   "image": "https://nanamovies.org/wp-content/uploads/2023/05/Tin-Tina-2023-ตินกับตินา.jpeg",
-     "url": "https://nanaplayer.com/j64tvbj820he",
-     "referer" : "https://nanamovies.org/"
-    }
-   ]
-  },
-  {
-   "name": "Handsome Guys (Haenseomgaijeu) (2024) สับฮา ไอ้หนุ่มบ้านนอก",
-   "info": "หนังเกาหลี ซับไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/09/Handsome-Guys-Haenseomgaijeu-2024.webp",
-   "stations": [
-    {
-     "name": "Handsome Guys",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/09/Handsome-Guys-Haenseomgaijeu-2024.webp",
-     "url": "https://nanaplayer.com/vx5u461xucg9",
-     "referer" : "https://nanamovies.org/"
-    }
-   ]
-  },
-  {
-   "name": " I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
-   "image": "https://nanamovies.org/wp-content/uploads/2018/04/I-Am-Legend.jpeg.webp",
-   "stations": [
-    {
-     "name": " I Am Legend (2007) ไอ แอม เลเจนด์ ข้าคือตำนานพิฆาตมหากาฬ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2018/04/I-Am-Legend.jpeg.webp",
-     "url": "https://nanaplayer.com/kgk4fzld7vqe",
-     "referer" : "https://nanamovies.org/"
-    }
-   ]
-  },
-  {
-   "name": "Tomorrowland (2015) ผจญแดนอนาคต",
-   "image": "https://nanamovies.org/wp-content/uploads/2016/11/Tomorrowland-2015-ผจญแดนอนาคต.jpeg.webp",
-   "stations": [
-    {
-     "name": "Tomorrowland (2015) ผจญแดนอนาคต",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2016/11/Tomorrowland-2015-ผจญแดนอนาคต.jpeg.webp",
-     "url": "https://nanaplayer.com/b4l5u9s1xg9r",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์ Kayaor (2025)",
-   "info": "หนังไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/08/Kayaor-2025.webp",
-   "stations": [
-    {
-   "name": "คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์ Kayaor (2025)",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Kayaor-2025.webp",
-     "url": "https://nanaplayer.com/4tznv576v7gb",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "ทองสุก 13 hongsuk 13 (2013)",
-   "info": "หนังไทย",
-   "image": "https://285hdmovies.com/wp-content/uploads/2019/12/3297.jpg",
-   "stations": [
-    {
-   "name": "ทองสุก 13 hongsuk 13 (2013)",
-     "image": "https://285hdmovies.com/wp-content/uploads/2019/12/3297.jpg",
-     "url": "https://ezycdn.com/playlist-k31m49f2-master.m3u8",
-     "referer": "https://285hdmovies.com/"
-    }
-   ]
-  },
-  {
-   "name": "Planet Single: Greek Adventure (2025) เกาะรักพักโสด:พจญภัยในกรีซ",
-   "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/2-7.jpg",
-   "stations": [
-    {
-     "name": "Planet Single: Greek Adventure (2025) เกาะรักพักโสด:พจญภัยในกรีซ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/2-7.jpg",
-     "url": "https://m3u8haha.com/movie/M15437.mp4/playlist.m3u8",
-     "referer": "https://moviesdoofree.com/"
-    }
-   ]
-  },
-  {
-   "name": "Fantasy Football Ruined Our Lives แฟนตาซีฟุตบอลพังชีวิต (2025)",
+   "name": "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
    "info": "หนังฝรั่ง พากย์ไทย",
-   "image": "https://928hdnew.com/wp-content/uploads/Fantasy-Football-Ruined-Our-Lives-แฟนตาซีฟุตบอลพังชีวิต.jpg",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/The-Parent-Trap_1998.jpg",
    "stations": [
     {
-     "name": "Fantasy Football Ruined Our Lives แฟนตาซีฟุตบอลพังชีวิต (2025)",
-     "image": "https://928hdnew.com/wp-content/uploads/Fantasy-Football-Ruined-Our-Lives-แฟนตาซีฟุตบอลพังชีวิต.jpg",
-     "url": "https://original.enjoy24cdn.com/hlsr2/93884ade2b2d10182e77e308c3869f46/master.m3u8",
-     "referer": "https://928hdnew.com/"
+     "name": "The Parent Trap (1998) แฝดจุ้นลุ้นรัก",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2025/09/The-Parent-Trap_1998.jpg",
+     "url": "https://nanaplayer.com/wkhbul1f3jb9",
+     "referer" : "https://nanamovies.org/"
     }
    ]
   },
   {
-   "name": "Heart Eyes (2025) ฮาร์ทอายส์ เกลียดนักคนมีคู่ ซับไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/08/Heart-Eyes-2025.webp",
+   "name": "She’s the Man (2006) แอบแมน มาปิ๊งแมน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/172.jpg",
    "stations": [
     {
-     "name": "Heart Eyes (2025) ฮาร์ทอายส์ เกลียดนักคนมีคู่",
+     "name": "She’s the Man (2006) แอบแมน มาปิ๊งแมน",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/172.jpg",
+     "url": "https://master.streamhls.com/hls/254449bf3a0ef080a7e3ebf80f8c43ea/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Cinderella Story",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/A-Cinderella-Story.jpg",
+   "stations": [
+    {
+     "name": "Ever After A Cinderella Story (1998) วัยฝัน…ตำนานรักนิรันดร",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/EverAfterACinderellaStory28199829.jpg",
+     "url": "https://nanaplayer.com/gwetmhcivwxh",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "A Cinderella Story (2004) นางสาวซินเดอเรลล่า..มือถือสื่อรักกิ๊ง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/A-Cinderella-Story.jpg",
+     "url": "https://nanaplayer.com/w824e146i40z",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "A Cinderella Story Once Upon A Song (2011) นางสาวซินเดอเรลล่า 3 เสียงเพลงสื่อรักปิ๊ง",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://9nung.com/wp-content/uploads/A-Cinderella-Story-Once-Upon-a-Song-3609.jpeg",
+     "url": "https://master.streamhls.com/hls/878f080f8b82f2c68eb7c6c3e35bd719/master.m3u8",
+     "referer" : "https://master.streamhls.com/"
+    },
+    {
+     "name": "A Cinderella Story Christmas Wish (2019) สาวน้อยซินเดอเรลล่า คริสต์มาสปาฏิหาริย์",
      "info": "หนังฝรั่ง ซับไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Heart-Eyes-2025.webp",
-     "url": "https://nanaplayer.com/i8zdsu09ik0w",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "Eddington (2025) ซับไทย",
-   "image": "https://nanamovies.org/wp-content/uploads/2025/08/Eddington-2025.webp",
-   "stations": [
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2021/06/ozBX0u5caaJFli9AssqJmARb5R.jpg",
+     "url": "https://master.streamhls.com/hls/ee660e59d7929ff7b9b2863e10fe0c3b/master.m3u8",
+     "referer" : "https://master.streamhls.com/"
+    },
     {
-     "name": "Eddington (2025)",
+     "name": "A Cinderella Story: Starstruck (2021)",
      "info": "หนังฝรั่ง ซับไทย",
-     "image": "https://nanamovies.org/wp-content/uploads/2025/08/Eddington-2025.webp",
-     "url": "https://nanaplayer.com/jei0wz9ubrdw",
-     "referer": "https://www.nanamovies.me/"
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2021/07/sXJWIqJbwkjtJLKbmUv0vlflhra.jpg",
+     "url": "https://master.streamhls.com/hls/770dfbee283eb82d6359e29e93a53352/master.m3u8",
+     "referer" : "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "The Pickup (2025) เดอะพิคอัพ",
-   "info": "HD th IMDb n/a",
-   "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",
+   "name": "Easy A (2010) อีนี่แร๊งงงส์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/easy-a2010.jpg",
    "stations": [
     {
-     "name": "The Pickup (2025) เดอะพิคอัพ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",
-     "url": "https://m3u8haha.com/movie/M15406.mp4/playlist.m3u8",
-     "referer": "https://moviesdoofree.com/"
+     "name": "Easy A (2010) อีนี่แร๊งงงส์",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/easy-a2010.jpg",
+     "url": "https://nanaplayer.com/s6wtil2imosr",
+     "referer" : "https://nanamovies.org/"
     }
    ]
   },
   {
-   "name": "My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน",
-   "info": "HD th IMDb n/a",
-   "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/1-1.jpg",
+   "name": "Mean Girls (2004) มีน เกิร์ลส์ ก๊วนสาวซ่าส์ วีนซะไม่มี",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2023/11/Mean-Girls-2004-มีน-เกิร์ลส์-ก๊วนสาวซ่าส์-วีนซะไม่มี.jpeg",
    "stations": [
     {
-     "name": "My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/1-1.jpg",
-     "url": "https://m3u8haha.com/movie/M15404.mp4/playlist.m3u8",
-     "referer": "https://moviesdoofree.com/"
+     "name": "Mean Girls (2004) มีน เกิร์ลส์ ก๊วนสาวซ่าส์ วีนซะไม่มี",
+     "image": "https://nanamovies.org/wp-content/uploads/2023/11/Mean-Girls-2004-มีน-เกิร์ลส์-ก๊วนสาวซ่าส์-วีนซะไม่มี.jpeg",
+     "url": "https://nanaplayer.com/eb8pucl9vygv",
+     "referer" : "https://nanamovies.org/"
     }
    ]
   },
   {
-   "name": "คู่สืบ​ คู่อันตราย (2025) Almost Cops (Bad Boa’s)",
-   "info": "HD th IMDb n/a",
-   "image": "https://24freehd.com/wp-content/uploads/2025/07/Almost-Cops-Bad-Boas-2025.webp",
+   "name": "Legally Blonde (2001) สาวบลอนด์หัวใจดี๊ด๊า",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Legally-Blonde-1-2001.jpg.webp",
    "stations": [
     {
-     "name": "คู่สืบ​ คู่อันตราย (2025) Almost Cops (Bad Boa’s)",
-     "info": "พากย์ไทย",
-     "image": "https://24freehd.com/wp-content/uploads/2025/07/Almost-Cops-Bad-Boas-2025.webp",
-     "url": "https://m4-txt-2.xdomovie247.com/playlist2/detail/a5bebe8fhxrIb/1080/hls/index.m3u8",
-     "referer": "https://24freehd.com/"
+     "name": "Legally Blonde (2001) สาวบลอนด์หัวใจดี๊ด๊า",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Legally-Blonde-1-2001.jpg.webp",
+     "url": "https://media.vdohls.com/688gzsck5s8063r/playlist.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "ป้าลุยแหลกแหกวิวาห์ป่วน (2025) Madea’s Destination Wedding",
-   "info": "HD th IMDb n/a",
-   "image": "https://24freehd.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025.webp",
+   "name": "Confessions of a Shopaholic (2009) เสน่ห์รักสาวนักช้อป",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/shopaholic_poster.jpg",
    "stations": [
     {
-     "name": "ป้าลุยแหลกแหกวิวาห์ป่วน (2025) Madea’s Destination Wedding",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://24freehd.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025.webp",
-     "url": "https://m4-txt-2.xdomovie247.com/playlist2/detail/c083425aSryOl/1080/hls/index.m3u8",
-     "referer": "https://24freehd.com/"
+     "name": "Confessions of a Shopaholic (2009) เสน่ห์รักสาวนักช้อป",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/shopaholic_poster.jpg",
+     "url": "https://master.streamhls.com/hls/be697e11b226da673f1708ed7bb12a45/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "I Know What You Did Last Summer (2025) ซัมเมอร์สยอง..ต้องหวีด",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.v8-hd.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-2025.png",
+   "name": "Bridesmaids (2011) แก๊งค์เพื่อนเจ้าสาว แสบรั่วตัวแม่",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Bridesmaids-2011.jpg.webp",
    "stations": [
     {
-     "name": "I Know What You Did Last Summer (2025) ซัมเมอร์สยอง..ต้องหวีด",
-     "info": "พากย์ไทย",
-     "image": "https://www.v8-hd.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-2025.png",
-     "url": "https://serverdatam3u8.com/movie/M15401.mp4/playlist.m3u8",
-     "referer": "https://moviesdoofree.com/"
+     "name": "Bridesmaids (2011) แก๊งค์เพื่อนเจ้าสาว แสบรั่วตัวแม่",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Bridesmaids-2011.jpg.webp",
+     "url": "https://media.vdohls.com/hl-51iu_Ihli3/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "An Honest Life (2025) ชีวิตชื่อ",
-   "info": "HD th IMDb n/a",
-   "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/5.jpg",
+   "name": "50 First Dates (2004) 50 เดท จีบเธอไม่เคยจำ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/50-First-Dates-2004.jpg.webp",
    "stations": [
     {
-     "name": "ชีวิตชื่อ An Honest Life (2025)",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2025/08/5.jpg",
-     "url": "https://serverdatam3u8.com/movie/M15403.mp4/playlist.m3u8",
-     "referer": "https://moviesdoofree.com/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+     "name": "50 First Dates (2004) 50 เดท จีบเธอไม่เคยจำ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/50-First-Dates-2004.jpg.webp",
+     "url": "https://media.vdohls.com/vkhigj9kvo/playlist.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "มือปราบปืนเปลือย The Naked Gun (2025)",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.vojkuhd.com/wp-content/uploads/2025/08/The-Naked-Gun.jpg.webp",
+   "name": "No Strings Attached (2011) จะกิ๊กหรือกั๊ก ก็รักซะแล้ว",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/No-Strings-Attached-2011.jpg.webp",
    "stations": [
     {
-     "name": "มือปราบปืนเปลือย The Naked Gun (2025)",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.vojkuhd.com/wp-content/uploads/2025/08/The-Naked-Gun.jpg.webp",
-     "url": "https://cdm.player2u.com/hv1p2p/MXcwTng4d21RMkRFb0RjZnI3R0NaeE9sVDdCNHhuM3lJ/hq/MXcwTng4d21RMkRFb0RjZnI3R0NaeE9sVDdCNHhuM3lJ18.m3u8",
-     "referer": "https://donugdee.com/"
+     "name": "No Strings Attached (2011) จะกิ๊กหรือกั๊ก ก็รักซะแล้ว",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/No-Strings-Attached-2011.jpg.webp",
+     "url": "https://media.vdohls.com/n28j_nLQ8P-G4/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "Ghost Killer (2025) โกสต์คิลเลอร์",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Ghost-Killer-2025-1.webp",
+   "name": "Friends with Benefits (2011) เพื่อนกัน มันส์กระจาย",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Friends-with-Benefits-2011.jpg.webp",
    "stations": [
     {
-     "name": "Ghost Killer (2025) โกสต์คิลเลอร์",
-     "info": "หนังญี่ปุ่น ซับไทย",
-     "image": "https://www.25moviehd.com/wp-content/uploads/2025/07/Ghost-Killer-2025-1.webp",
-     "url": "https://m4-txt-2.xdomovie247.com/playlist2/detail/a53ccfb1bYjTm/1080/hls/index.m3u8",
-     "referer": "https://www.25moviehd.com/"
+     "name": "Friends with Benefits (2011) เพื่อนกัน มันส์กระจาย",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Friends-with-Benefits-2011.jpg.webp",
+     "url": "https://media.vdohls.com/jk13b930yq72heh/playlist.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": " Ice Road: Vengeance (2025)",
-   "info": "HD th IMDb n/a",
-   "image": "https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg",
+   "name": "Scott Pilgrim vs. the World (2010) สก็อต พิลกริม กับศึกโค่นกิ๊กเก่าเขย่าโลก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Scott-Pilgrim-vs.-the-World-2010.jpg.webp",
    "stations": [
     {
-     "name": " Ice Road: Vengeance (2025)",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg",
-     "url": "https://serverdatam3u8.com/movie/M15371.mp4",
-     "referer": "https://serverdatam3u8.com/"
+     "name": "Scott Pilgrim vs. the World (2010) สก็อต พิลกริม กับศึกโค่นกิ๊กเก่าเขย่าโลก",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/JfY2qi.jpg",
+     "url": "https://master.streamhls.com/hls/aaa6e1456950ef72c39de5122f2418d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "Champions (2023) ไปแชมป์กับ...ทีมบ๊องส์",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.037hdd-movie.com/wp-content/uploads/2023/03/Champions-2023.jpg",
+   "name": "27 Dresses (2008) เพื่อนเจ้าสาว 27 วิวาห์…เมื่อไรจะได้เป็นเจ้าสาว",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/27-Dresses-2008-2.jpg.webp",
    "stations": [
     {
-     "name": "Champions (2023) ไปแชมป์กับ...ทีมบ๊องส์",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.037hdd-movie.com/wp-content/uploads/2023/03/Champions-2023.jpg",
-     "url": "https://master.streamhls.com/hls/7bf51675c036c4bb27f57c1e04074f15/master",
-     "referer": "https://player.stream1689.com/"
+     "name": "27 Dresses (2008) เพื่อนเจ้าสาว 27 วิวาห์…เมื่อไรจะได้เป็นเจ้าสาว",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/27-Dresses-2008-2.jpg.webp",
+     "url": "https://media.vdohls.com/s-L_FMcHQ41Av/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "Dr. Cheon and the Lost Talisman (2023)",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
+   "name": "Music and Lyrics (2007) สี่ห้องใจนี้ มีแต่เสียงเธอ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/08/MUSIC-AND-LYRICS-2007.jpg.webp",
    "stations": [
     {
-     "name": "Dr. Cheon and the Lost Talisman (2023)",
-     "info": "หนังเกาหลี ซับไทย",
-     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
-     "url": "https://master3.baraq.xyz/PlayList/65a9d13ca0725U7H/master.m3u8",
-     "referer": "https://www.imovie99.com/"
+     "name": "Music and Lyrics (2007) สี่ห้องใจนี้ มีแต่เสียงเธอ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/08/MUSIC-AND-LYRICS-2007.jpg.webp",
+     "url": "https://media.vdohls.com/I-33rdI_TWIj5/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "Juno (2007) จูโน่ โจ๋ป่องใจเกินร้อย",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Juno-2007.jpg.webp",
+   "stations": [
+    {
+     "name": "Juno (2007) จูโน่ โจ๋ป่องใจเกินร้อย",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Juno-2007.jpg.webp",
+     "url": "https://media.vdohls.com/b_c8DH-8sTOY1/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2018/10/Love-Rosie-2014-Sub-TH.jpg",
+   "stations": [
+    {
+     "name": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2018/10/Love-Rosie-2014-Sub-TH.jpg",
+     "url": "https://m3u8haha.com/movie/M00745.mp4/chunk.m3u8",
+     "referer": "https://xn--72czbs0gd7b9c.com/"
+    }
+   ]
+  },
+  {
+   "name": "17 AGAIN (2009) 17 ขวบอีกครั้ง…กลับมาแก้ฝันให้เป็นจริง",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/11/17-AGAIN-2009.jpg.webp",
+   "stations": [
+    {
+     "name": "17 AGAIN (2009) 17 ขวบอีกครั้ง…กลับมาแก้ฝันให้เป็นจริง",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/11/17-AGAIN-2009.jpg.webp",
+     "url": "https://media.vdohls.com/w-vj_1PLLsj78/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wild Child (2008) คุณหนูไฮโซ เปรี้ยวซ่าเกินร้อย",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2018/04/AltdW4dlUTWa8uTuFgw.jpg",
+   "stations": [
+    {
+     "name": "Wild Child (2008) คุณหนูไฮโซ เปรี้ยวซ่าเกินร้อย",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2018/04/AltdW4dlUTWa8uTuFgw.jpg",
+     "url": "https://master.streamhls.com/hls/b83ba55586967107be6eee0593f72888/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "No Reservations (2007) เชฟสาว เสริฟหัวใจรัก ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2017/02/No-Reservations-2007.jpeg",
+   "stations": [
+    {
+     "name": "No Reservations (2007) เชฟสาว เสริฟหัวใจรัก ",
+     "image": "https://nanamovies.org/wp-content/uploads/2017/02/No-Reservations-2007.jpeg",
+     "url": "https://nanaplayer.com/glqn7ehcoym7",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "What If (2013) รักได้มั้ย ถ้าหัวใจแอบรัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2018/07/What-If-2013.jpeg",
+   "stations": [
+    {
+     "name": "What If (2013) รักได้มั้ย ถ้าหัวใจแอบรัก",
+     "image": "https://nanamovies.org/wp-content/uploads/2018/07/What-If-2013.jpeg",
+     "url": "https://nanaplayer.com/hugjb1zt9xau",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
+   "name": "Ruby Sparks (2012) รูบี้ สปาร์ค เขียนเธอให้เจอผม",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2022/03/Ruby-Sparks-2012.jpg.webp",
+   "stations": [
+    {
+     "name": "Ruby Sparks (2012) รูบี้ สปาร์ค เขียนเธอให้เจอผม",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2022/03/Ruby-Sparks-2012.jpg.webp",
+     "url": "https://media.vdohls.com/os0-YPIFd_Y9k/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "500 DAYS OF SUMMER (2009) ซัมเมอร์ของฉัน 500 วัน ไม่ลืมเธอ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/500-DAYS-OF-SUMMER-2009.jpg.webp",
+   "stations": [
+    {
+     "name": "500 DAYS OF SUMMER (2009) ซัมเมอร์ของฉัน 500 วัน ไม่ลืมเธอ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/500-DAYS-OF-SUMMER-2009.jpg.webp",
+     "url": "https://media.vdohls.com/45mkXh_M-az6x/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "White Chicks (2004) จับคู่ป่วนมาแต่งอึ๋ม",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/White-Chicks-2004.jpg.webp",
+   "stations": [
+    {
+     "name": "White Chicks (2004) จับคู่ป่วนมาแต่งอึ๋ม",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/White-Chicks-2004.jpg.webp",
+     "url": "https://media.vdohls.com/EF1_H-P6OXkA5/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Two Night Stand (2014) รักเธอข้ามคืน ตลอดไป",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2024/06/Two-Night-Stand-2014.webp",
+   "stations": [
+    {
+     "name": "Two Night Stand (2014) รักเธอข้ามคืน ตลอดไป",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2024/06/Two-Night-Stand-2014.webp",
+     "url": "https://enjoy24cdn.com/hlsr2/667ac4c1ebf6bd3a527a228f26fc455f/master.m3u8",
+     "referer": "https://lk-hd.net/"
+    }
+   ]
+  },
+  {
+   "name": "Silver Linings Playbook (2012) ลุกขึ้นใหม่ หัวใจมีเธอ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Silver-Linings-Playbook-2012.jpg.webp",
+   "stations": [
+    {
+     "name": "Silver Linings Playbook (2012) ลุกขึ้นใหม่ หัวใจมีเธอ",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/slp_03.jpg",
+     "url": "https://master.streamhls.com/hls/855ff79e4530ee8522895f986ee4083d/master.m3u8",
+     "referer": "https://master.streamhls.com"
+    }
+   ]
+  },
+  {
+   "name": "The Princess Diaries บันทึกรักเจ้าหญิงมือใหม่",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2022/02/The-Princess-Diaries-2001.jpg.webp",
+   "stations": [
+    {
+     "name": "The Princess Diaries (2001) บันทึกรักเจ้าหญิงมือใหม่",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2022/02/The-Princess-Diaries-2001.jpg.webp",
+     "url": "https://media.vdohls.com/sBKz-vt_fmWaB/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     },
     {
-     "name": "Dr. Cheon and the Lost Talisman (2023)",
-     "info": "หนังเกาหลี ซับไทย",
-     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
-     "url": "https://master3.baraq.xyz/media/65a9d13ca0725U7H/360/hls/index.m3u8",
-     "referer": "https://www.imovie99.com/"
-    },
-    {
-     "name": "Dr. Cheon and the Lost Talisman (2023",
-     "info": "หนังเกาหลี ซับไทย",
-     "image": "https://www.nung-th.com/wp-content/uploads/2025/02/Dr.-Cheon-and-the-Lost-Talisman-199x300.webp",
-     "url": "https://v2.symanagemovie.com/video/7eacb532570ff6858afd2723755ff790",
-     "referer": "https://v2.symanagemovie.com/"
+     "name": "THE PRINCESS DIARIES 2 ROYAL ENGAGEMENT (2004) บันทึกรักเจ้าหญิงวุ่นลุ้นวิวาห์",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/11/THE-PRINCESS-DIARIES-2-ROYAL-ENGAGEMENT-2004.jpg.webp",
+     "url": "https://media.vdohls.com/kh_Mrx-KhipYt/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "No One Gets Out Alive (2021) ห้องเช่าขังตาย",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.037hdd-movie.com/wp-content/uploads/2021/09/No-One-Gets-Out-Alive-2021.jpg",
+   "name": "Just My Luck (2006) น.ส. จูบปั๊บ สลับโชค",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Just-My-Luck-2006.jpg.webp",
    "stations": [
     {
-     "name": "No One Gets Out Alive (2021) ห้องเช่าขังตาย",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.037hdd-movie.com/wp-content/uploads/2021/09/No-One-Gets-Out-Alive-2021.jpg",
-     "url": "https://master.streamhls.com/hls/c2827bb43525bc2f99fa8ccf461adb5e/master.m3u8",
+     "name": "Just My Luck (2006) น.ส. จูบปั๊บ สลับโชค",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Just-My-Luck-2006.jpg.webp",
+     "url": "https://media.vdohls.com/cc-WadtI9x_V0/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Maid in Manhattan (2002) เสน่ห์รักสาวใช้หวานฉ่ำ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2024/08/Maid-in-Manhattan-2002.webp",
+   "stations": [
+    {
+     "name": "Maid in Manhattan (2002) เสน่ห์รักสาวใช้หวานฉ่ำ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2024/08/Maid-in-Manhattan-2002.webp",
+     "url": "https://media.vdohls.com/BnU0-53S_FidA/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "That Awkward Moment (2014) หนึ่ง ส่อง ซั่ม เอาวะ เลิกโสด",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2023/05/That-Awkward-Moment-2014.jpg.webp",
+   "stations": [
+    {
+     "name": "That Awkward Moment (2014) หนึ่ง ส่อง ซั่ม เอาวะ เลิกโสด",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2023/05/That-Awkward-Moment-2014.jpg.webp",
+     "url": "https://media.vdohls.com/i_BgeWNhq-KVK/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "The Proposal (2009) ลุ้นวิวาห์รักฟ้าแลบ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/The-Proposal-2009.jpg.webp",
+   "stations": [
+    {
+     "name": "The Proposal (2009) ลุ้นวิวาห์รักฟ้าแลบ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/The-Proposal-2009.jpg.webp",
+     "url": "https://media.vdohls.com/EJ_ECreVm-oYz/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Material girls (2006) คุณหนูไฮโซ ขอเริ่ดไม่ขอร่วง",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Material-girls-2006.jpg.webp",
+   "stations": [
+    {
+     "name": "Material girls (2006) คุณหนูไฮโซ ขอเริ่ดไม่ขอร่วง",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Material-girls-2006.jpg.webp",
+     "url": "https://media.vdohls.com/u-G7d9wI_7jOl/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Raise Your Voice (2004) ค้นฟ้าคว้าดาว",
+   "info": "หนังฝรั่ง ซับไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Raise-Your-Voice-2004.jpg.webp",
+   "stations": [
+    {
+     "name": "Raise Your Voice (2004) ค้นฟ้าคว้าดาว",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/Raise-Your-Voice-2004.jpg.webp",
+     "url": "https://media.vdohls.com/lTWJ_g-YVGSnl/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Bring It On (2000) สาวเชียร์เท้าไฟ หัวใจวี้ดบึ้ม",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/UQYmrwB.jpg",
+   "stations": [
+    {
+     "name": "Bring It On (2000) สาวเชียร์เท้าไฟ หัวใจวี้ดบึ้ม",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/UQYmrwB.jpg",
+     "url": "https://master.streamhls.com/hls/ce52fd7b3023733f2bba94156af723be/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "The Autopsy of Jane Doe (2016) สืบศพหลอน ซ่อนระทึก",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.037hd-movies.com/wp-content/uploads/2018/05/The-Autopsy-of-Jane-Doe-2016.jpg",
+   "name": "The Curious Case of Benjamin Button (2008) อัศจรรย์ฅนโลกไม่เคยรู้",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/The-Curious-Case-of-Benjamin-Button-2008.jpg.webp",
    "stations": [
     {
-     "name": "The Autopsy of Jane Doe (2016) สืบศพหลอน ซ่อนระทึก",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.037hd-movies.com/wp-content/uploads/2018/05/The-Autopsy-of-Jane-Doe-2016.jpg",
-     "url": "https://enjoy24cdn.com/hlsr2/0c6e9ce77dddbe09785614b8141f005f/master.m3u8",
-     "referer": "https://928hd-th.com/"
+     "name": "The Curious Case of Benjamin Button (2008) อัศจรรย์ฅนโลกไม่เคยรู้",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/The-Curious-Case-of-Benjamin-Button-2008.jpg.webp",
+     "url": "https://media.vdohls.com/UmU-D4_drKHt7/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "Insidious วิญญาณตามติด",
-   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
+   "name": "Forrest Gump (1994) ฟอร์เรสท์ กัมพ์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://lk-hd.net/wp-content/uploads/2024/06/Forrest-Gump-1994.jpg",
    "stations": [
     {
-     "name": "Insidious ภาค 1 (2010) อินซิเดียส วิญญาณตามติด",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
-     "url": "https://master.streamhls.com/hlsr2/12d2e5338f5ef3b56fc227654c5d7ccb/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
+     "name": "Forrest Gump (1994) ฟอร์เรสท์ กัมพ์",
+     "image": "https://lk-hd.net/wp-content/uploads/2024/06/Forrest-Gump-1994.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/6adb36c879e8910b84f0cc89003c9dcd/master.m3u8",
+     "referer": "https://lk-hd.net/"
+    }
+   ]
+  },
+  {
+   "name": "he Time Traveler’s Wife (2009) รักอมตะของชายท่องเวลา",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/MU1719.jpg",
+   "stations": [
     {
-     "name": "Insidious ภาค 2 (2013) วิญญาณยังตามติด 2",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/qjzk0pig5c7aTLlvKzcegD9PXA.webp",
-     "url": "https://master.streamhls.com/hlsr2/c6cffe09420f069b4357863ffdb16a7d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 3 (2015) วิญญาณตามติด 3",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/insidious-1.webp",
-     "url": "https://master.streamhls.com/hlsr2/fa0f906d51d2a6aeaf255faddce08c35/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 4 The Last Key (2018) วิญญาณตามติด กุญแจผีบอก",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/nb9fc9INMg8kQ8L7sE7XTNsZnUX.webp",
-     "url": "https://master.streamhls.com/hlsr2/97d3c8863f4c9f6bc632f9f7bef32ffe/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 5 (2023) วิญญาณตามติด ประตูผีผ่าน",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023.webp",
-     "url": "https://master.streamhls.com/hlsr2/52c237c3749e73b416c8536fdfe8ef31/master.m3u8",
+     "name": "he Time Traveler’s Wife (2009) รักอมตะของชายท่องเวลา",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/MU1719.jpg",
+     "url": "https://master.streamhls.com/hls/736b681a2bf1df054c9e708746ec6ab1/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
   },
   {
-   "name": "Oculus (2013) ส่องให้เห็นผี",
-   "info": "HD th IMDb n/a",
-   "image": "https://nanamovies.net/wp-content/uploads/2022/04/Oculus-2013-ส่องให้เห็นผี-Full-HD.jpeg",
+   "name": "BEFORE WE GO (2014) ก่อนเราจะจากกัน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2022/05/BEFORE-WE-GO-2014.jpg.webp",
    "stations": [
     {
-     "name": "Oculus (2013) ส่องให้เห็นผี",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2022/04/Oculus-2013-ส่องให้เห็นผี-Full-HD.jpeg",
-     "url": "https://enjoy24cdn.com/hlsr2/c6954c1aec717658e6bf08c3f3e3da7d/master.m3u8",
-     "referer": "https://928hd-th.com/"
+     "name": "BEFORE WE GO (2014) ก่อนเราจะจากกัน",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2022/05/BEFORE-WE-GO-2014.jpg.webp",
+     "url": "https://media.vdohls.com/T6h_wp3II-XPj/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
     }
    ]
   },
   {
-   "name": "Yadang The Snitch ทรชนคนสองหน้า (2025)",
-   "info": "HD th IMDb n/a",
-   "image": "https://928hd-th.com/wp-content/uploads/Yadang-The-Snitch-ทรชนคนสองหน้า.jpg",
+   "name": "The Vow (2012) รักครั้งใหม่ หัวใจเดิม",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Vow-2012-2.jpg.webp",
    "stations": [
     {
-     "name": "Yadang The Snitch ทรชนคนสองหน้า (2025)",
-     "info": "หนังเกาหลี พากย์ไทย",
-     "image": "https://928hd-th.com/wp-content/uploads/Yadang-The-Snitch-ทรชนคนสองหน้า.jpg",
-     "url": "https://original.enjoy24cdn.com/hlsr2/e039e541b34cd753294ba29bec2ce27c/master.m3u8",
-     "referer": "https://928hd-th.com/"
+     "name": "The Vow (2012) รักครั้งใหม่ หัวใจเดิม",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Vow-2012-2.jpg.webp",
+     "url": "https://media.vdohls.com/3ThO_o-auvFiq/video.m3u8"
     }
    ]
   },
   {
-   "name": "เกย์ Kings (GayKings) (2025)",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.kubhdfree.com/wp-content/uploads/2025/06/GayKings-2025-e1750333152797.webp",
+   "name": "The Notebook (2004) รักเธอหมดใจ ขีดไว้ให้โลกจารึก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/The-Notebook-2004.jpg.webp",
    "stations": [
     {
-     "name": "เกย์ Kings (GayKings) (2025)",
-     "info": "หนังไทย",
-     "image": "https://www.kubhdfree.com/wp-content/uploads/2025/06/GayKings-2025-e1750333152797.webp",
-     "url": "https://hplay.hdplayfull.xyz/54b3e33d-5bc1-4aa8-a8b7-6d02b51e0be6/0",
-     "referer": "https://hplay.hdplayfull.xyz/embed/hmge9l72qn"
+     "name": "The Notebook (2004) รักเธอหมดใจ ขีดไว้ให้โลกจารึก",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/The-Notebook-2004.jpg.webp",
+     "url": "https://media.vdohls.com/Ca_gcY9-4QaXu/video.m3u8"
     }
    ]
   },
   {
-   "name": "Ghost in the Shell (2017) โกสต์ อิน เดอะ เชลล์",
-   "info": "HD th IMDb 6.3 /10",
-   "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/Ghost-in-the-Shell-2017.jpg",
+   "name": "The Best Of Me (2014) รักแรก ตลอดกาล",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Best-Of-Me-2014.jpg.webp",
    "stations": [
     {
-     "name": "Ghost in the Shell (2017) โกสต์ อิน เดอะ เชลล์",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/Ghost-in-the-Shell-2017.jpg",
-     "url": "https://master.streamhls.com/hlsr2/0338da7a3417367de9b6f22f143e61a4/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ พากย์ไทย",
-   "info": "HD th IMDb n/a",
-   "image": "https://nanamovies.net/wp-content/uploads/2021/05/จอมยุทธ์ทะลุภพ-ซับไทย-HD.jpeg",
-   "stations": [
-    {
-     "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ พากย์ไทย",
-     "info": "พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2021/05/จอมยุทธ์ทะลุภพ-ซับไทย-HD.jpeg",
-     "url": "https://nanaplayer.com/rsoqhgulpvhs",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.kubhdfree.com/wp-content/uploads/2024/12/How-to-Train-Your-Dragon-2025.webp",
-   "stations": [
-    {
-     "name": "How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.kubhdfree.com/wp-content/uploads/2024/12/How-to-Train-Your-Dragon-2025.webp",
-     "url": "https://hplay.hdplayfull.xyz/348e0b43-579a-4c86-b014-76596c55d2d8/0",
-     "referer": "https://www.kubhdfree.com/movie/how-to-train-your-dragon/"
-    }
-   ]
-  },
-  {
-   "name": "THE CALL (2020) สายตรงต่ออดีต พากย์ไทย ",
-   "info": "HD th IMDb n/a",
-   "image": "https://nanamovies.net/wp-content/uploads/2025/05/THE-CALL-2020.webp",
-   "stations": [
-    {
-     "name": "THE CALL (2020) สายตรงต่ออดีต พากย์ไทย ",
-     "info": "หนังเกาหลี พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2025/05/THE-CALL-2020.webp",
-     "url": "https://nanaplayer.com/fg4l85v8iitw",
-     "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "ชู้จากนรก The Devil’s Bride (2025)",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.v8-hd.com/wp-content/uploads/2025/05/Pengantin-Setan.png",
-   "stations": [
-    {
-     "name": "ชู้จากนรก The Devil’s Bride (2025)",
-     "info": "หนังมาเลย์ พากย์ไทย",
-     "image": "https://www.v8-hd.com/wp-content/uploads/2025/05/Pengantin-Setan.png",
-     "url": "https://master.streamhls.com/hlsr2/d6b85aa9ff8d7e931ea4681c0cfbea78/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Shaun of the Dead (2004) รุ่งอรุณแห่งความวาย(ป่วง)",
-   "info": "HD th IMDb n/a",
-   "image": "https://www.24-hdd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-รุ่งอรุณแห่งความวายป่วง-187x269.jpg",
-   "stations": [
-    {
-     "name": "Shaun of the Dead (2004) รุ่งอรุณแห่งความวาย(ป่วง)",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.24-hdd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-รุ่งอรุณแห่งความวายป่วง-187x269.jpg",
-     "url": "https://main.24playerhd.com/newplaylist/52d2a0282dc05d6e88bd27c4/52d2a0282dc05d6e88bd27c4.m3u8",
-     "referer": "https://www.24-hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Memories of Murder (2003) ฆาตกรรม ความตาย และสายฝน",
-   "info": "HD th IMDb  8.1",
-   "image": "https://www.037hd-movies.com/wp-content/uploads/2022/09/Memories-of-Murder-2003.jpg",
-   "stations": [
-    {
-     "name": "Memories of Murder (2003) ฆาตกรรม ความตาย และสายฝน",
-     "info": "หนังเกาหลี พากย์ไทย",
-     "image": "https://www.037hd-movies.com/wp-content/uploads/2022/09/Memories-of-Murder-2003.jpg",
-     "url": "https://master.streamhls.com/hlsr2/66542d94389186b1cf64d8eed6800a9f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
+     "name": "The Best Of Me (2014) รักแรก ตลอดกาล",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Best-Of-Me-2014.jpg.webp",
+     "url": "https://master.streamhls.com/hls/01db275dfccfe6a3164e249a37a5d6d2/master.m3u8",
+     "referer": "https://master.streamhls.com/hls/"
 
-  {
-   "name": "VMX Kama Sutra (2025)",
-   "info": "HD th IMDb 9.0",
-   "image": "https://25-hd.com/wp-content/uploads/2025/07/kLhabEKcEkMDAfTiitChlpcvclY-2-683x1024.jpg",
-   "stations": [
-    {
-     "name": "VMX Kama Sutra (2025)",
-     "info": "ซับไทย",
-     "image": "https://25-hd.com/wp-content/uploads/2025/07/kLhabEKcEkMDAfTiitChlpcvclY-2-683x1024.jpg",
-     "url": "https://reverse-lb4235.hlsserver.space/hls/6946504f4687cc5e1744e80a/mxfile",
-     "referer": ""
     }
    ]
   }]},
-
-
 
   {
    "name": "ดูหนัง เจสัน สเตแธม Jason Statham ครบทุกเรื่อง",
