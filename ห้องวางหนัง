@@ -610,7 +610,252 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
      "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Best-Of-Me-2014.jpg.webp",
      "url": "https://master.streamhls.com/hls/01db275dfccfe6a3164e249a37a5d6d2/master.m3u8",
      "referer": "https://master.streamhls.com/hls/"
-
+    }
+   ]
+  },
+  {
+   "name": "The Fault in Our Stars (2014) ดาวบันดาล",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Fault-in-Our-Stars-2014.jpg.webp",
+   "stations": [
+    {
+     "name": "The Fault in Our Stars (2014) ดาวบันดาล",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Fault-in-Our-Stars-2014.jpg.webp",
+     "url": "https://media.vdohls.com/YB6O_Y4f-1rXz/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "About Time (2013) ย้อนเวลาให้เธอ(ปิ๊ง)รัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/About-Time-2013.jpg.webp",
+   "stations": [
+    {
+     "name": "About Time (2013) ย้อนเวลาให้เธอ(ปิ๊ง)รัก",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/About-Time-2013.jpg.webp",
+     "url": "https://media.vdohls.com/GEB-pg_ncYyvz/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "Letters to Juliet (2010) สะดุดเลิฟ…ที่เมืองรัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Letters-to-Juliet-2010.jpg.webp",
+   "stations": [
+    {
+     "name": "Letters to Juliet (2010) สะดุดเลิฟ…ที่เมืองรัก",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Letters-to-Juliet-2010.jpg.webp",
+     "url": "https://media.vdohls.com/C7-CWGWL1O_jU/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "If I Stay (2014) ถ้าฉันอยู่",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/If-I-Stay-2014.jpg.webp",
+   "stations": [
+    {
+     "name": "If I Stay (2014) ถ้าฉันอยู่",
+     "info": "พากย์ไทย",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/If-I-Stay-2014.jpg.webp",
+     "url": "https://media.vdohls.com/G_bNI3b-Za3OT/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "The Reader (2008) ในอ้อมกอดรักไม่ลืมเลือน",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://hd.movie285.com/wp-content/uploads/2019/06/597.jpg",
+   "stations": [
+    {
+     "name": "The Reader (2008) ในอ้อมกอดรักไม่ลืมเลือน",
+     "image": "https://hd.movie285.com/wp-content/uploads/2019/06/597.jpg",
+     "url": "https://ezycdn.stream/playlist-dh0tvds5-SD.m3u8",
+     "referer": "https://hd.movie285.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Song (2010) บทเพลงรักสายใยนิรันดร์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2022/03/The-Last-Song-2010.jpg.webp",
+   "stations": [
+    {
+     "name": "The Last Song (2010) บทเพลงรักสายใยนิรันดร์",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2022/03/The-Last-Song-2010.jpg.webp",
+     "url": "https://media.vdohls.com/KEFH-n_GKz8xh/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Beautiful Mind (2001) ผู้ชายหลายมิติ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/A-Beautiful-Mind-2001.jpg.webp",
+   "stations": [
+    {
+     "name": "A Beautiful Mind (2001) ผู้ชายหลายมิติ",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/A-Beautiful-Mind-2001.jpg.webp",
+     "url": "https://master.streamhls.com/hls/832b3f5d017bf36ba0db5a5d7630f836/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Little Miss Sunshine (2006) นางงามตัวน้อย ร้อยสายใยรัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Little-Miss-Sunshine-2006.jpg.webp",
+   "stations": [
+    {
+     "name": "Little Miss Sunshine (2006) นางงามตัวน้อย ร้อยสายใยรัก",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Little-Miss-Sunshine-2006.jpg.webp",
+     "url": "https://media.vdohls.com/veCx_5-X0qGJG/video.m3u8",
+     "referer": "https://www.77hdfree.com/"
+    }
+   ]
+  },
+  {
+   "name": "Good Will Hunting (1997) ตามหาศรัทธารัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Good-Will-Hunting-1997.jpg.webp",
+   "stations": [
+    {
+     "name": "Good Will Hunting (1997) ตามหาศรัทธารัก",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Good-Will-Hunting-1997.jpg.webp",
+     "url": "https://media.vdohls.com/W_1n7w-xCxkKf/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Julie & Julia (2009) ปรุงรักให้ครบรส",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.nunghd4k.com/wp-content/uploads/2023/11/Julie-Julia-2009.jpg",
+   "stations": [
+    {
+     "name": "Julie & Julia (2009) ปรุงรักให้ครบรส",
+     "image": "https://www.nunghd4k.com/wp-content/uploads/2023/11/Julie-Julia-2009.jpg",
+     "url": "https://02.p2p-cdnmovie.xyz/api_move_playlist/1080p/635ryf/1/master?token=9cae4896fca3c608b4295c58470e4b81",
+     "referer": "https://www.nunghd4k.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Sisterhood of the Traveling Pants มนต์รักกางเกงยีนส์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Sisterhood-of-the-Traveling-Pants-2005.jpg.webp",
+   "stations": [
+    {
+     "name": "The Sisterhood of the Traveling Pants (2005) มนต์รักกางเกงยีนส์ ภาค 1",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Sisterhood-of-the-Traveling-Pants-2005.jpg.webp",
+     "url": "https://media.vdohls.com/i-VE_nwq87NzW/video.m3u8"
+    },
+    {
+     "name": "The Sisterhood of the Traveling Pants 2 (2008) กางเกงมหัศจรรย์ 2",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/07/The-Sisterhood-of-the-Traveling-Pants-2-2008.jpg.webp",
+     "url": "https://media.vdohls.com/f_QHBEYXD-jjI/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Begin Again (2013) เพราะรัก คือเพลงรัก",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/11180891_ori.jpg",
+   "stations": [
+    {
+     "name": "Begin Again (2013) เพราะรัก คือเพลงรัก",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/11180891_ori.jpg",
+     "url": "https://master.streamhls.com/hls/ba643a948c248df18e97d282ae4dc0cb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Somewhere in Time (1980) ลิขิตรักข้ามกาลเวลา",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Somewhere-in-Time-1980.jpg.webp",
+   "stations": [
+    {
+     "name": "Somewhere in Time (1980) ลิขิตรักข้ามกาลเวลา",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/Somewhere-in-Time-1980.jpg.webp",
+     "url": "https://media.vdohls.com/vTUs_vQ-GO9gA/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Me Before You (2016) มี บีฟอร์ ยู",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Me-Before-You-2016.jpg.webp",
+   "stations": [
+    {
+     "name": "Me Before You (2016) มี บีฟอร์ ยู",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/05/Me-Before-You-2016.jpg.webp",
+     "url": "https://media.vdohls.com/AGX-O5Pk_qufG/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "La La Land (2016) นครดารา",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/La-La-Land-2016-2.jpg.webp",
+   "stations": [
+    {
+     "name": "La La Land (2016) นครดารา",
+     "image": "https://www.77hdfree.com/wp-content/uploads/2021/06/La-La-Land-2016-2.jpg.webp",
+     "url": "https://media.vdohls.com/5hM_FVGnJ-Klr/video.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "500 DAYS OF SUMMER (2009) ซัมเมอร์ของฉัน 500 วัน ไม่ลืมเธอ",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://de88.me/wp-content/uploads/2026/01/ซัมเมอร์ของฉัน-500-วัน-ไม่ลืมเธอ-2009-500-DAYS-OF-SUMMER.jpg",
+   "stations": [
+    {
+     "name": "500 DAYS OF SUMMER (2009) ซัมเมอร์ของฉัน 500 วัน ไม่ลืมเธอ",
+     "image": "https://de88.me/wp-content/uploads/2026/01/ซัมเมอร์ของฉัน-500-วัน-ไม่ลืมเธอ-2009-500-DAYS-OF-SUMMER.jpg",
+     "url": "https://22.dedkub.cyou/hd/720/1627-500.Days.of.Summer.2009.mp4",
+     "referer": "https://de88.me/"
+    }
+   ]
+  },
+  {
+   "name": "My Best Friend’s Wedding (1997) เจอกลเกลอวิวาห์อลเวง",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2021/03/6SHRBJG4xVQXmjEG25sUelVsxhE.jpg",
+   "stations": [
+    {
+     "name": "My Best Friend’s Wedding (1997) เจอกลเกลอวิวาห์อลเวง",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2021/03/6SHRBJG4xVQXmjEG25sUelVsxhE.jpg",
+     "url": "https://master.streamhls.com/hls/40f5be662b1aa13d42abac9722b387f3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Before Sunrise (1995) อ้อนตะวันให้หยุด เพื่อสองเรา",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.037hddmovie.com/wp-content/uploads/2020/05/Before-Sunrise-1995-1.jpg",
+   "stations": [
+    {
+     "name": "Before Sunrise (1995) อ้อนตะวันให้หยุด เพื่อสองเรา",
+     "image": "https://www.037hddmovie.com/wp-content/uploads/2020/05/Before-Sunrise-1995-1.jpg",
+     "url": "https://master.streamhls.com/hls/c98f81ad0d33b6dc37c1ccff44418660/master.m3u8",
+     "referer": "https://master.streamhls.com/hls/"
+    }
+   ]
+  },
+  {
+   "name": "Blue Valentine (2010) บลูวาเลนไทน์",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/OgukOCp.jpg",
+   "stations": [
+    {
+     "name": "Blue Valentine (2010) บลูวาเลนไทน์",
+     "image": "https://www.v8-hdd.com/wp-content/uploads/2019/10/OgukOCp.jpg",
+     "url": "https://master.streamhls.com/hls/44c1e6f1f4afb6dd5ae6cf17f6957610/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   }]},
