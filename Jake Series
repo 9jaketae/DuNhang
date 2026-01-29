@@ -1,9 +1,88 @@
 {
  "name": "Jake Series",
- "author": "อัพวันที่ 10-01-2026",
+ "author": "อัพวันที่ 20-01-2026",
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
 
+  {
+   "name": "IDol I (2025) เมนฉันเป็นคนดี ซับไทย",
+   "info": "ซีรีย์เกาหลี ซับไทย",
+   "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+   "stations": [
+    {
+     "name": "EP.1 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/e12c96953fb1a7995017ad06c5c781fb/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.2 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/265cea68fc58ffc48639f1ea6f927d32/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.3 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/3503fcc1907ba58e7aed40b1ef9f3d6b/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.4 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/9379592a7f9049e6b9d1b47097072129/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.5 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/c58c10fde4c8e312fe62c8f3f24d6df2/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.6 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/e71f2c06565ba7c0be9e2ba2755e7a08/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.7 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/9c499e84af9f823f8089efd3838b27ca/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.8 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/522e3e47a38c987b756b1b0b9224ab3c/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.9 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/98896e718a894d188aa68c1350cc4bcd/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.10 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/98bea37d1128f68d305628b386ff54e8/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.11 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/0dfdfb4989407494c15c88bf2ada238b/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "EP.12 IDol I",
+     "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
+     "url": "https://top-cdn.com/hls/9a4f9a1c091590c3291f784978f4a515/master.m3u8",
+     "referer": "https://series-fulls.com/"
+    }
+   ]
+  },
   {
    "name": "Glory (2026) เจตจำนงเกียรติยศ จำนวน 36 ตอน",
    "info": "ซีรีย์จีน ซับไทย",
