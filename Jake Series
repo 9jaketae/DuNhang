@@ -5,6 +5,31 @@
  "groups": [
 
   {
+   "name": "Our Universe จักรวาลบันดาลรัก (ซับไทย) 12 ตอน",
+   "info": "ซีรีย์เกาหลี ซับไทย",
+   "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1 Our Universe",
+     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
+      "url": "https://series.team-indy.net/embed/o4eGACeCjt/",
+      "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2 Our Universe",
+     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
+      "url": "https://series.team-indy.net/embed/hMB5HpTZws/",
+      "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่  Our Universe",
+     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
+      "url": "https://series.team-indy.net/embed/pgjisYrCRn/",
+      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
    "name": "IDol I (2025) เมนฉันเป็นคนดี ซับไทย",
    "info": "ซีรีย์เกาหลี ซับไทย",
    "image": "https://1112hdx.com/wp-content/uploads/2025/12/800.jpg",
