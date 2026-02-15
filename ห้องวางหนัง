@@ -17,15 +17,9 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    "stations": [
     {
      "name": "Gabby’s Dollhouse: The Movie (2025) บ้านตุ๊กตาของแก็บบี้ เดอะ มูฟวี่",
-     "image": "https://new-movie2thai.com/wp-content/uploads/2026/02/t6LLguAmu6iZUN8pWhT7Q0IcaQ5-200x300.jpg",
-     "url": "https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/04/10790/svmc99w5dgss_h/master.m3u8?t=-Xsp6w4vwP0CMGVpzEVgX6RCcc7ndVlFB638btXAi6k&s=1771176646&e=10800&f=53951554&srv=1075&asn=17552&sp=4000&p=0",
-     "referer": "https://f75s.com/"
-    },
-    {
-     "name": "Gabby’s Dollhouse: The Movie (2025) บ้านตุ๊กตาของแก็บบี้ เดอะ มูฟวี่",
-     "image": "https://new-movie2thai.com/wp-content/uploads/2026/02/t6LLguAmu6iZUN8pWhT7Q0IcaQ5-200x300.jpg",
-     "url": "https://edge1-waw-sprintcdn.r66nv9ed.com//svmc99w5dgss",
-     "referer": "https://f75s.com/"
+     "image": "https://nanamovies.org/wp-content/uploads/2026/02/Gabby-s-Dollhouse-The-Movie-2025.webp",
+     "url": "https://nanaplayer.com/jp2eqkoecxou",
+     "referer" : "https://nanamovies.org/"
     }
    ]
   },
