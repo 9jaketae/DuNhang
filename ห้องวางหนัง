@@ -11,6 +11,25 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "One Mile (2026)",
+   "info": "หนังฝรั่ง ซับไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026.webp",
+   "stations": [
+    {
+     "name": "One Mile Chapter One (2026)",
+     "image": "https://nanamovies.org/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026.webp",
+     "url": "https://nanaplayer.com/dqgtn0wfeml5",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "One Mile Chapter Two (2026)",
+     "image": "https://nanamovies.org/wp-content/uploads/2026/02/One-Mile-Chapter-Two-2026.webp",
+     "url": "https://nanaplayer.com/c7wc9uvic9em",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "Gabby’s Dollhouse: The Movie (2025) บ้านตุ๊กตาของแก็บบี้ เดอะ มูฟวี่",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://new-movie2thai.com/wp-content/uploads/2026/02/t6LLguAmu6iZUN8pWhT7Q0IcaQ5-200x300.jpg",
@@ -23,7 +42,6 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
     }
    ]
   },
-
   {
    "name": "Love, Rosie (2014) เพื่อนรักกั๊กเป็นแฟน",
    "info": "หนังฝรั่ง พากย์ไทย",
