@@ -11,6 +11,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
+   "info": "หนังเกาหลี พากย์ไทย",
+   "image": "https://77-hd.com/wp-content/uploads/2026/04/mlFdRsVobj4kfPOxIJpdN3NErVb.jpg",
+   "stations": [
+    {
+     "name": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
+     "image": "https://77-hd.com/wp-content/uploads/2026/04/mlFdRsVobj4kfPOxIJpdN3NErVb.jpg",
+     "url": "https://g.zmdb.net/hls/69db6c9ebd73997c7d604cfa/t.d4a85384ab64fdb9/_master",
+     "referer": "https://zmdb.net/"
+    }
+   ]
+  },
+  {
    "name": "One Mile (2026)",
    "info": "หนังฝรั่ง ซับไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026.webp",
