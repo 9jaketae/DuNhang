@@ -24,6 +24,19 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
    ]
   },
   {
+   "name": "Mudborn (2026) หุ่นดินผี",
+   "info": "หนังจีน พากย์ไทย",
+   "image": "https://www.5g-hd.com/wp-content/uploads/2026/04/Mudborn-2026-375x562.jpg",
+   "stations": [
+    {
+     "name": "Mudborn (2026) หุ่นดินผี",
+     "image": "https://www.5g-hd.com/wp-content/uploads/2026/04/Mudborn-2026-375x562.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/718de6c3912c82a06b4c3008/718de6c3912c82a06b4c3008.m3u8",
+     "referer": "https://www.5g-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "One Mile (2026)",
    "info": "หนังฝรั่ง ซับไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2026/02/One-Mile-Chapter-One-2026.webp",
