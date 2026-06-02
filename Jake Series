@@ -5,6 +5,24 @@
  "groups": [
 
   {
+   "name": "รักหักหลัง",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1774971052.jpg",
+   "stations": [
+    {
+     "name": "รักหักหลัง ตอนที่ 18 (EP.18) วันที่ 1 มิถุนายน 2569",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1774971052.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ab895672c3d6b31fe18f5b20174c27d4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักหักหลัง ตอนที่ 17 (EP.17) วันที่ 26 พฤษภาคม 2569",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1774971052.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3ae052f085fec2fed42c0cd6d0383c38/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "Our Universe จักรวาลบันดาลรัก (ซับไทย) 12 ตอน",
    "info": "ซีรีย์เกาหลี ซับไทย",
    "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
