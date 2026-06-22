@@ -6,27 +6,63 @@
 
 
   {
-   "name": "Our Universe จักรวาลบันดาลรัก (ซับไทย) 12 ตอน",
-   "info": "ซีรีย์เกาหลี ซับไทย",
-   "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
+   "name": "Reborn Rookie (2026) มือใหม่หัดแค้น",
+   "info": "เกาหลี ซับไทย",
+   "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
    "stations": [
     {
-     "name": "ตอนที่ 1 Our Universe",
-     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
-      "url": "https://series.team-indy.net/embed/o4eGACeCjt/",
-      "referer": "https://series.team-indy.net/"
+     "name": "ตอนที่ 1 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/737a8508b990a68060a158cc160b70f1",
+     "referer": "https://getplay-cdn.com"
     },
     {
-     "name": "ตอนที่ 2 Our Universe",
-     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
-      "url": "https://series.team-indy.net/embed/hMB5HpTZws/",
-      "referer": "https://series.team-indy.net/"
+     "name": "ตอนที่ 2 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/17bbffd492acbbdecb84b9bc334eb548",
+     "referer": "https://series-fulls.com/"
     },
     {
-     "name": "ตอนที่  Our Universe",
-     "image": "https://series-indy.com/wp-content/uploads/2026/02/Our-Universe-200x300.webp",
-      "url": "https://series.team-indy.net/embed/pgjisYrCRn/",
-      "referer": "https://series.team-indy.net/"
+     "name": "ตอนที่ 3 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/04b7c955fa18425b5718b9b2b0afe9e8",
+     "referer": "https://series-fulls.com/"
+    },
+    {
+     "name": "ตอนที่ 4 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/8ccc346d3aeaeda2ff76e393f8128a66",
+     "referer": "https://getplay-cdn.com"
+    },
+    {
+     "name": "ตอนที่ 5 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/06db0e938188d93cce2cef957236914e",
+     "referer": "https://getplay-cdn.com"
+    },
+    {
+     "name": "ตอนที่ 6 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/d14a149e1f04e74a674a1b66a871eb4d",
+     "referer": "https://getplay-cdn.com"
+    },
+    {
+     "name": "ตอนที่ 7 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/e78aa3ea4c191fea43df31e4bd3340c3",
+     "referer": "https://getplay-cdn.com"
+    },
+    {
+     "name": "ตอนที่ 8 Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/e7ee594d05ef46c3d736880814939f95",
+     "referer": "https://getplay-cdn.com"
+    },
+    {
+     "name": "ตอนที่  Reborn Rookie",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
+     "url": "https://getplay-cdn.com/embed/",
+     "referer": "https://getplay-cdn.com"
     }
    ]
   },
