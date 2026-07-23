@@ -11,6 +11,26 @@ url: "https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/Movies"
  "groups": [
 
   {
+   "name": "Alienoid",
+   "info": "หนังเกาหลี ซับไทย",
+   "image": "https://www.24-hdx.com/wp-content/uploads/2022/09/Alienoid-2022-187x269.jpg",
+   "stations": [
+    {
+     "name": "Alienoid 2 The Return to the Future (2024)",
+     "image": "https://www.24-hdx.com/wp-content/uploads/2024/04/Alienoid-2-The-Return-to-the-Future-2024-1-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/989d49f568702ed4a8d9b115/989d49f568702ed4a8d9b115.m3u8",
+     "referer": "https://www.24-hdx.com/"
+    },
+    {
+     "name": "Alienoid (2022)",
+     "image": "https://www.24-hdx.com/wp-content/uploads/2022/09/Alienoid-2022-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/34c500d7d49bdc377c6bf0d3/34c500d7d49bdc377c6bf0d3.m3u8",
+     "referer": "https://www.24-hdx.com/"
+    }
+   ]
+  },
+
+  {
    "name": "Pretty Crazy (2025) เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่",
    "info": "หนังเกาหลี พากย์ไทย",
    "image": "https://nanamovies.org/wp-content/uploads/2026/04/Pretty-Crazy-2025.webp",
