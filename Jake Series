@@ -5,6 +5,74 @@
  "groups": [
 
   {
+   "name": "Xiao Fang (2026) เสี่ยวฟาง",
+   "info": "ซีรีย์จีน ซับไทย",
+   "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1 เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "https://media.vdohls.com/xH_xjgR-G3wYY/playlist.m3u8",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่ 2 เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "https://media.vdohls.com/pc-QE9A8hd_ZL/playlist.m3u8",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่ 3 เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "https://media.vdohls.com/sH-ZCLG5I_GYY/playlist.m3u8",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่ 4 เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "https://media.vdohls.com/nqK-CgHQ_ODDk/playlist.m3u8",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่ 5 เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "https://media.vdohls.com/XT4sv-xfs3_tE/playlist.m3u8",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่  เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่  เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่  เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่  เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "",
+     "referer": "https://okserietv.com/"
+    },
+    {
+     "name": "ตอนที่  เสี่ยวฟาง",
+     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+     "url": "",
+     "referer": "https://okserietv.com/"
+    }
+   ]
+  },
+
+  {
    "name": "Reborn Rookie (2026) มือใหม่หัดแค้น",
    "info": "เกาหลี ซับไทย",
    "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-9.jpg",
