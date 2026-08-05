@@ -5,79 +5,48 @@
  "groups": [
 
   {
-   "name": "Xiao Fang (2026) เสี่ยวฟาง",
-   "info": "ซีรีย์จีน ซับไทย",
-   "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
+   "name": "Spooky in Love (2026) สะดุดรักกุ๊กกุ๊กกู๋",
+   "info": "ซีรีย์เกาหลี ซับไทย",
+   "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
    "stations": [
     {
-     "name": "ตอนที่ 1 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/61a76166854bbde74f2af2fa31c2b4a4",
-     "referer": "https://wow-drama.com/"
+     "name": "ตอนที่ 1 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Sjz2pwmqnp/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     },
     {
-     "name": "ตอนที่ 2 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/43c452dfe4dedd1d33a9180bd6af953f",
-     "referer": "https://wow-drama.com/"
+     "name": "ตอนที่ 2 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/cdphfOsFXA/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     },
     {
-     "name": "ตอนที่ 3 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/8ed3f790c9f37dacef72a19aec6eefb5",
-     "referer": "https://wow-drama.com/"
+     "name": "ตอนที่ 3 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rWh4YnUbVy/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     },
     {
-     "name": "ตอนที่ 4 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/98c927a3979697925b60168239179d04",
-     "referer": "https://wow-drama.com/"
+     "name": "ตอนที่ 4 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mCmQ5eb2Aa/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     },
     {
-     "name": "ตอนที่ 5 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/f8b6538489232ff5889053f4b3a4d27a",
-     "referer": "https://wow-drama.com/"
+     "name": "ตอนที่ 5 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Cx4e6BLT0x/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     },
     {
-     "name": "ตอนที่ 6 เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "https://getplay-cdn.com/embed/538a5171791cb629faffe112d43df9b1",
-     "referer": "https://okserietv.com/"
-    },
-    {
-     "name": "ตอนที่  เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "",
-     "referer": "https://okserietv.com/"
-    },
-    {
-     "name": "ตอนที่  เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "",
-     "referer": "https://okserietv.com/"
-    },
-    {
-     "name": "ตอนที่  เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "",
-     "referer": "https://okserietv.com/"
-    },
-    {
-     "name": "ตอนที่  เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "",
-     "referer": "https://okserietv.com/"
-    },
-    {
-     "name": "ตอนที่  เสี่ยวฟาง",
-     "image": "https://okserietv.com/wp-content/uploads/2026/07/Xiao-Fang-2026.webp",
-     "url": "",
-     "referer": "https://okserietv.com/"
+     "name": "ตอนที่ 6 สะดุดรักกุ๊กกุ๊กกู๋ (ซับไทย)",
+     "image": "https://seriesindy.com/wp-content/uploads/2026/06/Spooky-in-Love-200x300.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Rv0LMNLfGv/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
     }
    ]
   },
-
   {
    "name": "Reborn Rookie (2026) มือใหม่หัดแค้น",
    "info": "เกาหลี ซับไทย",
