@@ -3,7 +3,65 @@
  "author": "อัพวันที่ 20-01-2026",
  "image": "https://f.ptcdn.info/440/046/000/oeigu0763hlwOMD1jwY-o.jpg",
  "groups": [
-
+  
+  {
+   "name": "Where the Mask Ends (2026) ปลดหน้ากาก",
+   "info": "ซีรีย์จีน  พากย์ไทย จำนวน 24 ตอน",
+   "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 7 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/y9R6JWZzeH/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
+    },
+    {
+     "name": "ตอนที่ 7 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://torbo007.com/embed/ef51b0f2bfa1b702cab00d8551fa26d3"
+     "referer": "https://torbo007.com/",
+    "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ตอนที่ 8 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Yl4TcLL1m5/video.mp4/playlist.m3u8",
+     "referer": "https://seriesindy.com/"
+    },
+    {
+     "name": "ตอนที่ 8 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://torbo007.com/embed/fb88c799b73c312823b7ee740f3cd563"
+     "referer": "https://torbo007.com/",
+    "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ตอนที่ 9 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://torbo007.com/embed/9bb6b69d99a3dedd0d84dd80d46d8ed2",
+     "referer": "https://torbo007.com/"
+    },
+    {
+     "name": "ตอนที่ 10 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://torbo007.com/embed/7d9690c86191582cd01f6e1a47438715",
+     "referer": "https://goseries4k.com/where-the-mask-ends/",
+    "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ตอนที่ 10 ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "https://torbo007.com/api/stream/e9711a735a3596c15b16cdda2d2b9682413988c36072f13d256888f1ea6b3682/index.m3u8?token=504c70f28670a6c2618904fa96036660bdc807d9e8b0bdb0360c620e9a2d128b&expires=1792400735&parent=goseries4k.com&sid=c060528a.m3u",
+     "referer": "https://goseries4k.com/"
+    },
+    {
+     "name": "ตอนที่  ปลดหน้ากาก",
+     "image": "https://goseries4k.com/wp-content/uploads/2026/10/9-10-foxywebp.webp",
+     "url": "",
+     "referer": "https://seriesindy.com/"
+    }
+   ]
+  },
   {
    "name": "Spooky in Love (2026) สะดุดรักกุ๊กกุ๊กกู๋",
    "info": "ซีรีย์เกาหลี ซับไทย",
